@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: eun0iaArete.github.io
+  baseUrl: "https://elisedavidsonn.github.io/eun0iaArete/"
   ignorePatterns:
     - private
     - templates
