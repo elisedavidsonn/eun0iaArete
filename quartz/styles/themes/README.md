@@ -1,13 +1,13 @@
-# Agate
+# LessWrong
 
-- Theme: Agate
-- Author: solmi
+- Theme: LessWrong
+- Author: <a href="https://x.com/arithmoquine" target="_blank" rel="noopener noreferrer">henry</a>
 
 ## Preview
 
-[Open live preview (Quartz)](https://quartz-themes.github.io/agate/)
+[Open live preview (Quartz)](https://quartz-themes.github.io/lesswrong/)
 
-[Open live preview (Publish)](https://publish.saberzero.one/agate)
+[Open live preview (Publish)](https://publish.saberzero.one/lesswrong)
 
 ## Usage (Quartz)
 
@@ -15,7 +15,7 @@
 
 ```yaml
 env:
-  THEME_NAME: agate
+  THEME_NAME: lesswrong
 ```
 
 ```yaml
@@ -28,7 +28,7 @@ env:
 ```bash
 curl -s -S -o action.sh https://raw.githubusercontent.com/saberzero1/quartz-themes/master/action.sh
 
-./action.sh agate
+./action.sh lesswrong
 ```
 
 ### Manual install
