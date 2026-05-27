@@ -1,8 +1,13 @@
 ---
-title: Welcome to Quartz
+title: Eun0iaArete
 description:
+publish:
 tags:
-date:
 ---
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+**Eunoia** - noun
+the feeling of goodwill between speaker and audience
+
+**Arete** - noun
+denoting an excellence of any kind
+
+
