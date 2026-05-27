@@ -1,15 +1,22 @@
 ---
 title: Eun0iaArete
 description:
-publish:
+publish: "true"
 tags:
 quartz-properties: "false"
 ---
-**Eunoia** - noun
-the feeling of goodwill between speaker and audience
 
-**Arete** - noun
-denoting an excellence of any kind
+>  **Eunoia** - noun
+>  the feeling of goodwill between speaker and audience
+>  
+>  **Arete** - noun
+>  the denotation of excellence of any kind
+
+Welcome to ***Eun0iaArete***. 
+
+My name is Eli(se) Davidson, an aspiring post-Civil War American genealogist and archivist with degrees in Anthropology and English Literary Theory. This website, created with [Quartz v5](https://quartz.jzhao.xyz/) by [JackyZhao](https://jzhao.xyz/) and saberzero1, acts as a host for my plentiful encounters. 
+
+## On My [[Bookshelf]]
 
 
 
