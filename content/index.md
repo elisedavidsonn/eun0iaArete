@@ -3,6 +3,7 @@ title: Eun0iaArete
 description:
 publish:
 tags:
+quartz-properties: "false"
 ---
 **Eunoia** - noun
 the feeling of goodwill between speaker and audience
