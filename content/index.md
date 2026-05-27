@@ -1,5 +1,5 @@
 ---
-title: Eun0iaArete
+title:
 description:
 publish: "true"
 tags:
