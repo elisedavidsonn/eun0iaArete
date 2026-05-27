@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: "https://elisedavidsonn.github.io/eun0iaArete/"
+  baseUrl: https://elisedavidsonn.github.io/eun0iaArete/
   ignorePatterns:
     - private
     - templates
@@ -253,13 +253,6 @@ plugins:
       position: beforeBody
       priority: 15
       display: all
-  - source:
-      name: quartz-themes
-      repo: github:saberzero1/quartz-themes
-      subdir: plugin
-    enabled: true
-    options:
-      theme: default
   - source: github:quartz-community/obsidian-plugin-excalidraw
     enabled: true
     options:
