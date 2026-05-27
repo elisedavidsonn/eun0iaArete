@@ -22,3 +22,26 @@ hr {
   }
 }
 
+// the cute page dividers
+.page-sparkle-divider {
+  text-align: center;
+  color: var(--gray);
+  margin: 0;
+}
+a.see-more {
+  color: var(--gray)
+}
+
+//superscripts aka footnotes being small and middled
+sup {
+  font-size: 0.65em;
+  vertical-align: top;
+}
+
+blockquote.transclude {
+  border-left: double;
+}
+
+.all-tags-list-p {
+  line-height: 2em;
+}
