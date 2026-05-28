@@ -149,6 +149,10 @@ plugins:
     enabled: true
   - source: github:quartz-community/explorer
     enabled: true
+    options:
+      folderClickBehavior: collapse # "link" to navigate or "collapse" to toggle
+      folderDefaultState: collapsed # "collapsed" or "open"
+      useSavedState: true
     layout:
       position: left
       priority: 50
@@ -285,4 +289,3 @@ layout:
         right: []
     canvas: {}
     bases: {}
-    
