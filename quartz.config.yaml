@@ -285,8 +285,4 @@ layout:
         right: []
     canvas: {}
     bases: {}
-  - source: github:quartz-community/explorer
-    enabled: true
-    layout:
-      position: left
-      priority: 50
+    
