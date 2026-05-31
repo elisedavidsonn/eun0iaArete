@@ -14,9 +14,12 @@ quartz-properties: "false"
 
 Welcome. 
 
-My name is Eli(se) Davidson, an aspiring post-Civil War American genealogist and archivist with degrees in Anthropology and English Literary Theory. This website, created with [Quartz v5](https://quartz.jzhao.xyz/) by [JackyZhao](https://jzhao.xyz/) and saberzero1, acts as a host for my encounters. 
+My name is Eli(se) Davidson. I am an aspiring post-Civil War genealogist and archivist with B.A.s in Anthropology and English Literary Theory. 
 
-## Currently Reading from My [[Bookshelf/]]
+
+This website, created with [Quartz v5](https://quartz.jzhao.xyz/) by [JackyZhao](https://jzhao.xyz/)  is a space for both personal and academic reference. 
+
+## From My [[Bookshelf/]]
 
 
 
