@@ -1,7 +1,6 @@
 ---
 title:
 description:
-publish: "true"
 tags:
 quartz-properties: "false"
 ---
