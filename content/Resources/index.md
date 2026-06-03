@@ -1,10 +1,11 @@
 ---
 title: Resources
-description: Often web links.
+quartz-properties: "true"
 ---
 
 
 # Genealogy
+[[Ahnentafel]]
 
 ## Region
 #northeast #midwest #south #west
