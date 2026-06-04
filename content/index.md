@@ -11,15 +11,13 @@ quartz-properties: "false"
 >  **Arete** ✤ *noun*
 >  the notion of excellence; the fulfillment of purpose or function.
 
-Welcome. 
+Welcome! 
 
-My name is Eli(se) Davidson. I am an aspiring post-Civil War genealogist and archivist with B.A.s in Anthropology and English Literary Theory. 
+My name is Eli(se) Davidson. I am an aspiring genealogist and archivist with B.A.s in Anthropology and English Literary Theory.
 
+<!-- This is where I will create buttons? -->
 
-This website, created with [Quartz v5](https://quartz.jzhao.xyz/) by [JackyZhao](https://jzhao.xyz/)  is a space for both personal and academic reference. 
-
-## From My [[Bookshelf/]]
-
+This website, created with [Quartz v5](https://quartz.jzhao.xyz/) by [JackyZhao](https://jzhao.xyz/). As a "commonplace blog" I hope this to become a space for both personal and academic reference. 
 
 
 
