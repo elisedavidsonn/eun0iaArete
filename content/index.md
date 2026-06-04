@@ -15,6 +15,8 @@ Welcome!
 
 My name is Eli(se) Davidson. I am an aspiring genealogist and archivist with B.A.s in Anthropology and English Literary Theory.
 
+Here's to local histories, forgotten voices, and finding self; converging the times and theories to make sense and action in the now. 
+
 <!-- This is where I will create buttons? -->
 
 This website, created with [Quartz v5](https://quartz.jzhao.xyz/) by [JackyZhao](https://jzhao.xyz/). As a "commonplace blog" I hope this to become a space for both personal and academic reference. 
