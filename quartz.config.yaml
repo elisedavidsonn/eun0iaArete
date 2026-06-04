@@ -150,7 +150,7 @@ plugins:
   - source: github:quartz-community/explorer
     enabled: true
     options:
-      folderClickBehavior: collapse # "link" to navigate or "collapse" to toggle
+      folderClickBehavior: link # "link" to navigate or "collapse" to toggle
       folderDefaultState: collapsed # "collapsed" or "open"
       useSavedState: true
     layout:
@@ -195,7 +195,7 @@ plugins:
       position: left
       priority: 10
   - source: github:quartz-community/darkmode
-    enabled: true
+    enabled: false
     layout:
       position: left
       priority: 30
@@ -213,7 +213,7 @@ plugins:
       priority: 5
       condition: not-index
   - source: github:quartz-community/comments
-    enabled: false
+    enabled: true
     options:
       provider: giscus
       options: {}
@@ -227,7 +227,7 @@ plugins:
         GitHub: https://github.com/jackyzha0/quartz
         Discord Community: https://discord.gg/cRFFHYye7t
   - source: github:quartz-community/recent-notes
-    enabled: false
+    enabled: true
   - source: github:quartz-community/spacer
     enabled: true
     options: {}
