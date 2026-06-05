@@ -16,8 +16,8 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Półtawski Nowy
-      body: Półtawski Nowy
+      header: Schibsted Grotesk
+      body: Source Sans Pro
       code: IBM Plex Mono
     colors:
       lightMode:
