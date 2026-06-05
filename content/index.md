@@ -19,7 +19,7 @@ Here's to local histories, forgotten voices, and finding self; converging the ti
 
 <!-- This is where I will create buttons? -->
 
-This website, created with [Quartz v5](https://quartz.jzhao.xyz/) by [JackyZhao](https://jzhao.xyz/). As a "commonplace blog" I hope this to become a space for both personal and academic reference. 
+This website, created with [Quartz v5](https://quartz.jzhao.xyz/) by [JackyZhao](https://jzhao.xyz/). Inspired by similar philosophies, I hope this "commonplace blog" may become a space for both personal and academic reference. 
 
 
 
