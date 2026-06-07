@@ -22,6 +22,8 @@ mother: "[[Ann Elizabeth Gray]]"
 mother_id: mpd-032-oew-265
 spouse:
 group_name:
+tags:
+  - WIP
 ---
 
 # Research Notes

@@ -13,6 +13,8 @@ children_id: ypw-564-efr-674
 children:
   - "[[John Joseph Mahorney, Jr.]]"
   - "[[Gertrude Amelia Mahorney]]"
+tags:
+  - WIP
 ---
 
 # Research Notes

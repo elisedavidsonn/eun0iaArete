@@ -24,6 +24,8 @@ group_name:
 root_person: true
 father: "[[John Todd Mahorney]]"
 father_id: bfl-878-dod-322
+tags:
+  - WIP
 ---
 
 # Research Notes

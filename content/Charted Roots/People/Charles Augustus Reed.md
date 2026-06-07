@@ -11,6 +11,8 @@ mother:
 spouse: "[[Gertrude Amelia Mahorney]]"
 group_name:
 spouse_id: adh-611-zpl-177
+tags:
+  - WIP
 ---
 
 # Research Notes
