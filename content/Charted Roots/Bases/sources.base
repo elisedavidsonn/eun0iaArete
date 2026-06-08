@@ -1,0 +1,206 @@
+visibleProperties:
+  - note.name
+  - note.source_type
+  - note.source_repository
+  - note.source_date
+  - note.confidence
+  - note.collection
+  - note.location
+summaries:
+  total_sources: values.length
+filters:
+  and:
+    - cr_type == "source"
+formulas:
+  display_name: title || file.name
+  has_media: if(media, "Yes", "No")
+  year_only: if(source_date, source_date.year, "")
+properties:
+  cr_id:
+    displayName: ID
+  note.title:
+    displayName: Title
+  note.source_type:
+    displayName: Type
+  note.source_repository:
+    displayName: Repository
+  note.source_date:
+    displayName: Date
+  note.source_date_accessed:
+    displayName: Accessed
+  note.confidence:
+    displayName: Confidence
+  note.collection:
+    displayName: Collection
+  note.location:
+    displayName: Location
+  note.source_repository_url:
+    displayName: URL
+  note.media:
+    displayName: Media
+  formula.display_name:
+    displayName: Display Name
+  formula.has_media:
+    displayName: Has Media
+  formula.year_only:
+    displayName: Year
+views:
+  - type: table
+    name: All Sources
+    order:
+      - file.name
+      - source_date
+      - media
+      - source_type
+      - source_repository
+      - confidence
+      - file.ctime
+      - principals
+    sort:
+      - property: title
+        direction: ASC
+    columnSize:
+      file.name: 184
+      note.title: 187
+  - type: table
+    name: By Type
+    groupBy:
+      property: source_type
+      direction: ASC
+    order:
+      - title
+  - type: table
+    name: By Repository
+    groupBy:
+      property: source_repository
+      direction: ASC
+    order:
+      - title
+  - type: table
+    name: By Confidence
+    groupBy:
+      property: confidence
+      direction: ASC
+    order:
+      - title
+  - type: table
+    name: Vital Records
+    filters:
+      and:
+        - source_type == "vital_record"
+    order:
+      - source_date
+  - type: table
+    name: Census Records
+    filters:
+      and:
+        - source_type == "census"
+    order:
+      - source_date
+  - type: table
+    name: Church Records
+    filters:
+      or:
+        - source_type == "church_record"
+        - source_type == "parish_register"
+    order:
+      - source_date
+  - type: table
+    name: Legal Documents
+    filters:
+      or:
+        - source_type == "will"
+        - source_type == "probate"
+        - source_type == "land_record"
+        - source_type == "court_record"
+    order:
+      - source_date
+  - type: table
+    name: Military Records
+    filters:
+      and:
+        - source_type == "military_record"
+    order:
+      - source_date
+  - type: table
+    name: Photos & Media
+    filters:
+      or:
+        - source_type == "photograph"
+        - source_type == "newspaper"
+    order:
+      - source_date
+  - type: table
+    name: High Confidence
+    filters:
+      and:
+        - confidence == "high"
+    order:
+      - title
+  - type: table
+    name: Low Confidence
+    filters:
+      or:
+        - confidence == "low"
+        - confidence == "unknown"
+    order:
+      - title
+  - type: table
+    name: With Media
+    filters:
+      and:
+        - "!media.isEmpty()"
+    order:
+      - title
+  - type: table
+    name: Missing Media
+    filters:
+      and:
+        - media.isEmpty()
+    order:
+      - title
+  - type: table
+    name: By Date
+    filters:
+      and:
+        - "!source_date.isEmpty()"
+    order:
+      - source_date
+  - type: table
+    name: Recently Accessed
+    filters:
+      and:
+        - "!source_date_accessed.isEmpty()"
+    order:
+      - source_date_accessed
+  - type: table
+    name: By Collection
+    filters:
+      and:
+        - "!collection.isEmpty()"
+    groupBy:
+      property: collection
+      direction: ASC
+    order:
+      - title
+  - type: table
+    name: By Location
+    filters:
+      and:
+        - "!location.isEmpty()"
+    groupBy:
+      property: location
+      direction: ASC
+    order:
+      - title
+  - type: cards
+    name: Media Gallery
+    filters:
+      and:
+        - "!media.isEmpty()"
+    order:
+      - title
+      - source_type
+      - source_date
+    image: note.media
+    imageFit: contain

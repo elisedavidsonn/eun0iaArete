@@ -1,0 +1,164 @@
+visibleProperties:
+  - note.name
+  - formula.map_link
+  - note.place_type
+  - note.parent_place
+  - note.universe
+  - note.collection
+  - note.aliases
+summaries:
+  total_places: values.length
+filters:
+  and:
+    - cr_type == "place"
+formulas:
+  display_name: name || file.name
+  coordinates: if(coordinates_lat, coordinates_lat + ", " + coordinates_long, "")
+  map_link: if(coordinates_lat, link("obsidian://canvas-roots-map?lat=" + coordinates_lat + "&lng=" + coordinates_long + "&zoom=12", "📌"), "")
+  has_coords: if(coordinates_lat, "Yes", "No")
+  hierarchy_path: if(parent_place, parent_place + " → " + name, name)
+properties:
+  cr_id:
+    displayName: ID
+  note.name:
+    displayName: Name
+  note.place_type:
+    displayName: Type
+  note.place_category:
+    displayName: Category
+  note.parent_place:
+    displayName: Parent
+  note.coordinates_lat:
+    displayName: Latitude
+  note.coordinates_long:
+    displayName: Longitude
+  formula.coordinates:
+    displayName: Coordinates
+  formula.map_link:
+    displayName: Map
+  note.universe:
+    displayName: Universe
+  note.collection:
+    displayName: Collection
+  note.aliases:
+    displayName: Aliases
+  formula.display_name:
+    displayName: Display Name
+  formula.has_coords:
+    displayName: Has Coords
+  formula.hierarchy_path:
+    displayName: Hierarchy
+views:
+  - type: table
+    name: All Places
+    order:
+      - file.name
+      - name
+      - formula.map_link
+      - place_type
+      - place_category
+      - parent_place
+  - type: table
+    name: By Type
+    groupBy:
+      property: place_type
+      direction: ASC
+    order:
+      - file.name
+      - name
+  - type: table
+    name: By Category
+    groupBy:
+      property: place_category
+      direction: ASC
+    order:
+      - name
+  - type: table
+    name: Countries
+    filters:
+      and:
+        - place_type == "country"
+    order:
+      - file.name
+      - name
+  - type: table
+    name: States/Provinces
+    filters:
+      or:
+        - place_type == "state"
+        - place_type == "province"
+    order:
+      - name
+  - type: table
+    name: Cities/Towns
+    filters:
+      or:
+        - place_type == "city"
+        - place_type == "town"
+        - place_type == "village"
+    order:
+      - name
+  - type: table
+    name: Real Places
+    filters:
+      and:
+        - place_category == "real"
+    order:
+      - name
+  - type: table
+    name: Historical Places
+    filters:
+      and:
+        - place_category == "historical"
+    order:
+      - name
+  - type: table
+    name: Fictional Places
+    filters:
+      and:
+        - place_category == "fictional"
+    order:
+      - name
+  - type: table
+    name: By Universe
+    filters:
+      and:
+        - "!universe.isEmpty()"
+    groupBy:
+      property: universe
+      direction: ASC
+    order:
+      - name
+  - type: table
+    name: With Coordinates
+    filters:
+      and:
+        - "!coordinates_lat.isEmpty()"
+    order:
+      - name
+      - formula.map_link
+  - type: table
+    name: Missing Coordinates
+    filters:
+      and:
+        - coordinates_lat.isEmpty()
+    order:
+      - file.name
+      - name
+  - type: table
+    name: Orphan Places
+    filters:
+      and:
+        - parent_place.isEmpty()
+    order:
+      - name
+  - type: table
+    name: By Collection
+    filters:
+      and:
+        - "!collection.isEmpty()"
+    groupBy:
+      property: collection
+      direction: ASC
+    order:
+      - name

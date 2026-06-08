@@ -1,20 +1,16 @@
 ---
-cr_id: bfl-878-dod-322
+cr_id: ysw-883-kmd-688
 cr_type: person
-name: John Todd Mahorney
-born: 1829-10-27
-died:
+name: Joseph E. Mahoney
+born: 1842
+died: ""
 sex: male
-father:
-mother:
+father: ""
+mother: ""
 spouse:
-group_name:
-children_id: ypw-564-efr-674
-children:
-  - "[[John Joseph Mahorney, Jr.]]"
-  - "[[Gertrude Amelia Mahorney]]"
-tags:
-  - WIP
+group_name: ""
+spouses: []
+children: []
 ---
 
 # Research Notes
