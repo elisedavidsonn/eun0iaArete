@@ -17,8 +17,6 @@ evidence_classification: indirect
 principals:
   - "[[Gertrude Amelia (Mahorney) Reed]]"
 ---
-# 1910Census-Maho_r_ney
-
 ## Census Information
 
 | Field                | Value             |
@@ -40,9 +38,7 @@ principals:
 | Julia --       | Wife/In-Law[?]  | 40yrs/f/mu/mar<br>M=2children;0living | MO         | KY   | KY   | Note                   |
 | Gertrude --    | Roomer/==SELF== | 25yrs/f/mu/s                          | IN         | PA   | MD   | Teacher, Public School |
 | Charles Porter | Roomer          | 25yrs/m/mu/s                          | IL         | IL   | IL   | Mail Carrier           |
-
-## Transcription
-Occupation for Charles Porter has "city" crossed out and replaced with Private Family.
+**Occupation for Charles Porter has "city" crossed out and replaced with Private Family.
 
 ## Research Notes
 **Residence:** Renting @ 1222 N. Capital Avenue, Indianapolis, Indiana

@@ -40,7 +40,7 @@ children: []
 > 
 > Research Conducted by:
 > - **Eli(se) Davidson**, Butler University Alum 2026 (Butler University)
-> - **Kyle Stearns, University Archivist**(Butler University)**
+> - **Kyle Stearns,** University Archivist (Butler University)
 > - **Dr. Anne Wilson**, Professor of Chemistry and Biochemistry (Butler University)
 > - **Liz Hunt Vanderham**, Genealogy Hunt
 > - **Megan McKee**, Special Collections Assistant (Butler University)
@@ -53,8 +53,10 @@ children: []
 | **Parents**:                                                                                      | **Grandparents**:                                                        |
 | [[John Todd Mahorney, Sr.\|John Todd Mahorney, Sr.]] (1829-1890) <br> Chambersburg, PA / Irvington, IN | [[Joseph H. Mahorney]] <br> [[Lucinda (UNK)]]                            |
 | [[Ann Elizabeth (Gray) Mahorney]] (1834-1904) <br> Poughkeepsie, NY / Indianapolis, IN                       | [[Jared L. Gray, Sr.]] <br> [[Elizabeth (Wood)]] & [Step] [[Johanna (Jalss)]] |
-
+# BIOGRAPHY
+Gertrude Amelia Mahorney was born on October 27th, either in the year 1863 or 1864, to John Todd Mahorney and Ann Elizabeth Gray in Indianapolis, Indiana. 
 ## TABLE OF CONTENTS
+- [[#BIOGRAPHY]]
 - [[#Research Notes]]
 - [[#Discrepancy Warnings]]
 - [[#Family Facts]]
@@ -83,7 +85,7 @@ children: []
 	- Source: IndyNews, 24 Aug 1878
 - Gertrude was taught German by her mother's mother, Johanna Gray (Prussian)
 #### Name Spellings
-Mahorney, Mahoney, Mahony, ==Reed== 
+Mahorney, Mahoney, Mahony, ==Reed==/Reid
 #### Confirming Relationships / Networks
 - UNK = W.H. Stokes Family
 - UNK = Mary Josephine (Writt) Tocas (1877-1948)
@@ -147,27 +149,27 @@ Mahorney, Mahoney, Mahony, ==Reed==
 |                         | 1942    | Bob Eli's Barbershop              | [[Detroit, MI\|Detroit, MI]]           |
 |                         |         | [[-Cockfield Funeral Home]]        | [[Detroit, MI\|Detroit, MI]]           |
 #### Residences
-* **1872** = 235 Blake Street, Indianapolis, Indiana
+* **1872** = [[IndianapolisIN-235 Blake St|235 Blake Street, Indianapolis, Indiana]]
 	- Source: Fourth Ward | [Ancestry.com, 1870 United States Federal Census](https://www.ancestry.com/sharing/47689535?mark=7b22746f6b656e223a224d5756356e787332512f2b5157692b4c4343724e51544d50545052643078783636344b2b612f414d4341453d222c22746f6b656e5f76657273696f6e223a225632227d)
 	- Source: 10th Sect. Div. 4th & Indianapolis | [Ancestry.com, 1871 United States Federal Census](https://www.ancestry.com/sharing/62441463?mark=7b22746f6b656e223a227a75366750444238774959702b7948724775493744416d51517068516949325276436c672b384a47794e453d222c22746f6b656e5f76657273696f6e223a225632227d)
-* **1894** = 358 West 2nd Street, Indianapolis, Indiana
+* **1894** = [[IndianapolisIN-358 W 2nd St|358 West 2nd Street, Indianapolis, Indiana]]
 	- Source: #genealogy/needsSource
-* **1895** = 225 West 2nd Street, Indianapolis, Indiana
+* **1895** = [[IndianapolisIN-225 W 2nd St|225 West 2nd Street, Indianapolis, Indiana]]
 	- Source: #genealogy/needsSource 
-* **1899-1902** = 710 West 11th Street, Indianapolis, Indiana
+* **1899-1902** = [[IndianapolisIN-710 W 11th St|710 West 11th Street, Indianapolis, Indiana]]
 	- Source: Irvington | [Ancestry.com, 1900 United States Federal Census](https://www.ancestry.com/sharing/62434241?mark=7b22746f6b656e223a2264546b4c5465785a62304b4a75724a4c757a6442576c63534b794c6c544a48556a4c7468667351707838493d222c22746f6b656e5f76657273696f6e223a225632227d)
 	- NOTE: 11th Street originally 2nd Street = source: 1898 Sanborn
-- **1904** = 1422 North Senate Avenue, Indianapolis Indiana
+- **1904** = [[IndianapolisIN-1422 N Senate Ave|1422 North Senate Avenue, Indianapolis Indiana]]
 	- Source: (Mother) Ann Elizabeth (Gray) Mahorney's DC
-- **1905** = 708 West 11th Street, Indianapolis, Indiana
+- **1905** = [[IndianapolisIN-708 W 11th St|708 West 11th Street, Indianapolis, Indiana]]
 	- Source: #genealogy/needsSource 
-- **1906-1907** = 1303 East 11th Street, Indianapolis, Indiana
+- **1906-1907** = [[IndianapolisIN-1303 E 11th St|1303 East 11th Street, Indianapolis, Indiana]]
 	- Source: #genealogy/needsSource 
-- **1909-1910** = 1222 North Capitol Avenue, Indianapolis, Indiana
+- **1909-1910** = [[IndianapolisIN-1222 N Capitol Ave|1222 North Capitol Avenue, Indianapolis, Indiana]]
 	- Source: Indianapolis | [Ancestry.com, 1910 United States Federal Census](https://www.ancestry.com/sharing/57949648?mark=7b22746f6b656e223a22386a5465616231792f453342426b664877713149344c544b783468673143483954796e6d7943442b7456673d222c22746f6b656e5f76657273696f6e223a225632227d)
-- **1912** = 1243 East 11th Street, Indianapolis, Indiana
+- **1912** = [[IndianapolisIN-1243 E 11th St|1243 East 11th Street, Indianapolis, Indiana]]
 	- Source: Present in Rockville - Address taken from Alumni Directory (1856-1912)
-- **1915** = 263 Eliot Street, Detroit, Michigan
+- **1915** = [[DetroitMI-263 Eliot St|263 Eliot Street, Detroit, Michigan]]
 	- Source: April 27, 1915, letter from Gerturde Mahorney to Thomas Carr Howe
 
 #### Residences (Unconfirmed)
@@ -175,12 +177,12 @@ Mahorney, Mahoney, Mahony, ==Reed==
 	- Source: #genealogy/needsSource 
 - **1917** = 290 Calumet, Detroit, Michigan
 	- Source: Charles Reed's WWI Draft Card | [Ancestry.com](https://www.ancestry.com/sharing/62436406?mark=7b22746f6b656e223a22514b59676f6e79316d6132624c70717672367a79575546374c7077575a4b564d4775394c3245575a6a6d303d222c22746f6b656e5f76657273696f6e223a225632227d)
-- **1920** = 672 William Avenue, Detroit, Michigan [w/ Charles Reed\]
+- **1920** = [[DetroitMI-672 William Ave|672 William Avenue, Detroit, Michigan]] [w/ Charles Reed\]
 	- Source: Detroit | [Ancestry.com, 1920 United States Federal Census](https://www.ancestry.com/sharing/62437029?mark=7b22746f6b656e223a2236414a6553536e553773696744667350304e6f6d653957394b573045626b72696c2b7a7831374a4a5a50303d222c22746f6b656e5f76657273696f6e223a225632227d)
-- **1930** = 3549 18th Street, Detroit, Michigan [w/ Charles Reed]
+- **1930** = [[DetroitMI-3549 18th St|3549 18th Street, Detroit, Michigan]] [w/ Charles Reed]
 	- Source: Detroit | [Ancestry.com, 1930 United States Federal Census](https://www.ancestry.com/sharing/62437639?mark=7b22746f6b656e223a227339556f57506b7347357873436570576a744c47764370784a697837356958346c6c346a7335774b742f733d222c22746f6b656e5f76657273696f6e223a225632227d)
 	- NOTE: 18th Street, originally Wilkins Street = source: ??? #genealogy/needsSource 
-- **1942** = 5862 John R. Street, Detroit, Michigan
+- **1942** = [[DetroitMI-5862 John R St|5862 John R. Street, Detroit, Michigan]]
 	- Source: Charles Reed's Death Certificate | Ancestry.com
 	- NOTE: Charles is recorded as being in the State Hospital as of 1940 Census - he was supposedly identified as John Doe No. 59 in Michigan in Jan. 1942 \* his Death Certificate states the address, signed by Gertrude A. Reed  - Charles was found outside of 1902 St. Antoine, a barbershop by the name of Bob Eli's  - Charles' Funeral Director was E.W. Cockfield, who Charles and Gertrude lived with during the 1920 census. In that census, Ernest W Cockfield profession is listed as an undertaker.1950 = Wayne County General Hospital and Infirmary, V32 Farm Cottage, Michigan
 		- Source: Michigan | [Ancestry.com, 1950 United States Federal Census](https://www.ancestry.com/sharing/62438832?mark=7b22746f6b656e223a224c79376e6e7744766a46636d4a5a7961533976734c315238552b4372353931714748524c344d5046544c383d222c22746f6b656e5f76657273696f6e223a225632227d)

@@ -6,6 +6,9 @@ place_type: county
 parent_place: "[[Pennsylvania]]"
 coordinates_lat: 40.4597204
 coordinates_long: -79.9760405
+collection: Mahorney Family
+principals:
+  - "[[Gertrude Amelia (Mahorney) Reed]]"
 ---
 # Allegheny
 

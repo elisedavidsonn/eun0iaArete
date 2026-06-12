@@ -17,8 +17,6 @@ principals:
   - "[[Ann Elizabeth (Gray) Mahorney]]"
 media: "[[1871-IN-Marion-Mahorney-pg21.jpg]]"
 ---
-# 1871Census-Mahorney
-
 ## Census Information
 
 | Field                | Value                              |
@@ -39,8 +37,6 @@ media: "[[1871-IN-Marion-Mahorney-pg21.jpg]]"
 | John Mahorney | Father   | 41yrs/m/w | PA         | No Occupation |
 | Ann E --      | Mother   | 27yrs/f/w | NY         | Keeping House |
 | Gertrude --   | Self     | 7yrs/f/w  | IN         | At Home       |
-
-## Transcription
 
 
 ## Research Notes

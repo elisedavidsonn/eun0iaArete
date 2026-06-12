@@ -18,8 +18,6 @@ principals:
   - "[[Gertrude Amelia (Mahorney) Reed]]"
   - "[[Charles Augustus Reed]]"
 ---
-# 1930Census-Reed
-
 ## Census Information
 
 | Field                | Value            |
@@ -41,9 +39,6 @@ principals:
 | Clarence Foster   | Brother/UNK     | (59yrs/m/neg/s)   | NY         | NY   | NY   | Janitor, Office Building |
 | Charles A. Reed   | Roomer          | (40yrs/m/neg/mar) | IL         | IL   | IN   | Mail Carrier             |
 | Gertrude --       | Roomer/==SELF== | 46yrs/f/neg/mar)  | IN         | PA   | NY   | None                     |
-
-## Transcription
-
 
 ## Research Notes
 **Residence:** Owning @ 3549 18th Street, Detroit, Michigan

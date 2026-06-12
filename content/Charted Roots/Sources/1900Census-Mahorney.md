@@ -18,8 +18,6 @@ principals:
   - "[[Ann Elizabeth (Gray) Mahorney]]"
   - "[[Gertrude Amelia (Mahorney) Reed]]"
 ---
-# 1900Census-Mahorney
-
 ## Census Information
 
 | Field                | Value             |
@@ -39,9 +37,6 @@ principals:
 | -------------- | ----------------- | ------------------------------------------------- | ---------- | ---- | ---- | ----------------------- |
 | Ann Mahorney   | Head/Mother       | 57yrs/f/b/wd<br>Birth=Nov1849<br>M=1child;1living | NY         | UNK  | UNK  | [blank]                 |
 | Gertrude A. -- | Daughter/==SELF== | 28yrs/f/b/s<br>Birth=Oct1871                      | IN         | PA   | NY   | Teacher, Public Schools |
-
-## Transcription
-
 
 ## Research Notes
 **Residence:** Renting @ 710 11th Street, Irvington, Indiana

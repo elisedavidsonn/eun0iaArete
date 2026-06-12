@@ -21,8 +21,6 @@ principals:
   - "[[John Todd Mahorney]]"
   - "[[Ann Elizabeth (Gray) Mahorney]]"
 ---
-# 1880Census-Mahorney
-
 ## Census Information
 
 | Field                | Value             |
@@ -44,9 +42,6 @@ principals:
 | A.E. --       | Wife/Mother       | 39yrs/f/mu | NY         | DC      | DC   | Keeping House |
 | Gertie --     | Daughter/==SELF== | 16yrs/f/mu | IN         | PA      | NY   | Student       |
 | John --       | Son/Brother       | 9yrs/m/mu  | IN         | PA      | NY   | n/a           |
-
-## Transcription
-
 
 ## Research Notes
 The source of pagination is slightly askew from digitization efforts. Any prior record mention of Gertrude residing with the “Howlet” family is the result of this wrong order. Gertrude, “Gertie,” and her brother are living with their parents in 1880.

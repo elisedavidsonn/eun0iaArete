@@ -18,8 +18,6 @@ principals:
   - "[[Gertrude Amelia (Mahorney) Reed]]"
   - "[[Charles Augustus Reed]]"
 ---
-# 1920Census-Cockfield
-
 ## Census Information
 
 | Field                | Value            |
@@ -45,9 +43,6 @@ principals:
 | Francise --       | Sister/UNK      | (19yrs/f/b/s) <br>Imm=1910 <br>Nat=1913   | CAN        | West Indies | CAN  | Teacher, School                        |
 | Charles A. Reed   | Roomer          | (29yrs/m/b/mar)                           | IL         | IL          | IN   | Mail Carrier, City                     |
 | Gertrude M. --    | Roomer/==SELF== | (35yrs/f/b/mar)                           | IL         | PA          | NY   | None                                   |
-
-## Transcription
-
 
 ## Research Notes
 **Residence:** Owning @ 672 William Avenue, Detroit, MI

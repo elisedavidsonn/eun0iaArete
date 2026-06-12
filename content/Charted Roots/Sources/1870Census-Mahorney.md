@@ -19,8 +19,6 @@ principals:
 media:
   - "[[1870-IN-Marion-Mahorney-pg49.jpg]]"
 ---
-# 1870Census - Mahorney
-
 ## Census Information
 
 | Field                | Value             |
@@ -40,10 +38,7 @@ media:
 | ------------- | -------- | --------- | ---------- | --------------- |
 | John Mahorney | Head     | 40yrs/m/m | PA         | Hairwork Manuf. |
 | Ann E --      | Wife     | 26yrs/f/m | NY         | Domestic        |
-| Gertrude      | Daughter | 6yrs/f/m  | IN         |                 |
-
-## Transcription
-
+| Gertrude      | Daughter | 6yrs/f/m  | IN         | [blank]         |
 
 ## Research Notes
 
