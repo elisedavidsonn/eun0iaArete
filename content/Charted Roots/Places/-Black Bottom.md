@@ -1,3 +1,0 @@
-Detroit, Michigan
-
-[[-Paradise Valley]]

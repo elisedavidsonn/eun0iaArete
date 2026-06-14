@@ -3,6 +3,7 @@ title:
 description:
 tags:
 quartz-properties: "false"
+publish: true
 ---
 
 >  **Eunoia** ✤ *noun*
@@ -15,7 +16,7 @@ Welcome!
 
 My name is Eli(se) Davidson. I am an aspiring genealogist and archivist with B.A.s in Anthropology and English Literary Theory.
 
-Here's to local histories, forgotten voices, and finding self; converging the times and theories to make sense and action in the now. 
+*Here's to local histories, forgotten voices, and finding self: converging the times and theories to make sense and action in the now.* 
 
 <!-- This is where I will create buttons? -->
 
