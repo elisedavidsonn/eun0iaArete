@@ -1,19 +1,8 @@
 ---
 publish: true
 title: The Social Animal
-subtitle:
-author: "[[Aronson, Elliot]]"
-publisher: MacMillan
-pageCount: 452
-publishYear: 2004
-description:
-genre: "#socialPsychology"
-coverJPG:
-status: "#not-started"
-created:
-modified:
+created: 2026-06-22T17:06:18.029-05:00
+modified: 2026-06-22T17:06:59.012-05:00
 ---
-# The Social Animal
-[[Aronson, Elliot]] - 2004
 
-## Comments & Review 
+## Comments & Review
