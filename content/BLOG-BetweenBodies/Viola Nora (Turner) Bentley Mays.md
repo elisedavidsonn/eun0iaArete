@@ -1,7 +1,10 @@
 ---
 publish: true
 created: 2026-06-22T11:47:52.079-05:00
-modified: 2026-06-22T16:19:01.364-05:00
+modified: 2026-06-22T16:29:09.273-05:00
+tags:
+  - biography
+  - wip
 ---
 
 Born: 31 Mar 1910 | Lebanon, Illinois
@@ -60,6 +63,7 @@ On September 10, 1963, [three books were donated to the Shortridge High School](
 - Human Relations in Teaching
 - Fantasia Mathematica
 - The Mathematical Magpie
-  Each title includes a bookplate that reads: "in memory of Mrs. Viola Mays, from her Shortridge friends."
+
+Each title includes a bookplate that reads: "in memory of Mrs. Viola Mays, from her Shortridge friends."
 
 Viola Nora (Turner) Bentley Mays rests beside her late second-husband Homer in Crown Hill Cemetery, Section 99, Lot 3862.
