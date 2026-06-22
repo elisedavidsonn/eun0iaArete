@@ -1,3 +1,8 @@
+---
+title: Homepage
+publish: true
+---
+
 > **Eunoia** ✤ _noun_  
 > the feeling of goodwill between speaker and audience.
 > 
