@@ -2,7 +2,7 @@
 publish: true
 title: Homepage
 created: 2026-06-22T17:06:02.667-05:00
-modified: 2026-06-22T17:07:26.835-05:00
+modified: 2026-06-22T19:59:22.127-05:00
 ---
 
 > **Eunoia** ✤ _noun_\
