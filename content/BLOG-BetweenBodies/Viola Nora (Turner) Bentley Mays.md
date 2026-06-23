@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-06-22T17:05:55.586-05:00
-modified: 2026-06-22T17:05:55.586-05:00
+modified: 2026-06-22T21:58:44.041-05:00
 tags:
   - biography
   - wip

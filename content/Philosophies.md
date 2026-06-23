@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-06-22T17:06:06.417-05:00
-modified: 2026-06-22T17:06:47.116-05:00
+modified: 2026-06-22T21:45:42.024-05:00
 ---
 
 # The English Language
@@ -18,4 +18,3 @@ With many marks on my undergraduate papers, I continue to stand by my regard of 
 - World
 - Nation
 - Woman/Women
-- Black
