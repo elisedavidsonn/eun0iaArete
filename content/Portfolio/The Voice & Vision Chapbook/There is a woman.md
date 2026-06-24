@@ -35,4 +35,4 @@ I cannot speak without
 drawing the blinds.
 
 **January 30, 2023**
-A part of the [[★ The Voice & Vision Chapbook]].
+A part of the [[Portfolio/The Voice & Vision Chapbook/index|The Voice & Vision Chapbook]]

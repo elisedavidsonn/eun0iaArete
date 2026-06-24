@@ -31,4 +31,4 @@ Now, I abide to silence; weary, with guilt
 and empty handed because \[**redacted**]
 
 **April 5, 2023**
-A part of the [[★ The Voice & Vision Chapbook]].
+A part of the [[Portfolio/The Voice & Vision Chapbook/index|The Voice & Vision Chapbook]]

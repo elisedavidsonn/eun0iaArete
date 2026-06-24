@@ -32,4 +32,4 @@ sign a million signs
 you say you think it is just me.
 
 **March 27, 2023**
-A part of the [[★ The Voice & Vision Chapbook]]. Originally written for a mixed-media composition titled “One Half-Minute Video to Tell You I Exist.”
+A part of the [[Portfolio/The Voice & Vision Chapbook/index|The Voice & Vision Chapbook]]; originally written for a mixed-media composition titled “One Half-Minute Video to Tell You I Exist.”

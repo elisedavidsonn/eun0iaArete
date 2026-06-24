@@ -63,4 +63,4 @@ in the mornings when her windows
 no longer shine of Amber.
 
 **January 26, 2023**
-A part of the [[★ The Voice & Vision Chapbook]]. Original title, “Colors Poem: Amber.”
+A part of the [[Portfolio/The Voice & Vision Chapbook/index|The Voice & Vision Chapbook]]; original title, “Colors Poem: Amber.”

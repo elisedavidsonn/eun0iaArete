@@ -26,4 +26,4 @@ fly for a home, but nothing more because
 you are full of yourself.
 
 **April 3, 2023**
-A part of the [[★ The Voice & Vision Chapbook]]. Originally titled “(Creation) April Entry, iv.”
+A part of the [[Portfolio/The Voice & Vision Chapbook/index|The Voice & Vision Chapbook]]; originally titled “(Creation) April Entry, iv.”
