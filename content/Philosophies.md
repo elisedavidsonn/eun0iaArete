@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-06-22T17:06:06.417-05:00
-modified: 2026-06-25T02:06:03.989-05:00
+modified: 2026-06-25T02:13:09.810-05:00
 ---
 
 # The Past//Present Through Paper
@@ -26,4 +26,4 @@ I was fortunate enough to be granted the space to speak –some may call it “e
 Dis/remembrance refers to the multivalence process and thresholds to which the individual can remember and reckon with highly traumatic memories in recounted narrative; such memories are susceptible to the priming of the audience, coinciding with collective, dominant narratives, and mythic storytelling.
 
 My particular work with Vietnam Veterans examined how individuated and personal, intergenerational narratives ==…==
-Examining through folklore, it became clear how mythic narrative have substantiated the Nation’s dominant militaristic (“Warfighter”) story.
+Examining through folklore, it became clear how mythic narratives have substantiated the Nation’s dominant militaristic (“Warfighter”) story; furthermore, what it means to be an American.
