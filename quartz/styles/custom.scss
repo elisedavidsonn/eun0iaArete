@@ -13,7 +13,7 @@ hr {
   width: 100%;
  
   &:after {
-    content: "* * *";
+    content: "˖⁺‧₊˚  ˚₊‧⁺˖★ ——— ★˖⁺‧₊˚  ˚₊‧⁺˖";
     display: inline-block;
     margin: -1em 0 0.5em;
     font-size: 1.5em;
@@ -44,4 +44,13 @@ blockquote.transclude {
 
 .all-tags-list-p {
   line-height: 2em;
+}
+
+//full readable length 
+.page > #quartz-body {
+  grid-template: "grid-sidebar-left grid-header" "grid-sidebar-left grid-center" "grid-sidebar-left grid-footer" / 320px auto;
+}
+.page > #quartz-body .sidebar.right {
+  display: none;
+  width: 0px;
 }
