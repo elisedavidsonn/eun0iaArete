@@ -215,8 +215,11 @@ plugins:
   - source: github:quartz-community/comments
     enabled: true
     options:
-      provider: giscus
-      options: {}
+        repo: elisedavidsonn/eun0iaArete
+        repoId: R_kgDOSksTpQ
+        category: Announcements
+        categoryId: DIC_kwDOSksTpc4DAKka
+        lang: en
     layout:
       position: afterBody
       priority: 10

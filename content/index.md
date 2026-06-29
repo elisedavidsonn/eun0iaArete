@@ -22,8 +22,21 @@ Beyond the past, I spend my time in the present; seeking ways to encounter and e
 
 This website, created with [Quartz v5](https://quartz.jzhao.xyz/) by [JackyZhao](https://jzhao.xyz/), is a testing ground for a "commonplace blog" as I continue to learn the analog and digital languages that support our encounters as Humans. I thank you for being here.
 
-
-
+<script src="https://giscus.app/client.js"
+        data-repo="elisedavidsonn/eun0iaArete"
+        data-repo-id="R_kgDOSksTpQ"
+        data-category="Announcements"
+        data-category-id="DIC_kwDOSksTpc4DAKka"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>
 
 
 
