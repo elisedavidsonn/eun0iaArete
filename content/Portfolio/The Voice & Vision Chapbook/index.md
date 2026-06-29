@@ -1,9 +1,11 @@
 ---
 publish: true
 title: The Voice & Vision Chapbook
+created: 2026-06-29T15:16:10.273-05:00
+modified: 2026-06-29T16:32:36.380-05:00
 tags:
   - "#poetry"
   - collection
-modified:
 ---
-This collection was created during a semester-long workshop with the wonderful [Alessandra Lynch](https://www.alessandralynch.com/) at [[Butler University]] in the Spring of 2023. 
+
+This collection was created during a semester-long workshop with the wonderful [Alessandra Lynch](https://www.alessandralynch.com/) at [[Butler University]] in the Spring of 2023.

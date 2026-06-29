@@ -1,23 +1,19 @@
 ---
 publish: true
 title: Even the Stars Look Lonesome
-subtitle:
-author: Maya Angelou
-publisher: Random House Inc.
-pageCount: "145"
-publishYear: "1997"
 description: The author shares her experiences with and wisdom about aging, sensuality and sexuality, rage and violence.
+created: 2026-06-29T15:16:10.273-05:00
+modified: 2026-06-29T15:16:10.273-05:00
 tags:
   - "#autobiography"
-coverJPG:
-status: "#not-started"
-modified:
-rating:
-quartz-properties: true
 ---
+
 > # Author: Maya Angelou
-> Published: 1997 
+>
+> Published: 1997
+
 # Notes & Quotes
-## Comments & Review 
+
+## Comments & Review
 
 ### Works Cited

@@ -1,24 +1,19 @@
 ---
 publish: true
 title: The Caucasian Chalk Circle
-subtitle:
-author: Bertoit Brecht
-publisher: Evergreen Black Cat
-pageCount: "144"
-publishYear: "1947"
-description:
+created: 2026-06-29T15:16:10.274-05:00
+modified: 2026-06-29T15:16:10.274-05:00
 tags:
   - drama
   - play
-coverJPG:
-status: "#not-started"
-modified:
-rating:
-quartz-properties: true
 ---
+
 > # Author: Bertoit Brecht
+>
 > Published: 1947
+
 # Notes & Quotes
-## Comments & Review 
+
+## Comments & Review
 
 ### Works Cited
