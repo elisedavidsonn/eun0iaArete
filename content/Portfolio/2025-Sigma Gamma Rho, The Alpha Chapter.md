@@ -3,6 +3,7 @@ publish: true
 tags:
   - genealogy
   - historicHomes
+modified:
 ---
 Research compiled for both course requirements and personal pursuits; in Museum Studies with Dr. Niger Sultana, F26.
 ## People Mentioned
