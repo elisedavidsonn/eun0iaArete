@@ -1,6 +1,6 @@
 ---
 publish: true
-title: The Sirens of Titan
+title: Vonnegut1959-The Sirens of Titan
 subtitle:
 author: Kurt Vonnegut, Jr.
 publisher: Dial Press

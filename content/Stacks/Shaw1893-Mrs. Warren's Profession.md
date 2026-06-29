@@ -1,6 +1,6 @@
 ---
 publish: true
-title: Mrs. Warren's Profession
+title: Shaw1893-Mrs. Warren's Profession
 subtitle:
 author: George Bernard Shaw
 publisher: W.W. Norton

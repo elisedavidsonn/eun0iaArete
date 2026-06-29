@@ -1,6 +1,6 @@
 ---
 publish: true
-title: Wieland, or the Transformation
+title: Brown1798-Wieland, or the Transformation
 subtitle:
 author: Charles Brockden Brown
 publisher: Hackett Publishing

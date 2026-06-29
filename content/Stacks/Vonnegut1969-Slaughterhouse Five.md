@@ -1,6 +1,6 @@
 ---
 publish: true
-title: Slaughterhouse Five
+title: Vonnegut1969-Slaughterhouse Five
 subtitle: Or, the Children's Crusade, a Duty-Dance with Death
 author: Kurt Vonnegut, Jr.
 publisher: Dial Press

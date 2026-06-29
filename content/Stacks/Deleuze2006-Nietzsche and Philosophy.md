@@ -1,6 +1,6 @@
 ---
 publish: true
-title: Nietzsche and Philosophy
+title: Deleuze2006-Nietzsche and Philosophy
 subtitle:
 author: Gilles Deleuze
 publisher: A&C Black

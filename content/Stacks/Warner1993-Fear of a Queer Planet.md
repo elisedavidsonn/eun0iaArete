@@ -1,6 +1,6 @@
 ---
 publish: true
-title: Fear of a Queer Planet
+title: Warner1993-Fear of a Queer Planet
 subtitle: Queer Politics and Social Theory
 author: Michael Warner
 publisher: U. of Minnesota Press

@@ -1,6 +1,6 @@
 ---
 publish: true
-title: The Inheritance of Loss
+title: Desai2007-The Inheritance of Loss
 subtitle:
 author: Kiran Desai
 publisher: Open Road + Grove/Atlantic

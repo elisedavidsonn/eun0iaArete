@@ -1,6 +1,6 @@
 ---
 publish: true
-title: A Feather on the Breath of God
+title: Nunez2005-A Feather on the Breath of God
 subtitle:
 author: Sigrid Nunez
 publisher: Picador

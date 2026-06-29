@@ -1,6 +1,6 @@
 ---
 publish: true
-title: Begin Again
+title: Glaude2020-Begin Again
 subtitle: James Baldwin's America and Its Urgent Lessons for Our Own
 author: Eddie S. Glaude, Jr.
 publisher: Crown

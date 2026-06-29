@@ -1,6 +1,6 @@
 ---
 publish: true
-title: Between the World and Me
+title: Coates2015-Between the World and Me
 subtitle:
 author: Ta-Nehisi Coates
 publisher: One World

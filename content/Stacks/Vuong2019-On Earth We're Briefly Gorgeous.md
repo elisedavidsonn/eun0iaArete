@@ -1,6 +1,6 @@
 ---
 publish: true
-title: On Earth We're Briefly Gorgeous
+title: Vuong2019-On Earth We're Briefly Gorgeous
 subtitle:
 author: Ocean Vuong
 publisher: Penguin Books

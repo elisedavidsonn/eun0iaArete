@@ -1,6 +1,6 @@
 ---
 publish: true
-title: Breakfast of Champions
+title: Vonnegut1973-Breakfast of Champions
 subtitle: Or, Goodbye Blue Monday!
 author: Kurt Vonnegut, Jr.
 publisher: Dial Press

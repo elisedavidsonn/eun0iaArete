@@ -1,6 +1,6 @@
 ---
 publish: true
-title: Tomorrow, and Tomorrow, and Tomorrow
+title: Zevin2022-Tomorrow and Tomorrow and Tomorrow
 subtitle: A Novel
 author: Gabrielle Zevin
 publisher: Penguin Books

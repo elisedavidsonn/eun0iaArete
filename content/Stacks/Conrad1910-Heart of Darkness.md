@@ -1,6 +1,6 @@
 ---
 publish: true
-title: Heart of Darkness
+title: Conrad1910-Heart of Darkness
 subtitle: and the Secret Sharer
 author: Joseph Conrad
 publisher: Signet Classic

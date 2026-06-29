@@ -1,6 +1,6 @@
 ---
 publish: true
-title: Cat's Cradle
+title: Vonnegut1963-Cat's Cradle
 subtitle:
 author: Kurt Vonnegut, Jr.
 publisher: Dial Press

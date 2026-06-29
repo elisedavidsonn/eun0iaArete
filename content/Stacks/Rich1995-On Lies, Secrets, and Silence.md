@@ -1,6 +1,6 @@
 ---
 publish: true
-title: On Lies, Secrets, and Silence
+title: Rich1995-On Lies, Secrets, and Silence
 subtitle: Selected Prise, 1966-1978
 author: Adrienne Rich
 publisher: W.W. Norton

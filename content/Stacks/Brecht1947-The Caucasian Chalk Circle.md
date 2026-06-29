@@ -1,6 +1,6 @@
 ---
 publish: true
-title: The Caucasian Chalk Circle
+title: Brecht1947-The Caucasian Chalk Circle
 subtitle:
 author: Bertoit Brecht
 publisher: Evergreen Black Cat

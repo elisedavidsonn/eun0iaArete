@@ -1,6 +1,6 @@
 ---
 publish: true
-title: The Social Animal
+title: Aronson2004-The Social Animal
 subtitle:
 author: Elliot Aronson
 publisher: MacMillan

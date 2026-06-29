@@ -1,6 +1,6 @@
 ---
 publish: true
-title: Midnight in the Garden of Good and Evil
+title: Berendt1994-Midnight in the Garden of Good and Evil
 subtitle:
 author: John Berendt
 publisher: Random House

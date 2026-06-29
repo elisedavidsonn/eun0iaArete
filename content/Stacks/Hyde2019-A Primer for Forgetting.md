@@ -1,6 +1,6 @@
 ---
 publish: true
-title: A Primer for Forgetting
+title: Hyde2019-A Primer for Forgetting
 subtitle:
 author: Lewis Hyde
 publisher: Farrar, Starus & Giroux

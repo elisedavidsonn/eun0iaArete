@@ -1,6 +1,6 @@
 ---
 publish: true
-title: Even the Stars Look Lonesome
+title: Angelou1997-Even the Stars Look Lonesome
 subtitle:
 author: Maya Angelou
 publisher: Random House Inc.

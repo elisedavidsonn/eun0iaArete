@@ -1,6 +1,6 @@
 ---
 publish: true
-title: Native Son
+title: Wright1940-Native Son
 subtitle:
 author: Richard Wright
 publisher: Harper Perennial Modern Classics

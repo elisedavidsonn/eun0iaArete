@@ -1,6 +1,6 @@
 ---
 publish: true
-title: The Social Contract
+title: Rousseau1893-The Social Contract
 subtitle: Or, Principles of Political Law. Also, A Project for a Perpetual Peace
 author: Jean-Jacques Rousseau
 publisher:

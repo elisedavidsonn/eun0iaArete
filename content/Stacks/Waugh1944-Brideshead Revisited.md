@@ -1,6 +1,6 @@
 ---
 publish: true
-title: Brideshead Revisited
+title: Waugh1944-Brideshead Revisited
 subtitle: The Sacred and Profane Memories of Captain Charles Ryder
 author: Evelyn Waugh
 publisher:
