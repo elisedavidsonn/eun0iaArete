@@ -7,13 +7,16 @@ publisher:
 pageCount:
 publishYear:
 description:
-genre:
+tags:
 coverJPG:
 status:
-created:
 modified:
+rating:
+quartz-properties: true
 ---
-# {{title}}: {{subtitle}}
-{{author}} - {{publishYear}}
-
+> # Author: {{author}}
+> Published: {{publishYear}} 
+# Notes & Quotes
 ## Comments & Review 
+
+### Works Cited

@@ -1,5 +1,6 @@
 ---
 publish: true
-title: ☆ -STEW TOO
+title: ☆ STEW TOO
+modified:
 ---
 A personal commonplace blog. 
