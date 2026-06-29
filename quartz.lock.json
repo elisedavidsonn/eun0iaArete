@@ -52,8 +52,8 @@
     "comments": {
       "source": "github:quartz-community/comments",
       "resolved": "https://github.com/quartz-community/comments.git",
-      "commit": "278115200a9bacfc0ee4695b200a5843d15517f3",
-      "installedAt": "2026-05-26T22:38:02.420Z"
+      "commit": "42c5023e42cf62495219095a862b2ea144b65600",
+      "installedAt": "2026-06-29T20:21:09.745Z"
     },
     "content-index": {
       "source": "github:quartz-community/content-index",

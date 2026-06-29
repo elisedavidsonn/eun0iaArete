@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: "elisedavidsonn.github.io/eun0iaArete"
+  baseUrl: elisedavidsonn.github.io/eun0iaArete
   ignorePatterns:
     - private
     - templates
@@ -150,8 +150,8 @@ plugins:
   - source: github:quartz-community/explorer
     enabled: true
     options:
-      folderClickBehavior: link # "link" to navigate or "collapse" to toggle
-      folderDefaultState: collapsed # "collapsed" or "open"
+      folderClickBehavior: link
+      folderDefaultState: collapsed
       useSavedState: true
     layout:
       position: left
@@ -215,11 +215,11 @@ plugins:
   - source: github:quartz-community/comments
     enabled: true
     options:
-        repo: elisedavidsonn/eun0iaArete
-        repoId: R_kgDOSksTpQ
-        category: Announcements
-        categoryId: DIC_kwDOSksTpc4DAKka
-        lang: en
+      repo: elisedavidsonn/eun0iaArete
+      repoId: R_kgDOSksTpQ
+      category: Announcements
+      categoryId: DIC_kwDOSksTpc4DAKka
+      lang: en
     layout:
       position: afterBody
       priority: 10
