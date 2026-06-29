@@ -22,16 +22,6 @@ hr {
   }
 }
 
-// the cute page dividers
-.page-sparkle-divider {
-  text-align: center;
-  color: var(--gray);
-  margin: 0;
-}
-a.see-more {
-  color: var(--gray)
-}
-
 //superscripts aka footnotes being small and middled
 sup {
   font-size: 0.65em;
@@ -47,9 +37,6 @@ blockquote.transclude {
 }
 
 //full readable length 
-.page > #quartz-body {
-  grid-template: "grid-sidebar-left grid-header" "grid-sidebar-left grid-center" "grid-sidebar-left grid-footer" / 320px auto;
-}
 .page > #quartz-body .sidebar.right {
   display: none;
   width: 0px;
