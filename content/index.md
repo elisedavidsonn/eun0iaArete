@@ -2,6 +2,8 @@
 title: Homepage
 publish: true
 modified:
+cssclasses:
+  - giscus
 ---
 > **Eunoia** ✤ _noun_  
 > the feeling of goodwill between speaker and audience.
