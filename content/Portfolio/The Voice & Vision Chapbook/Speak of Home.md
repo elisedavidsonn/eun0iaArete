@@ -3,7 +3,7 @@ publish: true
 collection: "[[★ The Voice & Vision Chapbook]]"
 tags:
   - "#poetry"
-created: 03-27-2023
+created: 2023-03-27
 modified: 06-22-2026
 ---
 if you were to ask me when the clouds

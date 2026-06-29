@@ -3,7 +3,7 @@ publish: true
 collection: "[[★ The Voice & Vision Chapbook]]"
 tags:
   - "#poetry"
-created: 01-26-2023
+created: 2023-01-26
 modified: 06-22-2026
 ---
 Amber, like the pawn of the

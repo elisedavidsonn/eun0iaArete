@@ -4,6 +4,6 @@ title: The Voice & Vision Chapbook
 tags:
   - "#poetry"
   - collection
+modified:
 ---
-
-This collection of poetry was written during a semester-long classroom workshop with the wonderful [Alessandra Lynch](https://www.alessandralynch.com/) at [[Butler University]] in the Spring of 2023. 
+This collection was created during a semester-long workshop with the wonderful [Alessandra Lynch](https://www.alessandralynch.com/) at [[Butler University]] in the Spring of 2023. 

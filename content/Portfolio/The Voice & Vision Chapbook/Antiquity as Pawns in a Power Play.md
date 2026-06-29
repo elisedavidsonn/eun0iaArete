@@ -3,7 +3,7 @@ publish: true
 collection: "[[★ The Voice & Vision Chapbook]]"
 tags:
   - "#poetry"
-created: 02-23-2023
+created: 2023-02-23
 modified: 06-22-2026
 ---
 Yet, in endless moments

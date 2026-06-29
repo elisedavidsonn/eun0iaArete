@@ -5,9 +5,9 @@ tags:
   - historicHomes
 modified:
 ---
-Research compiled for both course requirements and personal pursuits; in Museum Studies with Dr. Niger Sultana, F26.
+This research was compiled as course requirement and personal pursuit in Museum Studies with Dr. Niger Sultana, F26 at [[Butler University]].
 ## People Mentioned
-> **Original Seven Founders** 
+> **The Original Seven Founders of the Alpha Chapter** 
 >  - Bessie May Downey Rhoades Martin (1897-1947)
 > - Mary Lou Allison Gardner Little (1896-1992)
 > - Vivian Irene White Marbyry (1900-2000)

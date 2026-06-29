@@ -3,7 +3,7 @@ publish: true
 collection: "[[★ The Voice & Vision Chapbook]]"
 tags:
   - "#poetry"
-created: 01-30-2023
+created: 2023-01-30
 modified: 06-22-2026
 ---
 in my window. 

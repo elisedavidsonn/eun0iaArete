@@ -33,5 +33,5 @@ I remember that I cannot remember to take a break.
 
 I remember that I have no idea where, who, what, everywhere and everything, all at once: I feel it. 
 
-**February 3, 2023**h
-A part of the [[Portfolio/The Voice & Vision Chapbook/index|The Voice & Vision Chapbook]]; written in a classroom workshop with Alessandra Lynch, [inspired by Joe Brainard](https://www.poetryfoundation.org/articles/1597226/i-remember) in his book *I Remember* (Granary Books, 2001).
+**February 3, 2023**
+A part of the [[Portfolio/The Voice & Vision Chapbook/index|The Voice & Vision Chapbook]]; written in workshop with Alessandra Lynch and [inspired by Joe Brainard](https://www.poetryfoundation.org/articles/1597226/i-remember) as seen in his book *I Remember* (Granary Books, 2001).

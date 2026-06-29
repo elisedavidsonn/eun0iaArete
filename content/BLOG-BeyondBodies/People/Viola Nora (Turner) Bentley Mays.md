@@ -3,23 +3,23 @@ publish: true
 created:
 modified:
 tags:
-  - biography
-  - wip
+  - bb-profile
+  - bb-wip
 ---
+![[ViolaTM-Framed.png#Viola (Turner) Mays, c.1960s]]
 
-Born: 31 Mar 1910 | Lebanon, Illinois 
-Death: 16 Feb 1963 | Indianapolis, Indiana 
+**Birth**: 31 Mar 1910 | Lebanon, Illinois 
+**Death**: 16 Feb 1963 | Indianapolis, Indiana 
 
-> Father: William "Willie" Grant Turner, Sr. (1872-1957)
-> Mother: Sarah Frances (Hammond) Turner (1868-1948)
-> . 
-> Spouse: Walter Percy Bentley, Sr. (1893-1983)
-> Spouse: Homer Thomas Mays, Sr. (1905-1961)
-> . 
-> Step-Child: Mary Magdeyn (Mays) Green, Sr. (1921-1976)
-> Step-Child: [[Furniss Helene (Mays) Holloway]] (1927-2016)
-> Step-Child: Lawrence "Larry" Thomas Mays (1949[?])
- 
+| Relation   | Name                                                                                                                                                        |
+| ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Father     | William “Willie” Grant Turner, Sr. (1872-1957)                                                                                                              |
+| Mother     | Sarah Frances (Hammond) Turner (1868-1948)                                                                                                                  |
+| Sibling(s) | ==…==                                                                                                                                                       |
+| Spouse(s)  | Walter Percy Bentley, Sr. (1893-1983) m.1946<br>Homer Thomas Mays, Sr. (1905-1961) m.1952                                                                   |
+| Children   | [Step-] Mary Magdeyn (Mays) Green, Sr. (1921-1976)<br>[Step-] [[Furniss Helene (Mays) Holloway]] (1927-2016)<br>[UK] Lawrence "Larry" Thomas Mays (1949[?]) |
+# Biography
+
 Viola (Turner) Mays built her life within classrooms defined by racism, limited opportunity for self and student, and constant pressure placed upon Black educators; service as both teacher and advocate. A Midwestern mathematician, she taught across Missouri, Ohio, and Indiana: her training into school systems ineffably shaped by the segregation and racialized boundaries of the 20th century. Her lifestory demonstrates a slice of our shared realities; how Black women, educators, held together the intellectual and civic life of communities facing directed-institutional neglect. She continues to stand as one of the many unrecognized figures whose daily efforts pushed against the delimiting imposed by educational inequity. 
 
 --- 
@@ -39,7 +39,6 @@ In 1946, she married Walter Percy Bentley, Sr. in Indianapolis, IN. However, the
 Between 1946 and 1950, she taught at both School No.17 and the John Hope School No.26. [She appears in an early compilation of the school's history in 1947](https://www.digitalindy.org/digital/collection/ips/id/402632/rec/5). During 1947 to 1948, she taught mathematics at the [George Washington Carver School No.86](https://www.class900indy.com/post/the-past-and-uncertain-future-of-the-former-ips-school-86) in the Butler-Tarkington Neighborhood; she worked alongside [Pauline "Paula" ==(???)== Morton-Finney](https://digital.library.cornell.edu/catalog/ss:641488), whose husband, [John Morton-Finney](https://en.wikipedia.org/wiki/John_Morton-Finney), was one of the city's most influential Civil Rights figures. 
 
 By 1949, Viola returned full-time to School No.17, and in 1950, she transferred to Crispus Attucks High School (CPHS) where John Morton-Finney served as principal during her tenure. Viola married Homer Thomas Mays, Sr. in 1952, becoming the step-mother of fellow IPS teacher, Mrs. Furniss (Mays) Holloway and the late Homer William Mays, Jr. 
-
 
 >Note: Another child relationship includes: Lawrence "Larry" Thomas Mays. His mother is unknown, yet Larry was noted as the son of Viola whom discovered her upon death. 
 
@@ -68,3 +67,9 @@ Each title includes a bookplate that reads: "in memory of Mrs. Viola Mays, from 
 
 Viola Nora (Turner) Bentley Mays rests beside her late second-husband Homer in Crown Hill Cemetery, Section 99, Lot 3862. 
 
+- - - 
+## Timeline 
+
+### Sources
+
+### Attachments
