@@ -43,8 +43,14 @@ blockquote.transclude {
 }
 
 //explorer styles
-.explorer .folder-container > div {
+.explorer .folder-container {
     font-family: cormorant-garamond;
     font-size: 1.2em;
     font-weight: 650;
   }
+
+@font-face {
+  font-family: "Cormorant Garamond";
+  font-style: normal;
+  font-weight: 650;
+}
