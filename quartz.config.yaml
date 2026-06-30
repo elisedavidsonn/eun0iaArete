@@ -79,6 +79,7 @@ plugins:
     order: 40
   - source: github:quartz-community/table-of-contents
     enabled: true
+    showByDefault: true
     order: 50
   - source: github:quartz-community/crawl-links
     enabled: true
@@ -208,6 +209,8 @@ plugins:
       group: toolbar
   - source: github:quartz-community/breadcrumbs
     enabled: true
+    options:
+       spacerSymbol: "☆"
     layout:
       position: beforeBody
       priority: 5

@@ -16,7 +16,7 @@ hr {
     content: "˖⁺‧₊˚  ˚₊‧⁺˖★ ——— ★˖⁺‧₊˚  ˚₊‧⁺˖";
     display: inline-block;
     margin: -1em 0 0.5em;
-    font-size: 1.5em;
+    font-size: 1em;
     padding: 0.5em 1em;
     color: var(--gray);
   }
@@ -42,17 +42,80 @@ blockquote.transclude {
   width: 0px;
 }
 
+//self chosen colors
+:root {
+    --light: #fbfaf9;
+    --lightgray: #7b6c65;
+    --gray: #7e6f69;
+    --darkgray: #4c4440;
+    --dark: #3e3632;
+    --secondary: #7EAE82;
+    --tertiary: #526b54;
+}
+
+.main {
+    --color-btn-primary-bg:#526b54;
+    --color-btn-primary-hover-bg: #a2b8a3;
+}
+
+//text styles
+.content-meta {
+    color: var(--lightgray);
+    margin-top: 0;
+}
+
+h1, h2, h3, h4, h5, h6, thead, strong, em, blockquote>p, tbody {
+  color: var(--darkgray);
+}
+
+p, text, li {
+  color: var(--gray);
+}
+
+
+//giscus
+.btn-primary {
+    background-color: var(--color-btn-primary-bg) !important;
+    border-color: var(--color-btn-primary-border);
+    box-shadow: var(--color-btn-primary-shadow),var(--color-btn-primary-inset-shadow);
+    color: var(--color-btn-primary-text)
+}
+
+.btn-primary:hover {
+    background-color: var(--color-btn-primary-hover-bg) !important;
+    border-color: var(--color-btn-primary-hover-border)
+}
+
+.btn-primary:active {
+    background-color: var(--color-btn-primary-selected-bg) !important;
+    box-shadow: var(--color-btn-primary-selected-shadow)
+}
+
+.btn-primary:disabled {
+    background-color: var(--color-btn-primary-disabled-bg);
+    border-color: var(--color-btn-primary-disabled-border);
+    color: var(--color-btn-primary-disabled-text)
+}
+
 //explorer styles
-.explorer .folder-container {
-    font-family: cormorant-garamond;
-    font-size: 1.4em;
-    font-weight: 700;
-  }
+
+.folder-container div>a {
+  font-family: Cormorant-Garamond !important;
+  font-size: 1.05em !important;
+  font-weight: 700 !important;
+}
+
+.explorer-content ul li>a{
+  font-family: Hanken Grotesk !important;
+  font-size: 0.95em !important;
+  font-weight: 400 !important;
+}
 
 // page title
-.page-title {
-    font-size: 1.8rem;
-    font-family: var(--titleFont);
-    margin: 0;
-    font-weight: bold;
+.left-sidebar > .page-title {
+  font-size: 1.8rem !important;
+  font-family: var(--titleFont);
+  margin: 0;
+  font-weight: 700 !important;
+  color: var(--gray);
 }
