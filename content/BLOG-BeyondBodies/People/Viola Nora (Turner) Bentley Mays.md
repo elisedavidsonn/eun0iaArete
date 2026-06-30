@@ -10,7 +10,7 @@ tags:
 > [!multi-column]
 > 
 > > [!blank|relative]
-> > ![[_meta/_attachments/ViolaTM-Framed.png|profile+medium center]]
+> > ![[ViolaTM-Framed.png|profile+medium center]]
 > > 
 > > **Birth**: 31 Mar 1910 | Lebanon, IL
 > > **Death**: 16 Feb 1963 | Indianapolis, IN
