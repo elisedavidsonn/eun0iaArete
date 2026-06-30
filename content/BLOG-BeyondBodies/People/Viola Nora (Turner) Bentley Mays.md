@@ -183,11 +183,12 @@ After her death, Willard "Mike" Briley Ransom[^24], the son of Civil Rights lead
 
 Viola's obituary described her as the president of the Indianapolis Reading Club & Council, noting her engagements at the University of Chicago and New York State.[^26] ==While documentation is limited, I believe that she is pictured alongside Miss Ora Skelton-Willet in the below photograph of the Fortnightly Literary Book Club, 25th Anniversary. This photograph is on display in plaque within the "breakroom" of \[\[Butler University#Irwin Library]] at \[\[Butler University]].==
 
+
 > [!callout|clean no-t txt-c]
 > ![[1948_VTM-FortnightlyLiteraryBookClub.png|wm-tl center]]
 > **25th Anniversary of The Fortnightly Literary Club** - (1948)
 > *[Maybe] Viola Mays, seated in the right chair. Miss Ora Skelton-Willet is seated to her left.*
-> 
+
 >> [!callout|clean no-t txt-c] 
 > **Note**: This club differs from the original Fortnightly Literary Club, founded in 1885 as the “Nameless Literary Circle.”[^34] Miss Ora Skelton-Willet (b.1900-1949), a graduate of Shortridge HS, teacher at Schools No. 37 and 42, was the book club’s ideary in 1913, as honored by co-founder, Mrs. Georgia Martin Patton.[^35] In 1928, the club was formally chartered, connecting Viola’s past involvement to a lineage of Black women’s literary organizing in Indianapolis.
 
