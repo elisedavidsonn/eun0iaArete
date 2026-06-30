@@ -63,18 +63,19 @@ Born on March 31st, 1910 to William Grant Turner, Sr. and Sarah Frances (Hammond
 
 In 1936, Viola began teaching kindergarten and physical education[^9] at the Paul Laurence Dunbar High School in Dayton, Ohio.[^10] Dunbar was a landmark of Black academic achievement during the early 20th century; her colleagues included Jessie Scott Hathcock, the first woman of color to graduate from the University of Dayton in 1930. Hathcock's lifework was dedicated the exposition of academic inequities in local high-schooling and undergraduate education.[^11] Viola's was heavily involved with the Dayton Y.W.C.A. and NAACP which placed her at the intersection of both education and activism.[^12] The lack of recognition as a central agent within a politicized life while cultivating literacy and critical thought in the face of exclusionary policies must have been a heavy encumbrance at just twenty-six years old.
 
-> [!multi-column]
+> [!column|no-t]
 >
-> > [!blank]
-> > ![[1930_JessieHathcock.png|relative]]
-> 
-> > [!blank]
-> > ![[1944-VT_DaytonDaily.png|relative txt-l]]
+> > [!blank|clean] 
 > >
->>  > *“It is significant to the University to be able to honor her as a trailblazer and a woman dedicated to the transformative power of education…And oh, how Jessie Hathcock changed Dayton and the world.”*
-> >> 
->>>  **Dedication of Jessie S. Hathcock Hall** - (2021)  
-> >> University of Dayton President, Eric Spina
+>>  ![[1930_JessieHathcock.png]]
+>
+> > [!blank|clean] 
+> >
+> > ![[1944-VT_DaytonDaily.png]]
+>>> *“It is significant to the University to be able to honor her as a trailblazer and a woman dedicated to the transformative power of education…And oh, how Jessie Hathcock changed Dayton and the world.”*
+>>>
+>>> **Dedication of Jessie S. Hathcock Hall** - (2021)  
+>>> University of Dayton President, Eric Spina
 
 After World War II, Viola returned to Indiana, residing in the city where residential segregation, race-restricted covenants, and school assignment patterns shaped red-lined neighborhood boundaries. By 1945, she began teaching mathematics and social sciences[^13] at the ==now-deconstructed== Booker T. Washington Elementary, School No. 17 in Indianapolis, an explicitly designated "colored" school within the Indianapolis Public School (IPS) System.[^14] African-American teachers staffed such buildings and received fewer resources, serving students already constrained by the city's segregating housing structure. Viola's presence in these classrooms was a direct testament to challenging the educational disparities within Indianapolis policy.
 
