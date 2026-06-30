@@ -80,6 +80,9 @@ plugins:
   - source: github:quartz-community/table-of-contents
     enabled: true
     showByDefault: true
+    layout:
+      position: right
+      priority: 50
     order: 50
   - source: github:quartz-community/crawl-links
     enabled: true
