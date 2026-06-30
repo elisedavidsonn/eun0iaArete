@@ -160,7 +160,6 @@ plugins:
       priority: 50
   - source: github:quartz-community/graph
     enabled: true
-      enabled: true
     options:
     localGraph:
       drag: true
