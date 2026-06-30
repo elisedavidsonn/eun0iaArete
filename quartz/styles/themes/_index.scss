@@ -3063,9 +3063,9 @@ body {
 
   .callout[data-callout="note"] {
     --callout-color: transparent !important;
-    background-color: color-mix(in oklch, var(--callout-color) 10%, transparent);
+    background-color: transparent !important);
     background-image: none;
-    background: oklch(0.550587 0.189745 256.787 / 0.1) none repeat scroll 0% 0% / auto padding-box border-box;
+    background: transparent none repeat scroll 0% 0% / auto padding-box border-box;
     color: rgb(33, 33, 33);
     mix-blend-mode: normal;
     border: 0px solid oklch(0.550587 0.189745 256.787 / 0.25);
@@ -3080,10 +3080,10 @@ body {
   }
 
   .callout[data-callout="note"] .callout-title {
-    --callout-color: #086ddd;
+    --callout-color: transparent !important;
     color: var(--callout-color);
     gap: 4px;
-    border: 0px rgb(8, 109, 221);
+    border: 0px transparent;
     border-top-left-radius: 0px;
     border-top-right-radius: 0px;
     border-bottom-left-radius: 0px;
@@ -3138,10 +3138,10 @@ body {
   }
 
   .callout[data-callout="abstract"] .callout-title {
-    --callout-color: #086ddd;
+    --callout-color: transparent;
     color: var(--callout-color);
     gap: 4px;
-    border: 0px rgb(8, 109, 221);
+    border: 0px transparent;
     border-top-left-radius: 0px;
     border-top-right-radius: 0px;
     border-bottom-left-radius: 0px;
@@ -3196,7 +3196,7 @@ body {
   }
 
   .callout[data-callout="info"] .callout-title {
-    --callout-color: #086ddd;
+    --callout-color: transparent;
     color: var(--callout-color);
     gap: 4px;
     border: 0px rgb(8, 109, 221);
@@ -3254,10 +3254,10 @@ body {
   }
 
   .callout[data-callout="todo"] .callout-title {
-    --callout-color: #086ddd;
+    --callout-color: transparent;
     color: var(--callout-color);
     gap: 4px;
-    border: 0px rgb(8, 109, 221);
+    border: 0px transparent;
     border-top-left-radius: 0px;
     border-top-right-radius: 0px;
     border-bottom-left-radius: 0px;
@@ -3312,10 +3312,10 @@ body {
   }
 
   .callout[data-callout="tip"] .callout-title {
-    --callout-color: #086ddd;
+    --callout-color: transparent;
     color: var(--callout-color);
     gap: 4px;
-    border: 0px rgb(8, 109, 221);
+    border: 0px transparent;
     border-top-left-radius: 0px;
     border-top-right-radius: 0px;
     border-bottom-left-radius: 0px;
@@ -3370,7 +3370,7 @@ body {
   }
 
   .callout[data-callout="success"] .callout-title {
-    --callout-color: #086ddd;
+    --callout-color: transparent;
     color: var(--callout-color);
     gap: 4px;
     border: 0px rgb(8, 109, 221);
