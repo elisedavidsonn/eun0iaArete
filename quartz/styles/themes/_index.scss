@@ -13,9 +13,9 @@
   --callout-border-opacity: 0.25;
   --callout-border-width: 0px;
   --callout-bug: var(--color-red);
-  --callout-content-background: transparent;
+  --callout-content-background: transparent !important;
   --callout-content-padding: 0;
-  --callout-default: transparent;
+  --callout-default: transparent !important;
   --callout-error: var(--color-red);
   --callout-example: var(--color-purple);
   --callout-fail: var(--color-red);
@@ -3004,7 +3004,7 @@ body {
 
   .callout {
     --callout-color: var(--callout-default);
-    border: 0px solid oklch(0.550587 0.189745 256.787 / 0.25);
+    border: 0px solid transparent;
     border-top-left-radius: 3px;
     border-top-right-radius: 3px;
     border-bottom-left-radius: 3px;
@@ -3062,7 +3062,7 @@ body {
   }
 
   .callout[data-callout="note"] {
-    --callout-color: var(--callout-default);
+    --callout-color: transparent !important;
     background-color: color-mix(in oklch, var(--callout-color) 10%, transparent);
     background-image: none;
     background: oklch(0.550587 0.189745 256.787 / 0.1) none repeat scroll 0% 0% / auto padding-box border-box;
