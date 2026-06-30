@@ -1,21 +1,24 @@
 ---
 publish: true
 title: Vuong2019-On Earth We're Briefly Gorgeous
+subtitle:
+author: Ocean Vuong
+publisher: Penguin Books
+pageCount: "246"
+publishYear: "2019"
 description: On Earth We’re Briefly Gorgeous is a letter from a son to a mother who cannot read. Written when the speaker, Little Dog, is in his late twenties, the letter unearths a family’s history that began before he was born — a history whose epicenter is rooted in Vietnam — and serves as a doorway into parts of his life his mother has never known, all of it leading to an unforgettable revelation. At once a witness to the fraught yet undeniable love between a single mother and her son, it is also a brutally honest exploration of race, class, and masculinity. Asking questions central to our American moment, immersed as we are in addiction, violence, and trauma, but undergirded by compassion and tenderness, On Earth We’re Briefly Gorgeous is as much about the power of telling one’s own story as it is about the obliterating silence of not being heard. With stunning urgency and grace, Ocean Vuong writes of people caught between disparate worlds, and asks how we heal and rescue one another without forsaking who we are. The question of how to survive, and how to make of it a kind of joy, powers the most important debut novel of many years.
-created: 2026-06-29T16:53:35.000-05:00
-modified: 2026-06-29T17:46:11.765-05:00
 tags:
   - fiction
+coverJPG:
+status: "#completed"
+modified:
+rating: "5"
+quartz-properties: true
 ---
-
 > # Author: Ocean Vuong
->
 > Published: 2019
-
 # Notes & Quotes
-
 - (Personal) See EN215 Course Notes = 02-2024
-
-## Comments & Review
+## Comments & Review 
 
 ### Works Cited

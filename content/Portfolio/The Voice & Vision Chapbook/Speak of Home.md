@@ -1,22 +1,22 @@
 ---
 publish: true
-created: 2023-03-27
-modified: 06-22-2026
+collection: "[[★ The Voice & Vision Chapbook]]"
 tags:
   - "#poetry"
+created: 2023-03-27
+modified: 06-22-2026
 ---
-
 if you were to ask me when the clouds
 had part for the sun to sneak into your sweater,
 i would answer you      “i do not know
 maybe the puddle from last April
 finally sank into December and
-i couldn’t get warm again and
-you couldn’t get home.”
+i couldn’t get warm again and 
+you couldn’t get home.” 
 
 “then what happened”      you ask
 and i will not answer, but you insist
-so i say:
+so i say: 
 
 “i forgot what i had for dinner
 but i knew when you wore that last week
