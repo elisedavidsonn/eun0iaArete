@@ -25,8 +25,6 @@ tags:
 >> | Sibling(s) | ==…==     |
 >> | Spouse(s)  | Walter Percy Bentley, Sr. (1893-1983) m.1946<br>Homer Thomas Mays, Sr. (1905-1961) m.1952      |
 >> | Children   | \[Step-] Mary Magdeyn (Mays) Green, Sr. (1921-1976)<br>\[Step-] [[Furniss Helene (Mays) Holloway]] (1927-2016)<br>\[UK] Lawrence "Larry" Thomas Mays (1949\[?]) |
-
-
 # Biography
 
 Viola (Turner) Mays built her life within classrooms defined by racism, limited opportunity for self and student, and constant pressure placed upon Black educators; a service as both teacher and advocate for youths. A mathematician, social science, and English teacher, Viola’s educational training and teachings were ineffably shaped by Midwestern segregation and racialized boundaries of the 20th century. Her life story demonstrates a slice of our shared histories; how Black women, educators, held together the intellectual and civic life of communities facing directed-institutional neglect. She continues to stand as one of the many unrecognized figures whose daily efforts pushed against the delimiting imposed by educational inequity.
@@ -88,12 +86,14 @@ In 1946, she married Walter Percy Bentley, Sr. in Indianapolis, IN. However, the
 > ![[1947-VT_JohnHopeSchool.png|center]]
 > **Photo**: *John Hope School No.26* - Faculty of 1947
 
-Between 1946 and 1950, she taught at both School No.17 and the John Hope School No.26. She appears in an early compilation of the school's history in 1947.[^15] During 1947 to 1948, she taught mathematics at the George Washington Carver School No.86 in the Butler-Tarkington Neighborhood[^16]; working alongside Pauline "Paula" ==(???)== Morton-Finney,[^17] whose husband, John Morton-Finney, was one of the city's most influential Civil Rights figures.[^18]
-
->[!callout|clean no-t txt-r]
-> > *“I never stop studying. There’s always lots to learn. When you stop learning, that’s about the end of you.”*
-> > 
-> > ~ John Morton-Finney
+> [!column]
+>> [!callout|clean no-t center]
+>> Between 1946 and 1950, she taught at both School No.17 and the John Hope School No.26. She appears in an early compilation of the school's history in 1947.[^15] During 1947 to 1948, she taught mathematics at the George Washington Carver School No.86 in the Butler-Tarkington Neighborhood[^16]; working alongside Pauline "Paula" ==(???)== Morton-Finney,[^17] whose husband, John Morton-Finney, was one of the city's most influential Civil Rights figures.[^18]
+> 
+>>[!callout|clean no-t txt-r center]
+> >> *“I never stop studying. There’s always lots to learn. When you stop learning, that’s about the end of you.”*
+> >> 
+> >> ~ John Morton-Finney
 
 By 1949, Viola returned full-time to School No.17, and in 1950, she transferred to Crispus Attucks High School (CPHS) where Morton-Finney served as principal during her tenure. She lived on the same street as her ex-husband after their divorce: the 1950 census records her as a ‘divorced lodger’ with the Blythe family at 2844 Shirver Avenue, while Walter–and his children from previous marriages–lived at 2849 Shirver, two doors down. However, both the 1950-1951 IPS Directory and 1951 City Directory record her address as the latter. Both Shriver homes have since been demolished[^30].
 

@@ -2,6 +2,8 @@
 
 ### BetterTouchTools
 
+#### BTT Clipboard
+
 ### Obsidian
 
 #### Quartz v5
