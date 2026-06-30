@@ -151,9 +151,10 @@ plugins:
   - source: github:quartz-community/explorer
     enabled: true
     options:
+      title: Encounter More
       folderClickBehavior: link
       folderDefaultState: collapsed
-      useSavedState: true
+      useSavedState: false
     layout:
       position: left
       priority: 50
