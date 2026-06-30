@@ -24,9 +24,15 @@ Viola (Turner) Mays built her life within classrooms defined by racism, limited 
 
 --- 
 
-Born on March 31st, 1910 to William Grant Turner, Sr. and Sarah Frances (Hammond) Turner in Lebanon, St. Clair, Illinois, Viola was the youngest of seven children. ==!!!== [born in Illinois, beyond the south; midwest region] a nation still defining the boundaries of Jim Crow Laws.[^1] Her childhood unfolded in our world where Black existence and advancement required constant negotiation between self, law, and white resistance. 
+Born on March 31st, 1910 to William Grant Turner, Sr. and Sarah Frances (Hammond) Turner in Lebanon, St. Clair, Illinois, Viola was the youngest of seven children. ==… [born in Illinois, beyond the south; midwest region]== a nation still defining the boundaries of Jim Crow Laws.[^1] Her childhood unfolded in our world where Black existence and advancement required constant negotiation between self, law, and white resistance. 
 
-![[1910_ViolaTurner.jpeg|left]] By 1928, she entered Illinois State Normal University (ISNU),[^2] completing her Bachelors of Science in Mathematics by 1930. As a student, she likely faced daily segregation—barred from local restaurants, theaters, and public facilities[^3]—even student housing.[^4] As ISNU students faced a scarlet fever quarantine in 1929, as well as the lingering effects of Prohibition,[^5] the limited population of students of color navigated a parallel set of restrictions rooted in the Nation's racial hierarchy and segregated system. 
+> [!multi-column]
+>
+>> [!blank]
+>> ![[1930_ViolaTurner.png|relative]]
+>
+>> [!blank]
+>> By 1928, she entered Illinois State Normal University (ISNU),[^2] completing her Bachelors of Science in Mathematics by 1930. As a student, she likely faced daily segregation—barred from local restaurants, theaters, and public facilities[^3]—even student housing.[^4] As ISNU students faced a scarlet fever quarantine in 1929, as well as the lingering effects of Prohibition,[^5] the limited population of students of color navigated a parallel set of restrictions rooted in the Nation's racial hierarchy and segregated system. 
 
 In 1931, Viola moved to St. Louis, Missouri, to attend the Sumner Normal School[^6]—one of the few teacher-training institutions open to African-Americans. She taught at the Lincoln School in Springfield, Missouri[^7] for a few years before relocating to Douglass High School.[^8] Her primary assignments placed her within the segregated educational system that carried the dual burden of education the youth and counteracting the harm of the broader racialized social order. 
 
@@ -54,9 +60,9 @@ The Shortridge High School principal, Robert Joseph Shultz—a fellow resident o
 
 After her death, Willard "Mike" Briley Ransom[^24], the son of Civil Rights leader Freeman Briley Ransom[^25], was appointed as executor of her estate. Viola's in-laws had previously resided on Blake Street in the early 1900s. The networks built by Laura Cohen and her daughters, Anna, Helen, and Furniss "Florence," were vast in the development of the historical Indiana Avenue, both within the social and educational scene. Unfortunately, Viola's son, Lawrence, was still underage and could not inherit the estate. Her stepchildren were named, but did not claim the estate. 
 
-Viola's obituary described her as the president of the Indianapolis Reading Club & Council, noting her engagements at the University of Chicago and New York State.[^26] While documentation is limited, I believe that she is pictured alongside Miss Ora Skelton-Willet in the below photograph of the Fortnightly Literary Book Club, 25th Anniversary. This photograph is on display in plaque within the "breakroom" of [[Butler University#Irwin Library]] at [[Butler University]].
+Viola's obituary described her as the president of the Indianapolis Reading Club & Council, noting her engagements at the University of Chicago and New York State.[^26] ==While documentation is limited, I believe that she is pictured alongside Miss Ora Skelton-Willet in the below photograph of the Fortnightly Literary Book Club, 25th Anniversary. This photograph is on display in plaque within the "breakroom" of [[Butler University#Irwin Library]] at [[Butler University]].==
 
-*Note that this club differs from the Fortnightly Literary Club founded in 1885 as the Nameless Literary Club at Butler University[^27]. The Fortnightly Literary Book Club was founded by Miss Ora Skelton-Willet due to discrimination and segregated policies for the university's clubs.[^28]*
+*Note that this club differs from the Fortnightly Literary Club founded in 1885 as the Nameless Literary Club at Butler University[^27]. The Fortnightly Literary Book Club was founded in 1913 by Miss Ora Skelton-Willet, yet delayed official operation until 1923 due to discrimination and segregated policies for the university's clubs.[^28]*
 
 On September 10, 1963, three books were donated to the Shortridge High School library in honor of Viola's educational legacy.[^29]
 - Human Relations in Teaching
