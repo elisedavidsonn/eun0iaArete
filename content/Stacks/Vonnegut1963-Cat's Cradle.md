@@ -1,23 +1,19 @@
 ---
 publish: true
 title: Vonnegut1963-Cat's Cradle
-subtitle:
-author: Kurt Vonnegut, Jr.
-publisher: Dial Press
-pageCount: "191"
-publishYear: "1953"
 description: “A free-wheeling vehicle . . . an unforgettable ride!”—The New York Times Cat’s Cradle is Kurt Vonnegut’s satirical commentary on modern man and his madness. An apocalyptic tale of this planet’s ultimate fate, it features a midget as the protagonist, a complete, original theology created by a calypso singer, and a vision of the future that is at once blackly fatalistic and hilariously funny. A book that left an indelible mark on an entire generation of readers, Cat’s Cradle is one of the twentieth century’s most important works—and Vonnegut at his very best. “[Vonnegut is] an unimitative and inimitable social satirist.”—Harper’s Magazine “Our finest black-humorist . . . We laugh in self-defense.”—Atlantic Monthly
+created: 2026-06-29T16:53:35.000-05:00
+modified: 2026-06-29T17:46:01.298-05:00
 tags:
   - fiction
-coverJPG:
-status: "#completed"
-modified:
-rating: "5"
-quartz-properties: true
 ---
+
 > # Author: Kurt Vonnegut, Jr.
+>
 > Published: 1963
+
 # Notes & Quotes
-## Comments & Review 
+
+## Comments & Review
 
 ### Works Cited

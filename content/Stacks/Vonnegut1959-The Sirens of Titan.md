@@ -1,23 +1,18 @@
 ---
 publish: true
 title: Vonnegut1959-The Sirens of Titan
-subtitle:
-author: Kurt Vonnegut, Jr.
-publisher: Dial Press
-pageCount: "221"
-publishYear: "1959"
-description:
+created: 2026-06-29T16:53:35.000-05:00
+modified: 2026-06-29T17:45:58.492-05:00
 tags:
   - fiction
-coverJPG:
-status: "#not-started"
-modified:
-rating:
-quartz-properties: true
 ---
+
 > # Author: Kurt Vonnegut, Jr.
+>
 > Published: 1959
+
 # Notes & Quotes
-## Comments & Review 
+
+## Comments & Review
 
 ### Works Cited
