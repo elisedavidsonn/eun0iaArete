@@ -111,22 +111,12 @@ p, text, li {
   font-weight: 400 !important;
 }
 
-button.mobile-explorer,button.desktop-explorer {
-        text-align: left;
-        cursor: pointer;
-        color: var(--dark);
-        background-color: #0000;
-        border: none;
-        align-items: center;
-        padding: 0;
-        display: flex
-    }
-
-    button.mobile-explorer h2,button.desktop-explorer h2 {
-        margin: 0;
-        font-size: 1.05rem !important;
-        display: inline-block
-    }
+button.mobile-explorer h2, button.desktop-explorer h2 {
+    margin: 0;
+    display: inline-block;
+    font-size: 1.05rem !important;
+    font-weight: bold !important;
+}
 
 // page title
 .left-sidebar > .page-title {

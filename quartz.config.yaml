@@ -151,7 +151,7 @@ plugins:
   - source: github:quartz-community/explorer
     enabled: true
     options:
-      title: ˖⁺‧₊˚ Encounter ˚₊‧⁺˖★
+      title: ˖⁺‧₊˚ Encounter ˚₊‧⁺˖
       folderClickBehavior: link
       folderDefaultState: collapsed
       useSavedState: false
