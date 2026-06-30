@@ -2,6 +2,16 @@
 
 // put your custom CSS here!
 
+// transparent default callouts
+.callout {
+  &[data-callout="callout"] {
+    --color: transparent !important;
+    --border: transparent !important;
+    --bg: transparent !important;
+    --callout-icon: transparent !important;
+  }
+}
+
 //// dividers ////
 hr {
   overflow: visible;
