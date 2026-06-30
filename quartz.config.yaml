@@ -17,8 +17,8 @@ configuration:
     cdnCaching: true
     typography:
       header: Cormorant Garamond
-      body: Source Sans Pro
-      code: IBM Plex Mono
+      body: Hanken Grotesk
+      code: Fira Code
     colors:
       lightMode:
         light: "#fbfaf9"
