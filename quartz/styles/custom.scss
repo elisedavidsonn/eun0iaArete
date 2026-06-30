@@ -12,6 +12,13 @@
   }
 }
 
+.callout[data-callout] {
+    --color: #transparent !important;
+    --border: #transparent !important;
+    --bg: #transparent !important;
+    --callout-icon: var(--callout-icon-note);
+}
+
 //// dividers ////
 hr {
   overflow: visible;
