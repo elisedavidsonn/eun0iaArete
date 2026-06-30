@@ -7,15 +7,15 @@ tags:
   - bb-wip
 ---
 
-> [!multi-column]
-> 
-> > [!blank|relative]
+> [!column|no-t clean]
+>
+> > [!blank|clean relative]
 > > ![[ViolaTM-Framed.png|profile+medium center]]
 > > 
 > > **Birth**: 31 Mar 1910 | Lebanon, IL
 > > **Death**: 16 Feb 1963 | Indianapolis, IN
 > 
->> [!blank| wide-4 table]
+>> [!blank|clean wide-4 table]
 >> 
 | Relation   | Name                                                                                                                                                        |
 | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -26,10 +26,6 @@ tags:
 | Children   | \[Step-] Mary Magdeyn (Mays) Green, Sr. (1921-1976)<br>\[Step-] [[Furniss Helene (Mays) Holloway]] (1927-2016)<br>\[UK] Lawrence "Larry" Thomas Mays (1949\[?]) |
 
 
-
-
-
-
 # Biography
 
 Viola (Turner) Mays built her life within classrooms defined by racism, limited opportunity for self and student, and constant pressure placed upon Black educators; service as both teacher and advocate. A Midwestern mathematician, she taught across Missouri, Ohio, and Indiana: her training into school systems ineffably shaped by the segregation and racialized boundaries of the 20th century. Her lifestory demonstrates a slice of our shared realities; how Black women, educators, held together the intellectual and civic life of communities facing directed-institutional neglect. She continues to stand as one of the many unrecognized figures whose daily efforts pushed against the delimiting imposed by educational inequity.
@@ -38,32 +34,32 @@ Viola (Turner) Mays built her life within classrooms defined by racism, limited 
 
 Born on March 31st, 1910 to William Grant Turner, Sr. and Sarah Frances (Hammond) Turner in Lebanon, St. Clair, Illinois, Viola was the youngest of seven children. ==… \[born in Illinois, beyond the south; midwest region]== a nation still defining the boundaries of Jim Crow Laws.[^1] Her childhood unfolded in our world where Black existence and advancement required constant negotiation between self, law, and white resistance.
 
-> [!multi-column]
+> [!column|no-t clean]
 >
-> > [!blank]
+> > [!blank|clean]
 > > ![[_meta/_attachments/1930_ViolaTurner.png|relative center]]
 >
-> > [!blank]
+> > [!blank|clean]
 > > By 1928, she entered Illinois State Normal University (ISNU),[^2] completing her Bachelors of Science in Mathematics by 1930. As a student, she likely faced daily segregation—barred from local restaurants, theaters, and public facilities[^3]—even student housing.[^4] As ISNU students faced a scarlet fever quarantine in 1929, as well as the lingering effects of Prohibition,[^5] the limited population of students of color navigated a parallel set of restrictions rooted in the Nation's racial hierarchy and segregated system.
 > >
 > > **Photo:** _“The Index” Yearbook, 1929-1930_
 
-> [!multi-column]
+> [!column|no-t clean]
 >
-> > [!blank]
+> > [!blank|clean]
 > > In 1931, Viola moved to St. Louis, Missouri, to attend the Sumner Normal School[^6]—one of the few teacher-training institutions open to African-Americans. She taught at the Lincoln School in Springfield, Missouri[^7] for a few years before relocating to Douglass High School.[^8] Her primary assignments placed her within the segregated educational system that carried the dual burden of education the youth and counteracting the harm of the broader racialized social order. 
 > > > “Lincoln High School was the cornerstone for every African-American that hit this town.”
 > > > 
 > > > _**Herman Horn, Jr.** - Class of 1946_
 >
-> > [!blank]
+> > [!blank|clean]
 > > ![[1930s-VT_LincolnSchool.png|relative center]]
 > >
 > > **Photo:** _The Springfield Press, September 5, 1931_
 
 In 1936, Viola began teaching kindergarten and physical education[^9] at the Paul Laurence Dunbar High School in Dayton, Ohio.[^10] Dunbar was a landmark of Black academic achievement during the early 20th century; her colleagues included Jessie Scott Hathcock, the first woman of color to graduate from the University of Dayton in 1930. Hathcock's lifework was dedicated the exposition of academic inequities in local high-schooling and undergraduate education.[^11] Viola's was heavily involved with the Dayton Y.W.C.A. and NAACP which placed her at the intersection of both education and activism.[^12] The lack of recognition as a central agent within a politicized life while cultivating literacy and critical thought in the face of exclusionary policies must have been a heavy encumbrance at just twenty-six years old.
 
-> [!column|no-t]
+> [!column|no-t clean]
 >
 > > [!blank|clean] 
 > >
@@ -81,13 +77,13 @@ After World War II, Viola returned to Indiana, residing in the city where reside
 
 In 1946, she married Walter Percy Bentley, Sr. in Indianapolis, IN. However, they divorced just three years later; they had no children together.
 
-> [!blank]
+> [!blank|clean]
 > ![[1947-VT_JohnHopeSchool.png|center txt-c]]
 > **Photo**: *John Hope School No.26* - Faculty of 1947
 
 Between 1946 and 1950, she taught at both School No.17 and the John Hope School No.26. She appears in an early compilation of the school's history in 1947.[^15] During 1947 to 1948, she taught mathematics at the George Washington Carver School No.86 in the Butler-Tarkington Neighborhood[^16]; working alongside Pauline "Paula" ==(???)== Morton-Finney,[^17] whose husband, John Morton-Finney, was one of the city's most influential Civil Rights figures.[^18]
 
->[!blank|txt-r]
+>[!blank|clean txt-r]
 > > *“I never stop studying. There’s always lots to learn. When you stop learning, that’s about the end of you.”*
 > > 
 > >~ John Morton-Finney
@@ -96,36 +92,34 @@ By 1949, Viola returned full-time to School No.17, and in 1950, she transferred 
 
 Viola married Homer Thomas Mays, Sr. in 1952, becoming the step-mother of fellow IPS teacher, Mrs. Furniss (Mays) Holloway and the late Homer William Mays, Jr: together, they would live at 2954 Paris Avenue (demolished) for two years before moving to 3236 Graceland Avenue. Homer was the co-proprietor of [[S&M Cleaners|S&M Cleaners on 38th Street]].
 
-> [!blank|bg-green] 
+> [!blank|clean bg-green] 
 > **Note**: Another child relationship includes: Lawrence "Larry" Thomas Mays. His mother is unknown, yet Larry was noted as the son of Viola whom discovered her upon death; her leave of absence in 1959 potentially corresponds with his birthyear. 
 
 In February of 1956, Mrs. Viola Mays sponsored the formation of the Gloria Lockerman Spelling Club at Crispus Attucks after the young spelling-champion’s triumphant run the prior year in effort to support and encourage more African-American students to fall in love with spelling.[^19]
 
-> [!multi-column|blank]
-> 
+> [!column|no-t clean]
+>
 > > [!blank|txt-c]
 >> ![[1956-VTM_GLNamed.png|center txt-c]]
 >> **Source**: The Indianapolis Recorder - October 1, 1955.
 >> *Referred to Miss Gloria as “a symbol for the accident of democracy.”*
 >
->> [!blank|]
+>> [!blank|clean]
 >> Gloria Lockerman of West Baltimore at then just twelve-years old[^37] when she faced an upset as a finalist representing Baltimore City and Booker T. Washington Junior High at the National Spelling Bee in Washington, D.C. in May of 1955.[^31] She quickly rose to fame on the TV show, “$64,000 Question” on August 17, 1955, correctly spelling “antidisestablishmentarianism” and winning $8,000. She returned to gamble her winnings by spelling the phrase, “The belligerent astigmatic anthropologist annihilated innumerable chrysanthemums,” walking away with $16,000 to be put in a trust fund for her education.[^20] She appeared on the Martha Raye Show[^33] in a September production titled “Tallulah Bankhead.”[^32] 
 >> 
 >> The young Lockerman came to Indianapolis on October 6, 1955: her itinerary for the day was massive with visits to three of the then four main high schools, Crispus Attucks, Arsenal Tech, and Cathedral High, as well as Schools No.87 and 41, plus a visit with the mayor. 
-
-
 
 ![[1955-VTM-GloriaLockerman1.png]]
 
 ![[1955-VTM_GloriaLockerman2.png]]
 
-> [!multi-column|blank]
-> 
-> > [!blank|center txt-c]
+> [!column|no-t clean]
+>
+> > [!blank|center txt-c clean]
 > > ![[1955-VTM_GLWinner.png]]
 >> **Source:** [The Indianapolis Recorder,](https://newspapers.library.in.gov/?a=d&d=INR19551029-01.1.10&srpos=1&e=-------en-20--1--txt-txIN-%22gloria+lockerman+spelling+club%22------) - October 29, 1955
 >
-> > [!blank|center txt-r]
+> > [!blank|center txt-r clean]
 >> > *“‘In that summer of ’55 she went from being a shy, brilliant student to an object of the country’s collective curiosity-both because she was so smart at such a young age and because the fact that she was black went against many Americans’ backward stereotypes of the intellectual capacities of black people during that era.’”*
 >>>
 >> > **Personal account** from [Gloria Lockerman](https://otrfan68.wordpress.com/2009/09/05/more-about-gloria-lockerman-of-64000-question-fame/), retold by Vicki Robison - (2019)
@@ -141,8 +135,8 @@ Her second-husband, Homer Mays, Sr., passed from lung cancer on September 20, 19
 
 The Shortridge High School principal, Robert Joseph Shultz—a fellow resident of the Butler-Tarkington neighborhood—remembered Viola as a "marvelous teacher," nothing that she had been ill for a year. A family spokesperson described her as an "anemic" and that "she was frequently concerned about her health."[^22] The stigmas surrounding mental health, specifically the well-being of Black women, and the room to express the need for help was fraught during the movement of Civil Rights, attention was directed to other areas of concern: Viola's lifetime is just one example of the immense self-perseverance and sacrifice to be of education to one's own community in spite of mutual aid. During the 60's in Indianapolis—times of "integration" in IPS and subsequent white flight in neighborhoods[^23]—Black teachers bore extremely heavy emotional, physical, and professional demands. Systems dependent on daily labor scarcely protected well-being: this system in Indianapolis' education is arguably extant to this day.
 
-> [!multi-column]
-> 
+> [!column|no-t clean]
+>
 > > [!blank|txt-l] 
 > > ![[1963-VTM_Suicide1.png]]
 > > > *“‘This untimely death was an irresitible urge to find rest in a troubled mind,’ Rev. Benn stated in reading the eulogy. ‘It is not our duty, whether preacher or laymen, to condemn her actions, for that is left up to God.”* ~ Euology by Rev. Benn
@@ -150,7 +144,7 @@ The Shortridge High School principal, Robert Joseph Shultz—a fellow resident o
 > > [!blank] 
 > > ![[1963-VTM_Suicide2.png|center]]
 
-> [!multi-column]
+> [!column|no-t clean]
 >
 > > [!blank]
 > > ![[1963-VTM_Suicide3.png|wfull center]]
@@ -163,8 +157,8 @@ The Shortridge High School principal, Robert Joseph Shultz—a fellow resident o
 
 After her death, Willard "Mike" Briley Ransom[^24], the son of Civil Rights leader Freeman Briley Ransom[^25], was appointed as executor of her estate. Viola's in-laws had previously resided on Blake Street in the early 1900s. The networks built by Laura Cohen and her daughters, Anna, Helen, and Furniss "Florence," were vast in the development of the historical Indiana Avenue, both within the social and educational scene. Unfortunately, Viola's son, Lawrence, was still underage and could not inherit the estate. Her stepchildren were named, but did not claim the estate.
 
-> [!multi-column]
-> 
+> [!column|no-t clean]
+>
 > > [!blank]
 > > ![[1963-VTM_NoticeOfEstate.png|center]]
 > 
