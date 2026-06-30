@@ -3003,8 +3003,8 @@ body {
   }
 
   .callout {
-    --callout-color: var(--callout-default);
-    border: 0px solid transparent;
+    --callout-color: transparent !important;
+    border: 0px solid transparent !important;
     border-top-left-radius: 3px;
     border-top-right-radius: 3px;
     border-bottom-left-radius: 3px;
