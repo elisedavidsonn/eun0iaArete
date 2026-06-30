@@ -15,15 +15,15 @@ tags:
 > > **Birth**: 31 Mar 1910 | Lebanon, IL
 > > **Death**: 16 Feb 1963 | Indianapolis, IN
 > 
->> [!blank|]
+>> [!blank]
 >> 
-| Relation   | Name      |
-| ---------- | ----------- |
-| Father     | William “Willie” Grant Turner, Sr. (1872-1957)     |
-| Mother     | Sarah Frances (Hammond) Turner (1868-1948)      |
-| Sibling(s) | ==…==     |
-| Spouse(s)  | Walter Percy Bentley, Sr. (1893-1983) m.1946<br>Homer Thomas Mays, Sr. (1905-1961) m.1952      |
-| Children   | \[Step-] Mary Magdeyn (Mays) Green, Sr. (1921-1976)<br>\[Step-] [[Furniss Helene (Mays) Holloway]] (1927-2016)<br>\[UK] Lawrence "Larry" Thomas Mays (1949\[?]) |
+>> | Relation   | Name      |
+>> | ---------- | ----------- |
+>>| Father     | William “Willie” Grant Turner, Sr. (1872-1957)     |
+>> | Mother     | Sarah Frances (Hammond) Turner (1868-1948)      |
+>> | Sibling(s) | ==…==     |
+>> | Spouse(s)  | Walter Percy Bentley, Sr. (1893-1983) m.1946<br>Homer Thomas Mays, Sr. (1905-1961) m.1952      |
+>> | Children   | \[Step-] Mary Magdeyn (Mays) Green, Sr. (1921-1976)<br>\[Step-] [[Furniss Helene (Mays) Holloway]] (1927-2016)<br>\[UK] Lawrence "Larry" Thomas Mays (1949\[?]) |
 
 
 # Biography
@@ -32,15 +32,15 @@ Viola (Turner) Mays built her life within classrooms defined by racism, limited 
 
 ---
 
-Born on March 31st, 1910 to William Grant Turner, Sr. and Sarah Frances (Hammond) Turner in Lebanon, St. Clair, Illinois, Viola was the youngest of seven children. ==… \[born in Illinois, beyond the south; midwest region]== a nation still defining the boundaries of Jim Crow Laws.[^1] Her childhood unfolded in our world where Black existence and advancement required constant negotiation between self, law, and white resistance.
+Born on March 31st, 1910 to William Grant Turner, Sr. and Sarah Frances (Hammond) Turner in Lebanon, St. Clair, Illinois, Viola was the youngest of seven children. ==… [born in Illinois, beyond the south; midwest region]== a nation still defining the boundaries of Jim Crow Laws.[^1] Her childhood unfolded in our world where Black existence and advancement required constant negotiation between self, law, and white resistance.
 
 > [!column|no-t clean]
 >
-> > [!blank|clean]
-> > ![[_meta/_attachments/1930_ViolaTurner.png|relative center]]
+>> [!blank]
+>> ![[_meta/_attachments/1930_ViolaTurner.png|relative center]]
 >
-> > [!blank|clean]
-> > By 1928, she entered Illinois State Normal University (ISNU),[^2] completing her Bachelors of Science in Mathematics by 1930. As a student, she likely faced daily segregation—barred from local restaurants, theaters, and public facilities[^3]—even student housing.[^4] As ISNU students faced a scarlet fever quarantine in 1929, as well as the lingering effects of Prohibition,[^5] the limited population of students of color navigated a parallel set of restrictions rooted in the Nation's racial hierarchy and segregated system.
+>> [!blanl]
+>> By 1928, she entered Illinois State Normal University (ISNU),[^2] completing her Bachelors of Science in Mathematics by 1930. As a student, she likely faced daily segregation—barred from local restaurants, theaters, and public facilities[^3]—even student housing.[^4] As ISNU students faced a scarlet fever quarantine in 1929, as well as the lingering effects of Prohibition,[^5] the limited population of students of color navigated a parallel set of restrictions rooted in the Nation's racial hierarchy and segregated system.
 > >
 > > **Photo:** _“The Index” Yearbook, 1929-1930_
 
@@ -191,9 +191,16 @@ Each title includes a bookplate that reads: "in memory of Mrs. Viola Mays, from 
 
 ## Timeline
 
+|Date     | Event    |
+| --- | --- |
+| 1910    |  Birth   |
+| 1963 | Death | 
+
+
 ### Attachments
 
 ### Sources
+(See footnotes for hyperlinked sources)
 
 [^1]: https://www.proquest.com/scholarly-journals/jim-crow-comes-central-illinois-racial/docview/2083618956/se-2
 
