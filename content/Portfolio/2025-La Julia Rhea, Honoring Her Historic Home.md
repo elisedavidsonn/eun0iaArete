@@ -5,7 +5,7 @@ tags:
   - historicHomes
 modified:
 ---
-# [[LaJulia Elizabetha (Ray) Rhea]] (1898-1998)
+# [[LaJulia Elizabeth (Ray) Rhea]] (1898-1998)
 **Address**: 2914 W. 141st Place, Blue Island, Chicago, IL
 
 Research compiled for both course requirement and personal pursuit in Museum Studies with Dr. Niger Sultana, F26.
