@@ -49,11 +49,11 @@ blockquote.transclude {
     --gray: #7e6f69;
     --darkgray: #4c4440;
     --dark: #3e3632;
-    --secondary: #7EAE82;
-    --tertiary: #526b54;
+    --secondary: #7EAE82 !important;
+    --tertiary: #526b54 !important;
 }
 
-.main {
+.main [saved-theme=light]{
     --color-btn-primary-bg:#526b54;
     --color-btn-primary-hover-bg: #a2b8a3;
 }
@@ -70,31 +70,6 @@ h1, h2, h3, h4, h5, h6, thead, strong, em, blockquote>p, tbody {
 
 p, text, li {
   color: var(--darkgray);
-}
-
-
-//giscus
-.btn-primary {
-    background-color: var(--color-btn-primary-bg) !important;
-    border-color: var(--color-btn-primary-border);
-    box-shadow: var(--color-btn-primary-shadow),var(--color-btn-primary-inset-shadow);
-    color: var(--color-btn-primary-text)
-}
-
-.btn-primary:hover {
-    background-color: var(--color-btn-primary-hover-bg) !important;
-    border-color: var(--color-btn-primary-hover-border)
-}
-
-.btn-primary:active {
-    background-color: var(--color-btn-primary-selected-bg) !important;
-    box-shadow: var(--color-btn-primary-selected-shadow)
-}
-
-.btn-primary:disabled {
-    background-color: var(--color-btn-primary-disabled-bg);
-    border-color: var(--color-btn-primary-disabled-border);
-    color: var(--color-btn-primary-disabled-text)
 }
 
 //explorer styles
