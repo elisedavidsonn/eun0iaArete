@@ -20,6 +20,3 @@
 | OPT+CMD+Button 3 | OPT+CMD+right | Next Folder     |
 | OPT+CMD+Button 4 | OPT+CMD+left  | Previous Folder |
 
-
-
-#### Quartz v5

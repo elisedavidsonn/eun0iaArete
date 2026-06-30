@@ -10,7 +10,7 @@
   --icon-size: var(--icon-m) !important;
   --icon-stroke: var(--icon-m-stroke-width) !important;
   --callout-blend-mode: var(--highlight-mix-blend-mode);
-  --callout-border-opacity: 0.25;
+  --callout-border-opacity: 0;
   --callout-border-width: 0px;
   --callout-bug: var(--color-red);
   --callout-content-background: transparent !important;
@@ -3063,7 +3063,7 @@ body {
 
   .callout[data-callout="note"] {
     --callout-color: transparent !important;
-    background-color: transparent !important);
+    background-color: transparent !important;
     background-image: none;
     background: transparent none repeat scroll 0% 0% / auto padding-box border-box;
     color: rgb(33, 33, 33);

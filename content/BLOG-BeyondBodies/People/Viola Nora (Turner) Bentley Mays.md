@@ -7,7 +7,7 @@ tags:
   - bb-wip
 ---
 
-> [!column|flex 2]
+> [!column|flex 2 center]
 >
 > > [!callout|clean no-t txt-c]
 > >
