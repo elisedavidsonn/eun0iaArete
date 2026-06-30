@@ -111,6 +111,23 @@ p, text, li {
   font-weight: 400 !important;
 }
 
+button.mobile-explorer,button.desktop-explorer {
+        text-align: left;
+        cursor: pointer;
+        color: var(--dark);
+        background-color: #0000;
+        border: none;
+        align-items: center;
+        padding: 0;
+        display: flex
+    }
+
+    button.mobile-explorer h2,button.desktop-explorer h2 {
+        margin: 0;
+        font-size: 1.05rem !important;
+        display: inline-block
+    }
+
 // page title
 .left-sidebar > .page-title {
   font-size: 1.8rem !important;
@@ -205,10 +222,10 @@ body{
 
 }
 .theme-dark {
-/*	--background-mcl-card: hsl(300, 5%, 15%); */
+--background-mcl-card: hsl(300, 5%, 15%);
 }
 .theme-light {
-/*	--background-mcl-card: hsl(300, 5%, 90%); */
+--background-mcl-card: hsl(300, 5%, 90%);
 }
 
 
@@ -298,7 +315,7 @@ body{
 		}
 
 	/* -- MCC Variant - Flexible Height for Subcallout / Children -- */
-		/* also useful if one wants to have non callout children like table and don't want to fill the height */
+		/* also useful if one wants to have non callout children like table and don't want to fill the height 
 		div[data-callout="multi-column"].callout {}
 		div[data-callout="multi-column"][data-callout-metadata*="flex-h"].callout { align-items: flex-start; }
 
