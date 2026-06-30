@@ -9,20 +9,20 @@ tags:
 
 > [!column|no-t clean]
 >
-> > [!blank|clean]
+> > [!blank]
 > > ![[ViolaTM-Framed.png|wsmall]]
 > > 
 > > **Birth**: 31 Mar 1910 | Lebanon, IL
 > > **Death**: 16 Feb 1963 | Indianapolis, IN
 > 
->> [!blank|clean]
+>> [!blank|]
 >> 
-| Relation   | Name                                                                                                                                                        |
-| ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Father     | William “Willie” Grant Turner, Sr. (1872-1957)                                                                                                              |
-| Mother     | Sarah Frances (Hammond) Turner (1868-1948)                                                                                                                  |
-| Sibling(s) | ==…==                                                                                                                                                       |
-| Spouse(s)  | Walter Percy Bentley, Sr. (1893-1983) m.1946<br>Homer Thomas Mays, Sr. (1905-1961) m.1952                                                                   |
+| Relation   | Name      |
+| ---------- | ----------- |
+| Father     | William “Willie” Grant Turner, Sr. (1872-1957)     |
+| Mother     | Sarah Frances (Hammond) Turner (1868-1948)      |
+| Sibling(s) | ==…==     |
+| Spouse(s)  | Walter Percy Bentley, Sr. (1893-1983) m.1946<br>Homer Thomas Mays, Sr. (1905-1961) m.1952      |
 | Children   | \[Step-] Mary Magdeyn (Mays) Green, Sr. (1921-1976)<br>\[Step-] [[Furniss Helene (Mays) Holloway]] (1927-2016)<br>\[UK] Lawrence "Larry" Thomas Mays (1949\[?]) |
 
 
