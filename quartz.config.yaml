@@ -257,9 +257,6 @@ plugins:
     enabled: true
     options:
       title: ‧⁺˖ Recent Notes ˖⁺‧
-      limit: 3
-      showTags: false
-      linkToMore: true
     layout:
       position: right
   - source: github:quartz-community/spacer
