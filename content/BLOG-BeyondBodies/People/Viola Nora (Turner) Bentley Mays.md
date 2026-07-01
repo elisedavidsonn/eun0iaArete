@@ -206,17 +206,21 @@ Each title includes a bookplate that reads: "in memory of Mrs. Viola Mays, from 
 **Viola Nora (Turner) Bentley Mays rests beside her late husband Homer in Crown Hill Cemetery, Section 99, Lot 3862.**
 
 ---
-## Timeline
+# Timeline
 
 |Date     | Event    |
 | --- | --- |
 | 1910    |  Birth   |
 | 1963 | Death | 
 
-### Attachments
+## Research Notes
 
-### Sources
-(See footnotes for hyperlinked sources)
+# Sources
+*See footnotes for hyperlinked sources.*
+
+## Attachments
+
+
 
 [^1]: https://www.proquest.com/scholarly-journals/jim-crow-comes-central-illinois-racial/docview/2083618956/se-2
 
