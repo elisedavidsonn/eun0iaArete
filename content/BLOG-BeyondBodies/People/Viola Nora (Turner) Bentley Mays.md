@@ -213,10 +213,28 @@ Each title includes a bookplate that reads: "in memory of Mrs. Viola Mays, from 
 
 # Timeline
 
-|Date     | Event    |
-| --- | --- |
-| 1910    |  Birth   |
-| 1963 | Death |
+| Date        | Event                                                                              | Location               |
+| ----------- | ---------------------------------------------------------------------------------- | ---------------------- |
+| 1910        | **BIRTH**                                                                          | Lebanon, IL            |
+| 1928        | Enrollment at [[Illinois State Normal University]]                                 | Bloomington-Normal, IL |
+| 1930        | Graduated w/ B.S. from [[Illinois State Normal University\|ISNU]]                  | Bloomington-Normal, IL |
+| 1931        | Attending the [[Sumner Normal School]]                                             | St. Louis, MO          |
+| 1933        | Teaching at the [[Douglass High School]]                                           | Webster Groves, MO     |
+| 1936        | Teaching at the [[Paul Laurence Dunbar High Schoo]]                                | Dayton, OH             |
+| 1945        | Teaching at [[Booker T. Washington School, No.17]]                                 | Indianapolis, IN       |
+| 1946        | **Marriage** to Walter Percy Bentley, Sr.                                          | Indianapolis, IN       |
+| 1946-1950   | Teaching at [[Booker T. Washington School, No.17]] AND [[John Hope School, No.26]] | Indianapolis, IN       |
+| 1947        | Teaching at [[George Washington Carver School, No.86]]                             | Indianapolis, IN       |
+| 1949        | **Divorce** from Walter Percy Bentley, Sr.                                         | Indianapolis, IN       |
+| 1949        | Returning to teach ONLY [[Booker T. Washington School, No.17]]                     | Indianapolis, IN       |
+| ==1950==\[?] | Teaching at [[Crispus Attucks High School]]                                        | Indianapolis, IN       |
+| 1952        | **Marriage** to Homer Thomas Mays, Sr.                                             | Indianapolis, IN       |
+| 1956        | Formation of the Gloria Lockerman Spelling Club at [[Crispus Attucks High School]] | Indianapolis, IN       |
+| 1957        | Returning to teach ONLY [[Booker T. Washington School, No.17]]                     | Indianapolis, IN       |
+| ! 1959      | Birth of Lawrence Thomas Mays \[contested]<br>+Leave of Absence                     | Indianapolis, IN       |
+| 1960        | Teaching at [[Shortridge High School]]                                             | Indianapolis, IN       |
+| 1961        | **Death** of husband, Homer Thomas Mays, Sr.                                       | Indianapolis, IN       |
+| 1963        | **DEATH** by suicide at residence                                                  | Indianapolis, IN       |
 
 ## Research Notes
 
