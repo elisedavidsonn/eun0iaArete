@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: quartz.eun0iaArete.com
+  baseUrl: elisedavidsonn.github.io/eun0iaArete
   ignorePatterns:
     - private
     - templates
