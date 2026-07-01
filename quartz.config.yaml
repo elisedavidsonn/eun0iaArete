@@ -259,6 +259,7 @@ plugins:
       title: ‧⁺˖ Recent Notes ˖⁺‧
     layout:
       position: right
+      showTags: false
   - source: github:quartz-community/spacer
     enabled: true
     options: {}
