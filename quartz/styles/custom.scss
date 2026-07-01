@@ -53,17 +53,19 @@ blockquote.transclude {
   line-height: 2em;
 }
 
-//self chosen colors
+//self chosen accent colors
 :root {
+    --secondary: #7EAE82 !important;
+    --tertiary: #526b54 !important;
+}
+
+:root [saved-theme=light]{
     --light: #fbfaf9;
     --lightgray: #7b6c65;
     --gray: #7e6f69;
     --darkgray: #4c4440;
     --dark: #3e3632;
-    --secondary: #7EAE82 !important;
-    --tertiary: #526b54 !important;
 }
-
 .main [saved-theme=light]{
     --color-btn-primary-bg:#526b54;
     --color-btn-primary-hover-bg: #a2b8a3;
