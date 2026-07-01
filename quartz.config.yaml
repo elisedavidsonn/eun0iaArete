@@ -255,6 +255,13 @@ plugins:
         Discord Community: https://discord.gg/cRFFHYye7t
   - source: github:quartz-community/recent-notes
     enabled: true
+    options:
+      title: ‧⁺˖ Recent Notes ˖⁺‧
+      limit: 3
+      showTags: false
+      linkToMore: true
+    layout:
+      position: right
   - source: github:quartz-community/spacer
     enabled: true
     options: {}
