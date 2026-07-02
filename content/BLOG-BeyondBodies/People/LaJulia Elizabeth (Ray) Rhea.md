@@ -1,8 +1,32 @@
 ---
 publish: true
-created: 2026-07-01T08:04:08.643-05:00
-modified: 2026-07-01T14:22:23.539-05:00
+created: 2026-07-01T14:22:29.422-05:00
+modified: 2026-07-01T14:29:04.359-05:00
 tags:
   - bb-profile
   - bb-wip
 ---
+
+| Relation   | Name |
+| ---------- | ---- |
+| Father     |      |
+| Mother     |      |
+| Sibling(s) |      |
+| Spouse     |      |
+| Children   |      |
+
+# Biography
+
+---
+
+# Timeline
+
+## Research Notes
+- [[Davidson_LaJuliaRhea-HistoricHome.pdf]]
+- [[GatherSources-LaJulia.pdf]]
+
+# Sources
+
+_See footnotes for hyperlinked sources._
+
+## Attachments
