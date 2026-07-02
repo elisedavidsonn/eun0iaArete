@@ -88,7 +88,7 @@ In 1946, she married Walter Percy Bentley, Sr. in Indianapolis, IN. However, the
 
 > [!column]
 >> [!callout|clean no-t center]
->> Between 1946 and 1950, she taught at both School No.17 and the John Hope School No.26. She appears in an early compilation of the school's history in 1947.[^15] During 1947 to 1948, she taught mathematics at the George Washington Carver School No.86 in the Butler-Tarkington Neighborhood[^16]; working alongside Pauline "Paula" ==(???)== Morton-Finney,[^17] whose husband, John Morton-Finney, was one of the city's most influential Civil Rights figures.[^18]
+>> Between 1946 and 1950, she taught at both School No.17 and the John Hope School No.26. She appears in an early compilation of the school's history in 1947.[^15] During 1947 to 1948, she taught mathematics at the George Washington Carver School No.86 in the Butler-Tarkington Neighborhood[^16]; working alongside Pauline "Paula" Angeline (Ray) Morton-Finney,[^17] whose husband, John Morton-Finney, was one of the city's most influential Civil Rights figures.[^18]
 > 
 >>[!callout|clean no-t txt-r center]
 > >> *“I never stop studying. There’s always lots to learn. When you stop learning, that’s about the end of you.”*
@@ -150,36 +150,36 @@ The Shortridge High School principal, Robert Joseph Shultz—a fellow resident o
 
 > [!column]
 >
->> [!callout|clean no-t txt-l center] 
+>> [!callout|clean no-t txt-l] 
 >>
 > > ![[1963-VTM_Suicide1.png]]
 > > > *“‘This untimely death was an irresitible urge to find rest in a troubled mind,’ Rev. Benn stated in reading the eulogy. ‘It is not our duty, whether preacher or laymen, to condemn her actions, for that is left up to God.’”* ~ Euology by Rev. Benn
 >
-> > [!callout|clean no-t center] 
+> > [!callout|clean no-t] 
 >>
-> > ![[1963-VTM_Suicide2.png|center]]
+> > ![[1963-VTM_Suicide2.png]]
 >
-> > [!callout|clean no-t center]
+> > [!callout|clean no-t]
 >>
-> > ![[1963-VTM_Suicide3.png|wfull center]]
+> > ![[1963-VTM_Suicide3.png|wfull]]
 >>>
 > > > **Comment**: My college rental, [[268 Berkley Road]], was located just a few block away from her late property. I would alter my route each time I returned home to give blessings to Viola and her son, Lawrence.
 > 
-> > [!callout|clean no-t center]
+> > [!callout|clean no-t]
 >>
-> > ![[1963-VTM_Suicide4.png|relative wtall center]]
+> > ![[1963-VTM_Suicide4.png|relative wtall]]
 
 After her death, Willard "Mike" Briley Ransom[^24], the son of Civil Rights leader Freeman Briley Ransom[^25], was appointed as executor of her estate. Viola's in-laws had previously resided on Blake Street in the early 1900s. The networks built by Laura Cohen and her daughters, Anna, Helen, and Furniss "Florence," were vast in the development of the historical Indiana Avenue, both within the social and educational scene. Unfortunately, Viola's son, Lawrence, was still underage and could not inherit the estate. Her stepchildren were named, but did not claim the estate.
 
 > [!column]
 >
-> > [!callout|clean no-t center]
+> > [!callout|clean no-t]
 >>
-> > ![[1963-VTM_NoticeOfEstate.png|center]]
+> > ![[1963-VTM_NoticeOfEstate.png]]
 > 
-> >[!callout|clean no-t center]
+> >[!callout|clean no-t]
 >>
-> > ![[1963-VTM_Obituary.png|relative wmed center]]
+> > ![[1963-VTM_Obituary.png|relative wmed]]
 
 Viola's obituary described her as the president of the Indianapolis Reading Club & Council, noting her engagements at the University of Chicago and New York State.[^26] ==While documentation is limited, I believe that she is pictured alongside Miss Ora Skelton-Willet in the below photograph of the Fortnightly Literary Book Club, 25th Anniversary. This photograph is on display in plaque within the "breakroom" of \[\[Butler University#Irwin Library]] at \[\[Butler University]].==
 
@@ -189,7 +189,7 @@ Viola's obituary described her as the president of the Indianapolis Reading Club
 > **25th Anniversary of The Fortnightly Literary Club** - (1948)
 > *[Maybe] Viola Mays, seated in the right chair. Miss Ora Skelton-Willet is seated to her left.*
 
->> [!callout|clean no-t txt-c] 
+> [!callout|clean no-t txt-c] 
 > **Note**: This club differs from the original Fortnightly Literary Club, founded in 1885 as the “Nameless Literary Circle.”[^34] Miss Ora Skelton-Willet (b.1900-1949), a graduate of Shortridge HS, teacher at Schools No. 37 and 42, was the book club’s ideary in 1913, as honored by co-founder, Mrs. Georgia Martin Patton.[^35] In 1928, the club was formally chartered, connecting Viola’s past involvement to a lineage of Black women’s literary organizing in Indianapolis.
 
 On September 10, 1963, three books were donated to the Shortridge High School library in honor of Viola's educational legacy.[^29]
@@ -208,10 +208,29 @@ Each title includes a bookplate that reads: "in memory of Mrs. Viola Mays, from 
 ---
 # Timeline
 
-|Date     | Event    |
-| --- | --- |
-| 1910    |  Birth   |
-| 1963 | Death | 
+| Date        | Event                                                                              | Location               |
+| ----------- | ---------------------------------------------------------------------------------- | ---------------------- |
+| 1910        | **BIRTH**                                                                          | Lebanon, IL            |
+| 1928        | Enrollment at [[Illinois State Normal University]]                                 | Bloomington-Normal, IL |
+| 1930        | Graduated w/ B.S. from [[Illinois State Normal University\|ISNU]]                  | Bloomington-Normal, IL |
+| 1931        | Attending the [[Sumner Normal School]]                                             | St. Louis, MO          |
+| 1933        | Teaching at the [[Douglass High School]]                                           | Webster Groves, MO     |
+| 1936        | Teaching at the [[Paul Laurence Dunbar High Schoo]]                                | Dayton, OH             |
+| 1945        | Teaching at [[Booker T. Washington School, No.17]]                                 | Indianapolis, IN       |
+| 1946        | **Marriage** to Walter Percy Bentley, Sr.                                          | Indianapolis, IN       |
+| 1946-1950   | Teaching at [[Booker T. Washington School, No.17]] AND [[John Hope School, No.26]] | Indianapolis, IN       |
+| 1947        | Teaching at [[George Washington Carver School, No.86]]                             | Indianapolis, IN       |
+| 1949        | **Divorce** from Walter Percy Bentley, Sr.                                         | Indianapolis, IN       |
+| 1949        | Returning to teach ONLY [[Booker T. Washington School, No.17]]                     | Indianapolis, IN       |
+| ==1950==[?] | Teaching at [[Crispus Attucks High School]]                                        | Indianapolis, IN       |
+| 1952        | **Marriage** to Homer Thomas Mays, Sr.                                             | Indianapolis, IN       |
+| 1956        | Formation of the Gloria Lockerman Spelling Club at [[Crispus Attucks High School]] | Indianapolis, IN       |
+| 1957        | Returning to teach ONLY [[Booker T. Washington School, No.17]]                     | Indianapolis, IN       |
+| ! 1959      | Birth of Lawrence Thomas Mays [contested]<br>+Leave of Absence                     | Indianapolis, IN       |
+| 1960        | Teaching at [[Shortridge High School]]                                             | Indianapolis, IN       |
+| 1961        | **Death** of husband, Homer Thomas Mays, Sr.                                       | Indianapolis, IN       |
+| 1963        | **DEATH** by suicide at residence                                                  | Indianapolis, IN       |
+
 
 ## Research Notes
 
@@ -222,76 +241,72 @@ Each title includes a bookplate that reads: "in memory of Mrs. Viola Mays, from 
 
 
 
-[^1]: https://www.proquest.com/scholarly-journals/jim-crow-comes-central-illinois-racial/docview/2083618956/se-2
+[^1]: Wyman, Mark and John W. Muirhead. 2017. ["Jim Crow Comes to Central Illinois: Racial Segregation in Twentieth-Century Bloomington-Normal,"](https://www.proquest.com/scholarly-journals/jim-crow-comes-central-illinois-racial/docview/2083618956/se-2) *Journal of the Illinois State Historical Society* 110(2)(Summer): 154-128. 
 
-[^2]: https://education.illinoisstate.edu/about/history/
+[^2]: Freed, John. n.d. “[History,](https://education.illinoisstate.edu/about/history/)” *Illinois State University, College of Education.*
 
-[^3]: https://www.wglt.org/show/wglts-sound-ideas/2020-02-12/mchistory-segregation-in-bloomington-normal
+[^3]: Mitchell, Darnysha and Schlenker, Charlie. 2020. “[McHistory: Segregation in Bloomington-Normal,](https://www.wglt.org/show/wglts-sound-ideas/2020-02-12/mchistory-segregation-in-bloomington-normal)” *WGLT.org | NPR Network, Audio Production.* 
 
-[^4]: https://www.wglt.org/show/wglts-sound-ideas/2019-02-16/mchistory-bloomington-normal-under-jim-crow-law
+[^4]: 2019. “[McHistory: Bloomington-Normal Under Jim Crow Law,](https://www.wglt.org/show/wglts-sound-ideas/2019-02-16/mchistory-bloomington-normal-under-jim-crow-law)” *WGLT.org | NPR Network, Audio Production.*
 
-[^5]: https://news.illinoisstate.edu/2025/08/toast-to-breaking-tradition/
+[^5]: Twork, John. n.d. “[A Toast to Breaking Tradition,](https://news.illinoisstate.edu/2025/08/toast-to-breaking-tradition/)” *Illinois State University, News.* 
 
-[^6]: https://dynamic.stlouis-mo.gov/history/eventdetail.cfm?Master_ID=423
+[^6]: n.d. “[Event: Normal School Opens at Sumner High School,](https://dynamic.stlouis-mo.gov/history/eventdetail.cfm?Master_ID=423)” *Mound City on the Mississippi: A St. Louis History.* 
 
-[^7]: https://digitalarchive.thelibrary.org/digital/collection/lincolnschool
+[^7]: n.d. “[The Lincoln School Collection,](https://digitalarchive.thelibrary.org/digital/collection/lincolnschool)” *Digital Archive: Springfield-Green County Library District, Springfield, Missouri.* 
 
-[^8]: https://www.webster.k12.mo.us/departments/alumni-relations/douglass-high-school
+[^8]: n.d. “[Douglass High School,](https://www.webster.k12.mo.us/departments/alumni-relations/douglass-high-school)” *Webster Groves School District.* 
 
-[^9]: https://cdm16795.contentdm.oclc.org/digital/collection/p16795coll28/id/7514/rec/3
+[^9]: 1933. “[Webster Groves Schools Will Open Monday, September 11,](https://cdm16795.contentdm.oclc.org/digital/collection/p16795coll28/id/7514/rec/3)” *Missouri Digital Heritage, The Kate Moody Collection.* 
 
-[^10]: https://en.wikipedia.org/wiki/Dunbar_High_School_\(Dayton,_Ohio\)
+[^10]: Wikipedia Contributors, n.d. "[Dunbar High School (Dayton, Ohio),](https://en.wikipedia.org/wiki/Dunbar_High_School_(Dayton,_Ohio))," *Wikipedia, The Free Encyclopedia.* 
 
-[^11]: https://en.wikipedia.org/wiki/Jessie_Scott_Hathcock
+[^11]: Wikipedia Contributors, n.d. "[Jessie Scott Hathcock,](https://en.wikipedia.org/wiki/Jessie_Scott_Hathcock)," *Wikipedia, The Free Encyclopedia.* 
 
-[^12]: https://www.newspapers.com/article/dayton-daily-news-1944-business-women/185985927/
+[^12]: 1944. "[Business Women Arrange Meeting" - Miss Viola Turner in Charge, Dayton, Ohio,](https://www.newspapers.com/article/dayton-daily-news-1944-business-women/185985927/)" *Newspapers.com., Dayton Daily News, January 16, 1944.*
 
-[^13]: https://www.digitalindy.org/digital/collection/ips/id/302009/rec/3
+[^13]: 1945-1946. “[Directory of the Indianapolis Public Schools, 1945-1946,](https://www.digitalindy.org/digital/collection/ips/id/302009/rec/3)” *The Indianapolis Public Library Digital Collections, pg.116.* 
 
-[^14]: http://historicindianapolis.com/wp-content/uploads/2015/09/1916.Booker.T.Washington.School.17.jpg-610x412.jpg
+[^14]: Butsch Freeland, Sharon. “[HI Mailbag: Indianapolis’ First Public Schools, Part Two - Booker T. Washington School No.17, Photo,](http://historicindianapolis.com/wp-content/uploads/2015/09/1916.Booker.T.Washington.School.17.jpg-610x412.jpg)” *Historic Indianapolis.com*
 
-[^15]: https://www.digitalindy.org/digital/collection/ips/id/402632/rec/5
+[^15]: 1948. “[History of John Hope School (No. 26),](https://www.digitalindy.org/digital/collection/ips/id/402632/rec/5)” *Indianapolis Public Library Digital Collections.* IPS0425816. 
 
-[^16]: https://www.class900indy.com/post/the-past-and-uncertain-future-of-the-former-ips-school-86
+[^16]: Fujawa, Ed. 2022. “[The Past and Uncertain Future of the Former IPS School #86,](https://www.class900indy.com/post/the-past-and-uncertain-future-of-the-former-ips-school-86)” *Class900Indy.com* 
 
-[^17]: https://digital.library.cornell.edu/catalog/ss:641488
+[^17]: 1913. “[Pauline Angeline Ray,](https://digital.library.cornell.edu/catalog/ss:641488)” *Cornell University Library Digital Collections.* 
 
-[^18]: https://en.wikipedia.org/wiki/John_Morton-Finney
+[^18]: Wikipedia Contributors. n.d. "[John Morton-Finney,](https://en.wikipedia.org/wiki/John_Morton-Finney)" *Wikipedia, The Free Encyclopedia.* 
 
-[^19]: https://newspapers.library.in.gov/?a=d&d=INR19560204-01.1.4&srpos=8&e=-------en-20--1--txt-txIN-%22viola+mays%22------
+[^19]: 1956. “[Crispus Attucks High School… - The Indianapolis Recorder,]( https://newspapers.library.in.gov/?a=d&d=INR19560204-01.1.4&srpos=8&e=-------en-20--1--txt-txIN-%22viola+mays%22------)” *Hoosier State Chronicles,* pg.4.
 
-[^20]: https://uselessetymology.com/2024/03/08/how-12-year-old-gloria-lockerman-taught-us-the-word-disestablishmentarianism/
+[^20]: Zafarris, Jess. n.d. “[How 12-Year-Old Gloria Lockerman Taught Us the Word ‘Disestablishmentarianism,](https://uselessetymology.co)’” *Useless Etymology.* m/2024/03/08/how-12-year-old-gloria-lockerman-taught-us-the-word-disestablishmentarianism/
 
-[^21]: https://en.wikipedia.org/wiki/Shortridge_High_School
+[^21]: Wikipedia Contributors. n.d. "[Shortridge High School,](https://en.wikipedia.org/wiki/Shortridge_High_School)" *Wikipedia, The Free Encyclopedia* 
 
-[^22]: https://www.newspapers.com/article/the-indianapolis-star-mrs-viola-mays-m/184800422/?xid=637
+[^22]: 1963. “[Mrs. Viola Mays - The Indianapolis Star,](https://www.newspapers.com/article/the-indianapolis-star-mrs-viola-mays-m/184800422/?xid=637)” *Newspapers.com, Hoosier State Chronicles* pg.12.
 
-[^23]: https://www.newamerica.org/indianapolis/blog/indiana-avenue-ethnic-cleansing-black-indianapolis/
+[^23]: Paschall, Wildstyle. 2020. “[Indiana Avenue: The Ethnic Cleansing of Black Indianapolis,](https://www.newamerica.org/indianapolis/blog/indiana-avenue-ethnic-cleansing-black-indianapolis/)” *NewAmerica.org.*
 
-[^24]: https://indyencyclopedia.org/willard-b-mike-ransom/
+[^24]: n.d. “[Profile: Willard B. (Mike) Ransom,](https://indyencyclopedia.org/willard-b-mike-ransom/)” *Encyclopedia of Indianapolis.org.* 
 
-[^25]: https://indyencyclopedia.org/freeman-briley-ransom/
+[^25]: n.d. “[Profile: Freeman Briley Ransom,](https://indyencyclopedia.org/freeman-briley-ransom/)” *Encyclopedia of Indianapolis.org.*
 
-[^26]: https://newspapers.library.in.gov/?a=d&d=INR19630223-01.1.1&srpos=1&e=------196-en-20--1--txt-txIN-%22viola+turner+mays%22------
+[^26]: 1963. “[Coroner Rules Suicide in Death of Teacher - The Indianapolis Recorder,](https://newspapers.library.in.gov/?a=d&d=INR19630223-01.1.1&srpos=1&e=------196-en-20--1--txt-txIN-%22viola+turner+mays%22------)” *Hoosier State Chronicles,* pg.1
 
-[^27]: https://fortnightly.org/history/
+[^29]: 1963. “[Library Receives Books in Memory of Teacher - The Daily Echo,](https://www.digitalindy.org/digital/collection/shs/id/65778/rec/5)” *Indianapolis Public Library Digital Collections, The Shortridge High school Collection.* 
 
-[^28]: https://images.indianahistory.org/digital/collection/p16797coll72/id/3657/rec/5
+[^30]: Bradley, Daniel. 2020. “[‘Under the Highway’: How Interstates Divided Indianapolis Neighborhood and Displaced 17,000 People,](https://www.wrtv.com/news/local-news/indianapolis/under-the-highway-how-interstates-divided-indianapolis-neighborhoods-and-displaced-17-000-people)” *WRTV Indianapolis.com* 
 
-[^29]: https://www.digitalindy.org/digital/collection/shs/id/65778/rec/5
+[^31]: Sandler, Gil. 2018. “[Gloria Lockerman’s Spelling Bee Upset,](https://www.wypr.org/wypr-features/2018-10-26/gloria-lockermans-spelling-bee-upset)” *WYPR.org* 
 
-[^30]: https://www.wrtv.com/news/local-news/indianapolis/under-the-highway-how-interstates-divided-indianapolis-neighborhoods-and-displaced-17-000-people
+[^32]: Lear, Norman and Raye, Martha. 1955. “[Tallulah Bankhead - The Martha Raye Show,](https://www.imdb.com/title/tt3646156/)” *IMDb.com* 
 
-[^31]: https://www.wypr.org/wypr-features/2018-10-26/gloria-lockermans-spelling-bee-upset
+[^33]: Davidson, Jim. 2007. “[The Martha Raye Show,](http://www.classictvinfo.com/MarthaRayeShow/)” *Jim Davidson’s Classic TV Info.*
 
-[^32]: https://www.imdb.com/title/tt3646156/
+[^34]: Snoddy, Jean. 1985. “[Fortnightly History at 100 Years,](https://fortnightly.org/history/)” *Fortnightly.org.* 
 
-[^33]: http://www.classictvinfo.com/MarthaRayeShow/
+[^35]: Martin Patton, Georgia. 1989. “[Historical Remembrances of the Fortnightly Literary Club,]( https://images.indianahistory.org/digital/collection/p16797coll72/id/3657/rec/5)” *Indiana Historical Society Digital Collections,* pg.1-4.
 
-[^34]: https://fortnightly.org/history/
+[^36]: 1955. “[Schools Vie for Change to See Spelling Star - The Indianapolis Recorder](https://newspapers.library.in.gov/?a=d&d=INR19551001-01.1.1&srpos=5&e=-------en-20--1--txt-txIN-%22gloria+lockerman%22------)” *Hoosier State Chronicles,* pg.1. 
 
-[^35]: https://images.indianahistory.org/digital/collection/p16797coll72/id/3657/rec/5
-
-[^36]: https://newspapers.library.in.gov/?a=d&d=INR19551001-01.1.1&srpos=5&e=-------en-20--1--txt-txIN-%22gloria+lockerman%22------
-
-[^37]: https://newspapers.library.in.gov/?a=d&d=INR19551001-01.1.1&srpos=5&e=-------en-20--1--txt-txIN-%22gloria+lockerman%22------ (see the above image)
+[^37]: Ibid. 
