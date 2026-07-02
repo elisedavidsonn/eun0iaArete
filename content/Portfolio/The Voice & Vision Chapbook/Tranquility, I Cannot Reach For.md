@@ -1,11 +1,11 @@
 ---
 publish: true
-created: 2023-01-26
-modified: 06-22-2026
+collection: "[[★ The Voice & Vision Chapbook]]"
 tags:
   - "#poetry"
+created: 2023-01-26
+modified: 06-22-2026
 ---
-
 Amber, like the pawn of the
 night that I steal in
 my pockets and deep consumption
@@ -16,13 +16,13 @@ but she’s different than my mirror
 and her eyes burn dim.
 
 A sweet savory orange with
-delectable specks of depravity.
+delectable specks of depravity. 
 
-Oh Amber,
+Oh Amber, 
 
-why does she float alone?
+why does she float alone? 
 A small-town bar
-reflecting on window-less pains
+reflecting on window-less pains 
 plausibly disrupting imaginative
 desire that burns far-off
 in the depths of the coals
@@ -47,7 +47,7 @@ No longer do you find joy, Amber.
 No longer do you sleep
 on my doorstep, Amber.
 
-Do you wish to leave?
+Do you wish to leave? 
 Do I know how to say goodbye?
 please, let the warmth
 seep through my skin smoothly,
@@ -56,8 +56,8 @@ and sets pace that even her
 vibrancy cannot blind
 My competition.
 
-So seek once more,
-another glance of sweet, savory orange,
+So seek once more, 
+another glance of sweet, savory orange, 
 but find no comfort
 in the mornings when her windows
 no longer shine of Amber.

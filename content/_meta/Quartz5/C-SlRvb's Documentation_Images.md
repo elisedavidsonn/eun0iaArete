@@ -1,20 +1,18 @@
 ---
 publish: true
-created: 2026-06-30T14:41:46.522-05:00
-modified: 2026-06-30T14:41:46.522-05:00
+source: https://publish.obsidian.md/slrvb-docs/ITS+Theme/Image+Adjustments
 ---
-
 - [Position](https://publish.obsidian.md/slrvb-docs/ITS+Theme/Image+Adjustments#Position)
-  - [Inner Image Positions](https://publish.obsidian.md/slrvb-docs/ITS+Theme/Image+Adjustments#Inner%20Image%20Positions)
+    - [Inner Image Positions](https://publish.obsidian.md/slrvb-docs/ITS+Theme/Image+Adjustments#Inner%20Image%20Positions)
 - [Sizing](https://publish.obsidian.md/slrvb-docs/ITS+Theme/Image+Adjustments#Sizing)
-  - [Obsidian Sizing](https://publish.obsidian.md/slrvb-docs/ITS+Theme/Image+Adjustments#Obsidian%20Sizing)
+    - [Obsidian Sizing](https://publish.obsidian.md/slrvb-docs/ITS+Theme/Image+Adjustments#Obsidian%20Sizing)
 - [Types](https://publish.obsidian.md/slrvb-docs/ITS+Theme/Image+Adjustments#Types)
-  - [Banner](https://publish.obsidian.md/slrvb-docs/ITS+Theme/Image+Adjustments#Banner)
-  - [Portrait](https://publish.obsidian.md/slrvb-docs/ITS+Theme/Image+Adjustments#Portrait)
-  - [Profile](https://publish.obsidian.md/slrvb-docs/ITS+Theme/Image+Adjustments#Profile)
+    - [Banner](https://publish.obsidian.md/slrvb-docs/ITS+Theme/Image+Adjustments#Banner)
+    - [Portrait](https://publish.obsidian.md/slrvb-docs/ITS+Theme/Image+Adjustments#Portrait)
+    - [Profile](https://publish.obsidian.md/slrvb-docs/ITS+Theme/Image+Adjustments#Profile)
 - [Extras](https://publish.obsidian.md/slrvb-docs/ITS+Theme/Image+Adjustments#Extras)
-  - [Invert Colors](https://publish.obsidian.md/slrvb-docs/ITS+Theme/Image+Adjustments#Invert%20Colors)
-  - [CSS Classes](https://publish.obsidian.md/slrvb-docs/ITS+Theme/Image+Adjustments#CSS%20Classes)
+    - [Invert Colors](https://publish.obsidian.md/slrvb-docs/ITS+Theme/Image+Adjustments#Invert%20Colors)
+    - [CSS Classes](https://publish.obsidian.md/slrvb-docs/ITS+Theme/Image+Adjustments#CSS%20Classes)
 
 ## Syntax
 

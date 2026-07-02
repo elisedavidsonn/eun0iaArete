@@ -1,16 +1,22 @@
 ---
 publish: true
 title: Rousseau1893-The Social Contract
-created: 2026-06-29T16:53:35.000-05:00
-modified: 2026-06-29T17:45:46.727-05:00
+subtitle: Or, Principles of Political Law. Also, A Project for a Perpetual Peace
+author: Jean-Jacques Rousseau
+publisher:
+pageCount: "288"
+publishYear: "1893"
+description:
+tags:
+coverJPG:
+status: "#not-started"
+modified:
+rating:
+quartz-properties: true
 ---
-
 > # Author: Jean-Jacques Rousseau
->
 > Published: 1893
-
 # Notes & Quotes
-
-## Comments & Review
+## Comments & Review 
 
 ### Works Cited

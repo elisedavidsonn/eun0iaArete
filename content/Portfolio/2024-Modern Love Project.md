@@ -1,1 +1,0 @@
-![[Davidson_Modern Love Project.pdf]]

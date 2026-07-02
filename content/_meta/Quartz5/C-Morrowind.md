@@ -1,9 +1,7 @@
 ---
 publish: true
-created: 2026-06-30T14:36:44.353-05:00
-modified: 2026-06-30T14:36:44.353-05:00
+source: https://github.com/morrowind-modding/morrowind-modding.github.io/blob/main/mmw-content/contributing/custom-formatting-features.md
 ---
-
 ## About
 
 This page is an outline of custom formatting features implemented for use in the Morrowind Modding Wiki. To use these in Obsidian, enable all `MMW_` CSS snippets in Obsidian's 'Appearance' settings so they render correctly in Obsidian.
@@ -13,7 +11,6 @@ This page is an outline of custom formatting features implemented for use in the
 ### Image Adjustments
 
 Image adjustments from [SIRvb's Image Adjustments](https://publish.obsidian.md/slrvb-docs/ITS+Theme/Image+Adjustments) CSS snippet are incorporated into MMW. Some examples of how it can be used include:
-
 - resizing images
 - displaying images as a banner across the page or across a callout
 - image-warp (using the CSS 'float' property), allowing text and other content to wrap around an image.
@@ -25,10 +22,10 @@ Text can be styled like the keys of a keyboard by wrapping text within `<kbd> </
 These should be used for any instance where programs' default hotkeys (ones which are not customizable, or are the default keybinding) are mentioned.
 
 > [!tip]- Closing HTML tags
->
-> `<kbd>` is an HTML tag. It is used to surround an 'element' (in this case, a piece of text). As it is not self-closing, the second tag in a pair of tags needs a `forward slash` (<kbd>/</kbd>) to 'close' it.
->
-> **Example**: \<kbd> \</kbd>.
+> 
+> `<kbd>` is an HTML tag. It is used to surround an 'element' (in this case, a piece of text). As it is not self-closing, the second tag in a pair of tags needs a `forward slash` (<kbd>/</kbd>) to 'close' it. 
+> 
+> **Example**: \<kbd\> \</kbd\>.
 
 ---
 
@@ -136,17 +133,17 @@ The callout itself is invisible but its contents get displayed as a grid, with e
 By adding the `flex` metadata, grid columns will stack vertically on mobile.
 
 > [!column|flex 3]
->
+> 
 > > [!warning] Use Nested Callouts
-> >
+> > 
 > > `[column]` is designed to have callouts nested within it.
-> >
+> > 
 > > To remove styling from nested callouts, add `clean no-title` to the metadata
->
+> 
 > > [!NOTE|clean no-t]
-> >
+> > 
 > > This callout has `clean no-title` metadata.
-> >
+> > 
 > > ```markdown title="syntax:"
 > > > [!column]
 > > >
@@ -158,22 +155,22 @@ By adding the `flex` metadata, grid columns will stack vertically on mobile.
 > > > >
 > > > > content
 > > ```
->
+> 
 > > [!caption]
-> >
+> > 
 > > ![[morrowind-modding-wiki-logo-without-text.png|wsmall]]
-> >
+> > 
 > > A caption callout nested in the grid.
 
 ### Captions
 
 > [!caption|right]
->
+> 
 > ![[morrowind-modding-wiki-logo-without-text.png|wsmall]]
->
+> 
 > `[!caption|right]` callout
 
-A borderless callout for adding captions to images.
+A borderless callout for adding captions to images. 
 
 Use [[custom-formatting-features#Callout Positioning|Callout Positioning]] metadata to float these left or right for wiki-style article image captions
 
@@ -193,20 +190,19 @@ Use [[custom-formatting-features#Callout Positioning|Callout Positioning]] metad
 A wiki-style infobox displayed in the top right of an article to summarize data from the article, such as requirements for a tutorial article.
 
 > [!infobox]
->
+> 
 > ## Infobox
->
+> 
 > ![[morrowind-modding-wiki-logo-without-text.png]]
->
+> 
 > ### Table
->
+> 
 > | Type | Name |
 > | --- | --- |
 > | Row | Row |
 > | Row | Row |
 
 **Type:**
-
 - `[!infobox]`
 
 **Syntax:**
@@ -249,10 +245,9 @@ Adjustments for Obsidian [embedded files](https://help.obsidian.md/Linking+notes
 You can hide the borders of embedded notes and blocks by adding '`|clean]]`' to the wikilink's alias.
 ^4beb5b
 
-This allows the embed to appear seamlessly as a part of the page it is embedded in.
+This allows the embed to appear seamlessly as a part of the page it is embedded in. 
 
 > [!column|2 flex clean no-t]
->
 > > [!example] This is a standard transclusion:
 > > ![[custom-formatting-features#^4beb5b]]
 >
@@ -261,11 +256,10 @@ This allows the embed to appear seamlessly as a part of the page it is embedded 
 
 > [!warning] Embedding block links which float left or right
 > You must add a `left` or `right` attribute to embeds if the embedded content itself already floats left or right.
->
+> 
 > **Example:**
->
 > - The [[custom-formatting-features#Infobox|infobox callout]] already floats right. To embed it in another page, add `|right` to the embed wikilink's alias.
->
+> 
 > This prevents the embed from taking up 100% of the page-width, instead of wrapping around other content
 
 ### Float Embed Left or Right
@@ -285,6 +279,6 @@ Daedric style font can be added by wrapping text in HTML `<span>` tags, courtesy
 ```
 
 > [!example]
->
+> 
 > **Regular Text**: "Morrowind"
 > **Daedric Text**: "<span class="daedric">"Morrowind"</span>"

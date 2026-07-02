@@ -1,10 +1,11 @@
 ---
 publish: true
-created: 2026-07-01T14:22:29.422-05:00
-modified: 2026-07-01T14:29:04.359-05:00
-tags:
-  - bb-profile
+created:
+modified:
+tags: 
+- bb-profile
 ---
+
 
 | Relation   | Name |
 | ---------- | ---- |
@@ -16,6 +17,7 @@ tags:
 
 # Biography
 
+
 ---
 
 # Timeline
@@ -23,7 +25,6 @@ tags:
 ## Research Notes
 
 # Sources
-
-_See footnotes for hyperlinked sources._
+*See footnotes for hyperlinked sources.*
 
 ## Attachments
