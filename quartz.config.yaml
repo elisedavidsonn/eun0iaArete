@@ -296,6 +296,10 @@ plugins:
       darkMode: auto
       exportPadding: 20
     order: 50
+  - source: github:DreamCutter28/quartz-image-zoom
+    enabled: true
+    options: {}
+    order: 35
 layout:
   groups:
     toolbar:
