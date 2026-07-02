@@ -31,4 +31,4 @@ This research was compiled as course requirement and personal pursuit in Museum 
 - 2837 Boulevard Place, Indianapolis, IN
 - 506 West 38th Street, Indianapolis, IN
 
-![[Davidson_ButlerUniversityHeritageSites-SGR.pdf]]
+![[Davidson_ButlerUniversityHeritageSites-SGR.jpg]]

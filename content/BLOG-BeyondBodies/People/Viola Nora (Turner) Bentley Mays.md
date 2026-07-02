@@ -7,6 +7,10 @@ tags:
   - bb-wip
 ---
 
+> [!todo]-
+> - [ ] Add captions to all images
+> - [ ] Properly cite all images & add to attachments (w/ caption + hyperlinks)
+
 > [!column|flex 2]
 >
 > > [!callout|clean no-t txt-c]
@@ -36,15 +40,16 @@ Born on March 31st, 1910 to William Grant Turner, Sr. and Sarah Frances (Hammond
 
 > [!column]
 >
-> > [!callout|clean no-t]
+> > [!caption|clean no-t]
 > >
-> > ![[_meta/_attachments/1930_ViolaTurner.png|center]]
+> > ![[_meta/_attachments/1930_ViolaTurner.png|hs-med]]
+> > _“The Index” Yearbook, 1929-1930_
+> > **Viola Nora Turner**, Age 20yrs
 >
 > > [!callout|clean no-t center]
 > >
 > > By 1928, she entered Illinois State Normal University (ISNU),[^2] completing her Bachelors of Science in Mathematics by 1930. As a student, she likely faced daily segregation—barred from local restaurants, theaters, and public facilities[^3]—even student housing.[^4] As ISNU students faced a scarlet fever quarantine in 1929, as well as the lingering effects of Prohibition,[^5] the limited population of students of color navigated a parallel set of restrictions rooted in the Nation's racial hierarchy and segregated system.
 > >
-> > **Photo:** _“The Index” Yearbook, 1929-1930_
 
 > [!column]
 >
@@ -56,19 +61,21 @@ Born on March 31st, 1910 to William Grant Turner, Sr. and Sarah Frances (Hammond
 > > >
 > > > **Herman Horn, Jr.** - Class of 1946
 >
-> > [!callout|clean no-t]
+> > [!caption|clean no-t center]
 > >
 > > ![[_meta/_attachments/1930s-VT_LincolnSchool.png|center]]
-> >
-> > **Photo:** _The Springfield Press_ - September 5, 1931
+> > _The Springfield Press_ (Newspapers.com)
+> > September 5, 1931
 
 In 1936, Viola began teaching kindergarten and physical education[^9] at the Paul Laurence Dunbar High School in Dayton, Ohio.[^10] Dunbar was a landmark of Black academic achievement during the early 20th century; her colleagues included Jessie Scott Hathcock, the first woman of color to graduate from the University of Dayton in 1930. Hathcock's lifework was dedicated the exposition of academic inequities in local high-schooling and undergraduate education.[^11] Viola's was heavily involved with the Dayton Y.W.C.A. and NAACP which placed her at the intersection of both education and activism.[^12] The lack of recognition as a central agent within a politicized life while cultivating literacy and critical thought in the face of exclusionary policies must have been a heavy encumbrance at just twenty-six years old.
 
 > [!column]
 >
-> > [!callout|clean no-t]
+> > [!caption|clean no-t]
 > >
 > > ![[_meta/_attachments/1930_JessieHathcock.png|hs-med center]]
+> > 1930 Graduation Photo
+> > **Jessie Scott Hathcock**, Age 36yrs**
 >
 > > [!callout|clean no-t]
 > >
@@ -83,10 +90,11 @@ After World War II, Viola returned to Indiana, residing in the city where reside
 
 In 1946, she married Walter Percy Bentley, Sr. in Indianapolis, IN. However, they divorced just three years later; they had no children together.
 
-> [!callout|clean no-t txt-c]
+> [!caption|clean no-t txt-c]
 >
 > ![[_meta/_attachments/1947-VT_JohnHopeSchool.png|center]]
-> **Photo**: _John Hope School No.26_ - Faculty of 1947
+> _John Hope School No.26_
+> Faculty of 1947
 
 > [!column]
 >
@@ -110,11 +118,12 @@ In February of 1956, Mrs. Viola Mays sponsored the formation of the Gloria Locke
 
 > [!column]
 >
-> > [!callout|clean no-t txt-c center ]
+> > [!caption|clean no-t txt-c center ]
 > >
 > > ![[_meta/_attachments/1956-VTM_GLNamed.png|center]]
-> > **Source**: The Indianapolis Recorder - October 1, 1955.
-> > _Referred to Miss Gloria as “a symbol for the accident of democracy.”_
+> > The Indianapolis Recorder (HoosierStateChronicles.com) 
+> > October 1, 1955.
+> > <br> _Referred to Miss Gloria as “a symbol for the accident of democracy.”_
 >
 > > [!callout|clean no-t center]
 > >
@@ -128,11 +137,12 @@ In February of 1956, Mrs. Viola Mays sponsored the formation of the Gloria Locke
 
 > [!column]
 >
-> > [!callout|clean no-t center txt-c]
+> > [!caption|clean no-t center txt-c]
 > >
 > > ![[_meta/_attachments/1955-VTM_GLWinner.png|center]]
 > >
-> > **Photo:** _[The Indianapolis Recorder,](https://newspapers.library.in.gov/?a=d\&d=INR19551029-01.1.10\&srpos=1\&e=-------en-20--1--txt-txIN-%22gloria+lockerman+spelling+club%22------)_ - October 29, 1955
+> > _The Indianapolis Recorder, ([HoosierStateChronicles.com](https://newspapers.library.in.gov/?a=d\&d=INR19551029-01.1.10\&srpos=1\&e=-------en-20--1--txt-txIN-%22gloria+lockerman+spelling+club%22------))_ 
+> > October 29, 1955
 >
 > > [!callout|clean no-t center txt-r]
 > >
@@ -208,6 +218,8 @@ Each title includes a bookplate that reads: "in memory of Mrs. Viola Mays, from 
 > **Source:** ? yearbook I believe
 
 **Viola Nora (Turner) Bentley Mays rests beside her late husband Homer in Crown Hill Cemetery, Section 99, Lot 3862.**
+
+![[2026-VisitToViolaResting.jpg]]
 
 ---
 

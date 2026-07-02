@@ -4,7 +4,6 @@ created: 2026-07-01T14:22:29.422-05:00
 modified: 2026-07-01T14:29:04.359-05:00
 tags:
   - bb-profile
-  - bb-wip
 ---
 
 | Relation   | Name |
@@ -28,4 +27,4 @@ tags:
 _See footnotes for hyperlinked sources._
 
 ## Attachments
-![[2026-VisitToFurnissHollowayResting.jpg]]
+![[2026-VisitToHelen&CorneliusResting.jpg]]
