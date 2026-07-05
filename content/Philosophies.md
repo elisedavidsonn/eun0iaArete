@@ -1,9 +1,10 @@
 ---
 publish: true
+created:
 modified:
 ---
 # The Past//Present Through Paper
-During my second year of undergraduate study at [[Butler University]], I found that my future no longer aligned with my previous commitment to and goals in Anthropology and Psychology; the latter was far too confined in its registers of recognition. While I still believe in the scientific pursuit, and much of my own research follows empirical reasoning, I also believe that, as Humans, the emotional realm confers an equal distribution of "understanding." Leaving my combined major, I embarked on a shortened, concentrated English degree in Literary Theory, Culture, and Criticism: I challenged every aspect of interdisciplinary thought by approaching my prior and later teachings in Anthropology as a critical space through which to engage with the English Language.
+During my second year of undergraduate study at [[Butler University]], I found my footsteps faltering in my previous commitment and goals in Anthropology and Psychology; the latter was far too confined in its registers of recognition. While I still believe in the scientific pursuit, and much of my own research follows empirical reasoning, I also believe that, as Humans, the emotional realm confers an equal distribution of "understanding."[^1] Leaving my combined major in mid-2024, I embarked on a shortened, concentrated English degree in Literary Theory, Culture, and Criticism (LTCC). I challenged every aspect of interdisciplinary thought by reimagining my past learnings in Anthropology, positioned as a critical space of inquiry and curiosity, through which the English Language and Human expressionism can be both hated and adored.[^2] 
 
 My Grandfather, Tom Dorr, was a high-school English educator in the Eau Claire region for many decades. He has significantly influenced my decisions; yet, I had long felt inadequate in my own understanding of linguistic conventions. My writing has been regarded as bold and defiant in earlier school years, yet I have always questioned how much of that arises from a deep misunderstanding, rather than from the belief to "learn the rules to break them." My later years at [[Butler University]] were spent seeking both compliments and complacence: where does the self arise within the efforts to publish?
 ## Proper Nouns
@@ -24,3 +25,6 @@ My particular work with Vietnam Veterans sought to understand how individuated, 
 Examining through folklore, literature, and critical theory, it became evident that: mythic narratives work to substantiate the historiography concerning the Nation’s dominant militaristic (“Warfighter”) story; just how much the collective narratives impact the personal Veteran's experience during an "unwanted" war; and moreover, what it means to be an American during the Donald Trump administration (2016-2020 & 2024-).
 
 
+[^1]: Ellen Vrana of **[The Examined Life](https://theexaminedlife.org/)** has written a beautiful blog post concerning, well, almost the sentiments of knowledge and why our *feelings* are the forefront of our creativity; linked [here](https://theexaminedlife.org/can-knowledge-be-gained-through-feelings). Additional note: the creation and curation of this website was immensely inspired by the above! <3
+
+[^2]: I foolishly enrolled in an upper-level course in my first semester of LTCC; however, it proved fruitful, despite the Eurocentric canon I hadn’t yet read…I devoured many classics and theories during those initial months! E.X.: [[2024-Dreaming Of Extimacy]], [[2024-Time to Become a Dimepiece]], and [[2024-Becoming The Hostess of the Mind]].
