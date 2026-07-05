@@ -3,10 +3,13 @@ publish: true
 created:
 modified:
 ---
-# The Past//Present Through Paper
+# A “Brief” Background
 During my second year of undergraduate study at [[Butler University]], I found my footsteps faltering in my previous commitment and goals in Anthropology and Psychology; the latter was far too confined in its registers of recognition. While I still believe in the scientific pursuit, and much of my own research follows empirical reasoning, I also believe that, as Humans, the emotional realm confers an equal distribution of "understanding."[^1] Leaving my combined major in mid-2024, I embarked on a shortened, concentrated English degree in Literary Theory, Culture, and Criticism (LTCC). I challenged every aspect of interdisciplinary thought by reimagining my past learnings in Anthropology, positioned as a critical space of inquiry and curiosity, through which the English Language and Human expressionism can be both hated and adored.[^2] 
 
 My Grandfather, Tom Dorr, was a high-school English educator in the Eau Claire region for many decades. He has significantly influenced my decisions; yet, I had long felt inadequate in my own understanding of linguistic conventions. My writing has been regarded as bold and defiant in earlier school years, yet I have always questioned how much of that arises from a deep misunderstanding, rather than from the belief to "learn the rules to break them." My later years at [[Butler University]] were spent seeking both compliments and complacence: where does the self arise within the efforts to publish?
+
+# The Past//Present Through Paper
+
 ## Proper Nouns
 With many marks on my undergraduate papers, I continue to stand by my respect for language and the capitalization bestowed upon "Proper Nouns." Challenging beliefs in distinct realms regarding the individual versus the collective bodies, I strongly believe that any effort to communicate such spaces of existence must be addressed through defiant access to the English language, delimited.
 
