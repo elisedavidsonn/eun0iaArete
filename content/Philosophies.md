@@ -11,15 +11,20 @@ My Grandfather, Tom Dorr, was a high-school English educator in the Eau Claire r
 # The Past//Present Through Paper
 
 ## Proper Nouns
-With many marks on my undergraduate papers, I continue to stand by my respect for language and the capitalization bestowed upon "Proper Nouns." Challenging beliefs in distinct realms regarding the individual versus the collective bodies, I strongly believe that any effort to communicate such spaces of existence must be addressed through defiant access to the English language, delimited.
+With many marks on my undergraduate papers, I continue to stand by my own rules and repute respect for language, particularly the capitalization bestowed upon the Proper Noun. 
 
-- Human 
+Challenging beliefs in realms regarding the individual versus the collective bodies, I strongly believe that any effort to communicate such spaces of Existence must be addressed through subversion of the English language, delimited by our own bounds of Being.
+
+- Human/Being
 - World
 - Nation
 - Woman/Women
+- Body/Bodies
+- We *v.s.* [we] 
+- Gods *v.s.* god
 
 ## Ethnographical Research
-I was fortunate to be granted the space as a listener to the ways in which we story-tell during my third year at [[Butler University]] with Vietnam Veterans and their sons as ethnographic "research" advised by the folklorist Dr. Tom Mould. This experience detrimentally altered the ways I perceive trauma, theory, and storytelling; so much so, I found myself at a lack of conception and imagination to be able comprehend such phenomenons presented in intergenerational narratives: I thus termed **dis/remembrance (2025),** wholly drawn from and inspired by the following: Diana Goldstein; Amy Shuman; Patricia Sawin; and Michael Freeden. 
+I was fortunate to be granted the space as a listener to the ways in which we story-tell during my third year at [[Butler University]] with Vietnam Veterans and their sons as ethnographic "research" advised by the folklorist Dr. Tom Mould. This experience detrimentally altered the ways I perceive trauma, theory, and storytelling; so much so, I found myself at a lack of conception and imagination to be able comprehend such phenomenons presented in intergenerational narratives. I thus termed **dis/remembrance (2025),** wholly drawn from and inspired by the following: Diana Goldstein; Amy Shuman; Patricia Sawin; and Michael Freeden. 
 
 > Dis/remembrance refers to the multivalence process and thresholds to which the individual can remember and reckon with highly traumatic memories in recounted narrative; such memories are susceptible to the priming of the audience, coinciding with collective, dominant narratives, and mythic storytelling. 
 
