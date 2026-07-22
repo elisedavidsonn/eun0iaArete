@@ -7,9 +7,9 @@ tags:
   - bb-wip
 ---
 
-> [!todo]-
-> - [ ] Add captions to all images
-> - [ ] Properly cite all images & add to attachments (w/ caption + hyperlinks)
+> [!todo] Upcoming Modifications
+> - [ ] Captions to all images (+formating)
+> - [ ] Cite all images & add to attachments (w/ captions + hyperlinks)
 
 > [!column|flex 2]
 >
@@ -26,9 +26,9 @@ tags:
 > > | ---------- | ----------- |
 > > | Father     | William “Willie” Grant Turner, Sr. (1872-1957)     |
 > > | Mother     | Sarah Frances (Hammond) Turner (1868-1948)      |
-> > | Sibling(s) | ==…==     |
-> > | Spouse(s)  | Walter Percy Bentley, Sr. (1893-1983) m.1946<br>Homer Thomas Mays, Sr. (1905-1961) m.1952      |
-> > | Children   | \[Step-] Mary Magdeyn (Mays) Green, Sr. (1921-1976)<br>\[Step-] [[Furniss Helene (Mays) Holloway]] (1927-2016)<br>\[UK] Lawrence "Larry" Thomas Mays (1949\[?]) |
+> > | Sibling(s) | George Young Turner (1896-1972)<br>William Grant Turner (1898-?)<br>Vahila (Turner) Cromwell (1899-1990)<br>Virgil Gilmore Turner (1902-1963)<br>Edward Thomas Turner (1904-1997)<br>Evilet Turner (1909-1919)|
+> > | Spouse(s)  | Walter Percy Bentley, Sr. (1893-1983) _m.1946_<br>Homer Thomas Mays, Sr. (1905-1961) _m.1952_      |
+> > | Children   | \[Step-] Mary Magdeyn (Mays) Green, Sr. (1921-1976)<br>\[Step-] [[Furniss Helene (Mays) Holloway]] (1927-2016)<br>\[UK] Lawrence "Larry" Thomas Mays (1949\[?]-) |
 
 # Biography
 
@@ -40,11 +40,11 @@ Born on March 31st, 1910 to William Grant Turner, Sr. and Sarah Frances (Hammond
 
 > [!column]
 >
-> > [!caption|clean no-t]
+> > [!callout|clean no-t center]
 > >
 > > ![[_meta/_attachments/1930_ViolaTurner.png|hs-med]]
-> > _“The Index” Yearbook, 1929-1930_
-> > **Viola Nora Turner**, Age 20yrs
+> > <center>“The Index” Yearbook, 1929-1930<center>
+> > <center>Viola Nora Turner, Age 20yrs<center>
 >
 > > [!callout|clean no-t center]
 > >
@@ -61,40 +61,43 @@ Born on March 31st, 1910 to William Grant Turner, Sr. and Sarah Frances (Hammond
 > > >
 > > > **Herman Horn, Jr.** - Class of 1946
 >
-> > [!caption|clean no-t center]
+> > [!callout|clean no-t center]
 > >
 > > ![[_meta/_attachments/1930s-VT_LincolnSchool.png|center]]
-> > _The Springfield Press_ (Newspapers.com)
-> > September 5, 1931
+> > <center>The Springfield Press (Newspapers.com)<center>
+> > <center>September 5, 1931<center>
 
 In 1936, Viola began teaching kindergarten and physical education[^9] at the Paul Laurence Dunbar High School in Dayton, Ohio.[^10] Dunbar was a landmark of Black academic achievement during the early 20th century; her colleagues included Jessie Scott Hathcock, the first woman of color to graduate from the University of Dayton in 1930. Hathcock's lifework was dedicated the exposition of academic inequities in local high-schooling and undergraduate education.[^11] Viola's was heavily involved with the Dayton Y.W.C.A. and NAACP which placed her at the intersection of both education and activism.[^12] The lack of recognition as a central agent within a politicized life while cultivating literacy and critical thought in the face of exclusionary policies must have been a heavy encumbrance at just twenty-six years old.
 
 > [!column]
 >
-> > [!caption|clean no-t]
+> > [!callout|clean no-t center]
 > >
 > > ![[_meta/_attachments/1930_JessieHathcock.png|hs-med center]]
-> > 1930 Graduation Photo
-> > **Jessie Scott Hathcock**, Age 36yrs**
+> > <center>1930 Graduation Photo<center>
+> > <center>Jessie Scott Hathcock, Age 36yrs<center>
 >
-> > [!callout|clean no-t]
+> > [!callout|clean no-t center]
 > >
 > > ![[_meta/_attachments/1944-VT_DaytonDaily.png|hs-med center]]
+> > _Dayton Daily News_ (Newspapers.com)
+> > January 16, 1944
+
 
 > _“It is significant to the University to be able to honor her as a trailblazer and a woman dedicated to the transformative power of education…And oh, how Jessie Hathcock changed Dayton and the world.”_
 >
 > **Dedication of Jessie S. Hathcock Hall** - (2021)\
 > University of Dayton President, Eric Spina
 
-After World War II, Viola returned to Indiana, residing in the city where residential segregation, race-restricted covenants, and school assignment patterns shaped red-lined neighborhood boundaries. By 1945, she began teaching mathematics and social sciences[^13] at the ==now-deconstructed== Booker T. Washington Elementary, School No. 17 in Indianapolis, an explicitly designated "colored" school within the Indianapolis Public School (IPS) System.[^14] African-American teachers staffed such buildings and received fewer resources, serving students already constrained by the city's segregating housing structure. Viola's presence in these classrooms was a direct testament to challenging the educational disparities within Indianapolis policy.
+After World War II, Viola returned to Indiana, residing in the city where residential segregation, race-restricted covenants, and school assignment patterns shaped red-lined neighborhood boundaries. By 1945, she began teaching mathematics and social sciences[^13] at the demolished Booker T. Washington Elementary, School No. 17 in Indianapolis, an explicitly designated "colored" school within the Indianapolis Public School (IPS) System.[^14] African-American teachers staffed such buildings and received fewer resources, serving students already constrained by the city's segregating housing structure. Viola's presence in these classrooms was a direct testament to challenging the educational disparities within Indianapolis policy.
 
 In 1946, she married Walter Percy Bentley, Sr. in Indianapolis, IN. However, they divorced just three years later; they had no children together.
 
-> [!caption|clean no-t txt-c]
+> [!callout|clean no-t txt-c]
 >
 > ![[_meta/_attachments/1947-VT_JohnHopeSchool.png|center]]
-> _John Hope School No.26_
-> Faculty of 1947
+> <center>John Hope School No.26<center>
+> <center>Faculty of 1947<center>
 
 > [!column]
 >
@@ -103,9 +106,7 @@ In 1946, she married Walter Percy Bentley, Sr. in Indianapolis, IN. However, the
 >
 > > [!callout|clean no-t txt-r center]
 > >
-> > > _“I never stop studying. There’s always lots to learn. When you stop learning, that’s about the end of you.”_
-> > >
-> > > \~ John Morton-Finney
+> >  _“I never stop studying. There’s always lots to learn. When you stop learning, that’s about the end of you.”_ &emsp; &emsp; \~ John Morton-Finney
 
 By 1949, Viola returned full-time to School No.17, and in 1950, she transferred to Crispus Attucks High School (CPHS) where Morton-Finney served as principal during her tenure. She lived on the same street as her ex-husband after their divorce: the 1950 census records her as a ‘divorced lodger’ with the Blythe family at 2844 Shirver Avenue, while Walter–and his children from previous marriages–lived at 2849 Shirver, two doors down. However, both the 1950-1951 IPS Directory and 1951 City Directory record her address as the latter. Both Shriver homes have since been demolished[^30].
 
@@ -118,12 +119,12 @@ In February of 1956, Mrs. Viola Mays sponsored the formation of the Gloria Locke
 
 > [!column]
 >
-> > [!caption|clean no-t txt-c center ]
+> > [!callout|clean no-t txt-c center]
 > >
 > > ![[_meta/_attachments/1956-VTM_GLNamed.png|center]]
-> > The Indianapolis Recorder (HoosierStateChronicles.com) 
-> > October 1, 1955.
-> > <br> _Referred to Miss Gloria as “a symbol for the accident of democracy.”_
+> > <center>The Indianapolis Recorder (HoosierStateChronicles.com)<center> 
+> > <center>October 1, 1955.<center>
+> > <center><br> Gloria was referred to Miss Gloria as “a symbol for the accident of democracy.”<center>
 >
 > > [!callout|clean no-t center]
 > >
@@ -137,18 +138,18 @@ In February of 1956, Mrs. Viola Mays sponsored the formation of the Gloria Locke
 
 > [!column]
 >
-> > [!caption|clean no-t center txt-c]
+> > [!callout|clean no-t center txt-c]
 > >
 > > ![[_meta/_attachments/1955-VTM_GLWinner.png|center]]
 > >
-> > _The Indianapolis Recorder, ([HoosierStateChronicles.com](https://newspapers.library.in.gov/?a=d\&d=INR19551029-01.1.10\&srpos=1\&e=-------en-20--1--txt-txIN-%22gloria+lockerman+spelling+club%22------))_ 
-> > October 29, 1955
+> > <center>The Indianapolis Recorder, ([HoosierStateChronicles.com](https://newspapers.library.in.gov/?a=d\&d=INR19551029-01.1.10\&srpos=1\&e=-------en-20--1--txt-txIN-%22gloria+lockerman+spelling+club%22------))<center> 
+> > <center>October 29, 1955<center>
 >
 > > [!callout|clean no-t center txt-r]
 > >
-> > > _“‘In that summer of ’55 she went from being a shy, brilliant student to an object of the country’s collective curiosity-both because she was so smart at such a young age and because the fact that she was black went against many Americans’ backward stereotypes of the intellectual capacities of black people during that era.’”_
-> > >
-> > > **Personal account** from [Gloria Lockerman](https://otrfan68.wordpress.com/2009/09/05/more-about-gloria-lockerman-of-64000-question-fame/), retold by Vicki Robison - (2019)
+> > _“‘In that summer of ’55 she went from being a shy, brilliant student to an object of the country’s collective curiosity-both because she was so smart at such a young age and because the fact that she was black went against many Americans’ backward stereotypes of the intellectual capacities of black people during that era.’”_
+> >
+> > **Personal account** from [Gloria Lockerman](https://otrfan68.wordpress.com/2009/09/05/more-about-gloria-lockerman-of-64000-question-fame/), retold by Vicki Robison - (2019)
 
 > ? **[Indianapolis Recorder,](https://newspapers.library.in.gov/?a=d\&d=INR19560204-01.1.4\&srpos=8\&e=-------en-20--1--txt-txIN-%22viola+mays%22------)** February 1956
 
@@ -196,7 +197,7 @@ After her death, Willard "Mike" Briley Ransom[^24], the son of Civil Rights lead
 > >
 > > ![[_meta/_attachments/1963-VTM_Obituary.png|relative wmed]]
 
-Viola's obituary described her as the president of the Indianapolis Reading Club & Council, noting her engagements at the University of Chicago and New York State.[^26] ==While documentation is limited, I believe that she is pictured alongside Miss Ora Skelton-Willet in the below photograph of the Fortnightly Literary Book Club, 25th Anniversary. This photograph is on display in plaque within the "breakroom" of \\\[\\\[Butler University#Irwin Library]] at \\\[\\\[Butler University]].==
+Viola's obituary described her as the president of the Indianapolis Reading Club & Council, noting her engagements at the University of Chicago and New York State.[^26] ==While documentation is limited, I believe that she is pictured alongside Miss Ora Skelton-Willet in the below photograph of the Fortnightly Literary Book Club, 25th Anniversary. This photograph is on display in plaque within the "breakroom" of [[Butler University#Irwin Library]] at [[Butler University]].==
 
 > [!callout|clean no-t txt-c]
 > ![[_meta/_attachments/1948_VTM-FortnightlyLiteraryBookClub.png|wm-tl center]]
@@ -219,7 +220,7 @@ Each title includes a bookplate that reads: "in memory of Mrs. Viola Mays, from 
 
 **Viola Nora (Turner) Bentley Mays rests beside her late husband Homer in Crown Hill Cemetery, Section 99, Lot 3862.**
 
-![[2026-VisitToViolaResting.jpg]]
+![[2026-VisitToViolaResting.jpg|wsmall]]
 
 ---
 
