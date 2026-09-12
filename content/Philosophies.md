@@ -3,6 +3,24 @@ publish: true
 created:
 modified:
 ---
+"This question is not one left solely to debate in [our] time and space: it has been a
+constant question of authenticity, for what makes the latency of memory and the ways in which
+[we] communicate our inner-worlds grander than Another?" - "(Belonging) Beyond the Body, Beneath the Meat," February 16, 2024.
+
+"...if I am to view the modalities of optimism, then
+I will place them upon a linear access and uncover the myths of living; my age
+brings about more words to wither, and I am attempting to listen with open ears and
+wide eyes. Tell me another story, for I will approach with arms aghast and mind." - "Revisit the Representations of Memory, Trauma, and Madness," May 06, 2024.
+
+"Regardless, the momentum of this re/description—the momentum of humanity—is
+inescapable. This imagination, I believe, operates on a metamorphosing basis: each alteration in
+intuition continues to gather, sometimes causing an instantaneous change in thought, but each
+builds upon a malleable foundation that allows us to interpret from the windows in many rooms
+(every room seems improbable). It provides an opportunity to pursue understanding, knowledge,
+alongside the temporal emotions that ebb and flow with human existence." - "ThRoughT Control: A Meditation on Metamorphosis," August 17, 2025.
+
+[[Portfolio]]
+
 # A “Brief” Background
 During my second year of undergraduate study at [[Butler University]], I found my footsteps faltering in my previous commitment and goals in Anthropology and Psychology; the latter was far too confined in its registers of recognition. While I still believe in the scientific pursuit, and much of my own research follows empirical reasoning, I also believe that, as Humans, the emotional realm confers an equal distribution of "understanding."[^1] Leaving my combined major in mid-2024, I embarked on a shortened, concentrated English degree in Literary Theory, Culture, and Criticism (LTCC). I challenged every aspect of interdisciplinary thought by reimagining my past learnings in Anthropology, positioned as a critical space of inquiry and curiosity, through which the English Language and Human expressionism can be both hated and adored.[^2] 
 

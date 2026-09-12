@@ -27,7 +27,7 @@ tags:
 > > | Father     | William “Willie” Grant Turner, Sr. (1872-1957)     |
 > > | Mother     | Sarah Frances (Hammond) Turner (1868-1948)      |
 > > | Sibling(s) | George Young Turner (1896-1972)<br>William Grant Turner (1898-?)<br>Vahila (Turner) Cromwell (1899-1990)<br>Virgil Gilmore Turner (1902-1963)<br>Edward Thomas Turner (1904-1997)<br>Evilet Turner (1909-1919)|
-> > | Spouse(s)  | Walter Percy Bentley, Sr. (1893-1983) _m.1946_<br>Homer Thomas Mays, Sr. (1905-1961) _m.1952_      |
+> > | Spouse(s)  | Walter Percy Bentley, Sr. (1893-1983) _m.1946_<br>[[Homer Thomas Mays, Sr.]] (1905-1961) _m.1952_      |
 > > | Children   | \[Step-] Mary Magdeyn (Mays) Green, Sr. (1921-1976)<br>\[Step-] [[Furniss Helene (Mays) Holloway]] (1927-2016)<br>\[UK] Lawrence "Larry" Thomas Mays (1949\[?]-) |
 
 # Biography
