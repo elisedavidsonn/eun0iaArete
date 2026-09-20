@@ -22,7 +22,7 @@ tags:
 # Timeline
 
 ## Research Notes
-- [[Davidson_LaJuliaRhea-HistoricHome.pdf]]
+- [[Davidson_LaJuliaRhea-GatherSources.pdf]]
 - [[GatherSources-LaJulia.pdf]]
 
 # Sources

@@ -1,11 +1,12 @@
 ---
 publish: true
-created: 
-modified: 
+created:
+modified:
 tags:
-- womanhood
-- socialMedia
-- selfReflection
+  - womanhood
+  - socialMedia
+  - selfReflection
+  - COPYRIGHT
 ---
 
-![[Davidson_Modern Love Project.pdf]]
+![[Davidson_ModernLoveProject.pdf]]

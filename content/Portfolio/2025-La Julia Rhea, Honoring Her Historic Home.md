@@ -15,6 +15,6 @@ Research compiled for both course requirement and personal pursuit in Museum Stu
 
 **Note**: Prospective biographical publication in works.
 
-![[Davidson_LaJuliaRhea-HistoricHome.pdf]]
+![[Davidson_LaJuliaRhea-Exhibition.pdf]]
 
-![[GatherSources-LaJulia.pdf]]
+![[Davidson_LaJuliaRhea-GatherSources.pdf]]
