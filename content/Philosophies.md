@@ -3,21 +3,11 @@ publish: true
 created:
 modified:
 ---
-"This question is not one left solely to debate in [our] time and space: it has been a
-constant question of authenticity, for what makes the latency of memory and the ways in which
-[we] communicate our inner-worlds grander than Another?" - "(Belonging) Beyond the Body, Beneath the Meat," February 16, 2024.
+*"This question is not one left solely to debate in [our] time and space: it has been a constant question of authenticity, for what makes the latency of memory and the ways in which [we] communicate our inner-worlds grander than Another?"* - "(Belonging) Beyond the Body, Beneath the Meat," February 16, 2024.
 
-"...if I am to view the modalities of optimism, then
-I will place them upon a linear access and uncover the myths of living; my age
-brings about more words to wither, and I am attempting to listen with open ears and
-wide eyes. Tell me another story, for I will approach with arms aghast and mind." - "Revisit the Representations of Memory, Trauma, and Madness," May 06, 2024.
+*"...if I am to view the modalities of optimism, then I will place them upon a linear access and uncover the myths of living; my age brings about more words to wither, and I am attempting to listen with open ears and wide eyes. Tell me another story, for I will approach with arms aghast and mind."* - "Revisit the Representations of Memory, Trauma, and Madness," May 06, 2024.
 
-"Regardless, the momentum of this re/description—the momentum of humanity—is
-inescapable. This imagination, I believe, operates on a metamorphosing basis: each alteration in
-intuition continues to gather, sometimes causing an instantaneous change in thought, but each
-builds upon a malleable foundation that allows us to interpret from the windows in many rooms
-(every room seems improbable). It provides an opportunity to pursue understanding, knowledge,
-alongside the temporal emotions that ebb and flow with human existence." - "ThRoughT Control: A Meditation on Metamorphosis," August 17, 2025.
+*"Regardless, the momentum of this re/description—the momentum of humanity—is inescapable. This imagination, I believe, operates on a metamorphosing basis: each alteration in intuition continues to gather, sometimes causing an instantaneous change in thought, but each builds upon a malleable foundation that allows us to interpret from the windows in many rooms (every room seems improbable). It provides an opportunity to pursue understanding, knowledge, alongside the temporal emotions that ebb and flow with human existence."* - "ThRoughT Control: A Meditation on Metamorphosis," August 17, 2025.
 
 [[Portfolio]]
 
@@ -42,13 +32,13 @@ Challenging beliefs in realms regarding the individual versus the collective bod
 - Gods *v.s.* god
 
 ## Ethnographical Research
-I was fortunate to be granted the space as a listener to the ways in which we story-tell during my third year at [[Butler University]] with Vietnam Veterans and their sons as ethnographic "research" advised by the folklorist Dr. Tom Mould. This experience detrimentally altered the ways I perceive trauma, theory, and storytelling; so much so, I found myself at a lack of conception and imagination to be able comprehend such phenomenons presented in intergenerational narratives. I thus termed **dis/remembrance (2025),** wholly drawn from and inspired by the following: Diana Goldstein; Amy Shuman; Patricia Sawin; and Michael Freeden. 
+I was fortunate to be granted the space as a listener to the ways in which we story-tell during my third year at [[Butler University]] with Vietnam Veterans and their sons as ethnographic "research" advised by the folklorist Dr. Tom Mould. This experience detrimentally altered the ways I perceive trauma, theory, and storytelling; so much so, I found myself at a lack of conception and imagination to be able comprehend such phenomenons presented in intergenerational trauma narratives. I thus termed **dis/remembrance (2025),** wholly drawn from and inspired by the following: Diana Goldstein; Amy Shuman; Patricia Sawin; and Michael Freeden. 
 
 > Dis/remembrance refers to the multivalence process and thresholds to which the individual can remember and reckon with highly traumatic memories in recounted narrative; such memories are susceptible to the priming of the audience, coinciding with collective, dominant narratives, and mythic storytelling. 
 
-My particular work with Vietnam Veterans sought to understand how individuated, personal, and often, intergenerational narratives ==…== 
+My particular work with Vietnam Veterans sought to understand how individuated, personal, and intergenerational narratives metamorpihize between the collective myths and perceptions of trauma; particularly, how our stories informed the experience of the Human in both civil and militarized livelihood.   
 
-Examining through folklore, literature, and critical theory, it became evident that: mythic narratives work to substantiate the historiography concerning the Nation’s dominant militaristic (“Warfighter”) story; just how much the collective narratives impact the personal Veteran's experience during an "unwanted" war; and moreover, what it means to be an American during the Donald Trump administration (2016-2020 & 2024-).
+Examining through folklore, literature, and critical theory, it became evident that: mythic narratives work to substantiate the historiography concerning the Nation’s dominant militaristic (“Warfighter”) story; just how much the collective narratives impact the personal Veteran's experience during an "unwanted" war; and moreover, what it means to be an American during the Donald Trump administration (2016-2020 & 2024-). You can find my published undergraduate honors thesis on Digital Commons @ Butler University, [here](https://digitalcommons.butler.edu/cgi/viewcontent.cgi?article=1813&context=ugtheses).
 
 
 [^1]: Ellen Vrana of **[The Examined Life](https://theexaminedlife.org/)** has written a beautiful blog post concerning, well, almost the sentiments of knowledge and why our *feelings* are the forefront of our creativity; linked [here](https://theexaminedlife.org/can-knowledge-be-gained-through-feelings). Additional note: the creation and curation of this website was immensely inspired by the above! <3
