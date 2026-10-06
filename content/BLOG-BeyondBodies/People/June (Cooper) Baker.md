@@ -4,14 +4,14 @@ created: 2026-07-01T14:22:29.422-05:00
 modified: 2026-07-01T14:29:04.359-05:00
 tags:
   - bb-profile
-  - bb-wip
 ---
+
 | Relation   | Name |
 | ---------- | ---- |
-| Father     | Hurley Jones (1894-?)     |
-| Mother     | Geneva Erma (Allison) Jones (1904-1948)     |
-| Sibling(s) | Elzie Cordell Jones (1921-?)     |
-| Spouse     | Scott Aldrige Mays (1923-1978)     |
+| Father     | William Baxter Cooper Jr. (1864-1908)     |
+| Mother     | Mary “Mollie” Belle (Rose) Cooper (1865-1959)     |
+| Sibling(s) | Joel Marion Cooper Sr. (1890-1980) <br>Ethel R. (Cooper) Brown (1892-1988)     |
+| Spouse     | [[Wendell Anthony Baker]] (1890-1958)     |
 | Children   |      |
 
 # Biography
@@ -27,4 +27,3 @@ tags:
 _See footnotes for hyperlinked sources._
 
 ## Attachments
-

@@ -8,11 +8,11 @@ tags:
 
 | Relation   | Name |
 | ---------- | ---- |
-| Father     |      |
-| Mother     |      |
-| Sibling(s) |      |
-| Spouse     |      |
-| Children   |      |
+| Father     | William Cohen (1884-1915)     |
+| Mother     | Laura M. (Coffin) Cohen (1883-1949)      |
+| Sibling(s) | Anna Mae (Cohen) Mays (1904-1936) <br>[[Furniss "Florence" (Cohen) Hall Williams Walker]] (1906-1980)     |
+| Spouse     | [[Cornelius "Nebe" Gilchrist Johnson]] (1906-1966)     |
+| Children   | Raymond C. Johnson (1938-1975) <br>Frederick Henry Johnson (1941-1984)     |
 
 # Biography
 

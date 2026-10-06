@@ -8,11 +8,11 @@ tags:
 
 | Relation   | Name |
 | ---------- | ---- |
-| Father     |      |
-| Mother     |      |
-| Sibling(s) |      |
-| Spouse     |      |
-| Children   |      |
+| Father     | ? Johnson   |
+| Mother     | Hannah (?) Johnson (1883-?)    |
+| Sibling(s) | Lawrence William Johnson (1899-1966)     |
+| Spouse     | [[Helen Marie (Cohen) Johnson]] (1904-1978)     |
+| Children   | Raymond C. Johnson (1938-1975) <br>Frederick Henry Johnson (1941-1984)     |
 
 # Biography
 

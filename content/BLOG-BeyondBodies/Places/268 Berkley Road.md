@@ -21,11 +21,11 @@ My rental home for the 2025-2026 academic year.
 	- COST: Furnace = $250; Dwelling = $5,500
 
 - **1926-02-28** | FOR SALE - Open House
-	- “Open Today, 2 to 5. 268 Berkley road: first street north of 43d, near new Butler University. $11,500–$1,000 DOWN buys this new 6-room modern home; CENTER HALL, open stairs; EXTRA BIG living room, opens onto rear porch; fireplace, convenient kitchen, refrigerator room and breakfast nook; 3 bedrooms, one is a MASTER ROOM; abundance of closets ad ELECTRICAL OUTLETS, MIRROR DOORS, tile bath, pedestal stand; double garage, corner lot (just the place to have a sunken garden), near bus lines, stores, etc. An outstanding value. F.B. MARSH & CO., REALTORS. LIn.4576   724 Continental Bank bldg.”
+	- “Open Today, 2 to 5. 268 Berkley road: first street north of 43d, near new Butler University. $11,500–$1,000 DOWN buys this new 6-room modern home; CENTER HALL, open stairs; EXTRA BIG living room, opens onto rear porch; fireplace, convenient kitchen, refrigerator room and breakfast nook; 3 bedrooms, one is a MASTER ROOM; abundance of closets ad ELECTRICAL OUTLETS, MIRROR DOORS, tile bath, pedestal stand; double garage, corner lot (just the place to have a sunken garden), near bus lines, stores, etc. An outstanding value. F.B. MARSH & CO., REALTORS. LIn.4576  724 Continental Bank bldg.”
 > ![The Indianapolis Star, pg.18](https://img.newspapers.com/img/img?id=104880011&clippingId=184912782&width=636&height=495&user=16033674)
 
 - **1926-03-26** | PURCHASE by the BAKERs
-	- “Wendell A. Baker has purchased a two-story colonial residence at 268 Berkley road from Dr. George T. Earhart through Frank B. Marsh of Marsh & Co., Continental Bank building. The consideration was about $12,500.”
+	- “[[Wendell Anthony Baker|Wendell A. Baker]] has purchased a two-story colonial residence at 268 Berkley road from Dr. George T. Earhart through Frank B. Marsh of Marsh & Co., Continental Bank building. The consideration was about $12,500.”
 > ![The Indianapolis Star, pg.24](https://img.newspapers.com/img/img?id=104878082&clippingId=184912850&width=634&height=266&user=16033674)
 
 - **1939-08-06** | ADVERTISEMENT w/ IMAGE

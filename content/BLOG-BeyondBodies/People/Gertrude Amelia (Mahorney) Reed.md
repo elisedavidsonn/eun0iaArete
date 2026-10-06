@@ -9,11 +9,11 @@ tags:
 
 | Relation   | Name |
 | ---------- | ---- |
-| Father     |      |
-| Mother     |      |
-| Sibling(s) |      |
-| Spouse     |      |
-| Children   |      |
+| Father     | John Todd Mahorney Sr. (1829-1890)     |
+| Mother     | Ann Elizabeth (Gray) Mahorney (1834-1904)    |
+| Sibling(s) | John Joseph “JJ” Mahorney Jr. (1871-1892) <br>Emma E. Mahorney (1865-1865) <br>George E. Mahorney (1865-1865)    |
+| Spouse     | Charles “Charlie” Augustus Reed (1890-1942)     |
+| Children   | N/A     |
 
 # Biography
 

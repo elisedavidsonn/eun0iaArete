@@ -163,6 +163,12 @@
       "commit": "874712a9910299b906606c885ea1fe9602114ca7",
       "installedAt": "2026-05-26T22:38:03.021Z"
     },
+    "obsidian-dataview-serializer": {
+      "source": "https://github.com/dsebastien/obsidian-dataview-serializer",
+      "resolved": "https://github.com/dsebastien/obsidian-dataview-serializer",
+      "commit": "380d8ae3c1b05f8149e0ddf662c3eae88c5fa102",
+      "installedAt": "2026-09-21T20:58:59.687Z"
+    },
     "obsidian-flavored-markdown": {
       "source": "github:quartz-community/obsidian-flavored-markdown",
       "resolved": "https://github.com/quartz-community/obsidian-flavored-markdown.git",

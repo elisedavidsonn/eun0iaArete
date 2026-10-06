@@ -9,6 +9,17 @@ modified:
 > 
 > **Arete** ★ _noun_  
 > the notion of excellence; the fulfillment of purpose or function.
+
+```dataview
+LIST
+FROM "BLOG-BeyondBodies" AND "BLOG-BeyondBodies/People" AND !"BLOG-BeyondBodies/People/index" 
+SORT file.mtime DESC
+LIMIT 10
+```
+
+
+- - -
+
 # Welcome!
 
 My name is Eli(se) Davidson. I am an aspiring local archivist, genealogist, and storyteller with B.A.s in Anthropology and English Literary Theory, located in the Midwest. Much of my research has been personally fueled by a passion to comprehend this life through the minds of many. I spend many hours between various networks investigating the often unspoken connections that make our lives all the more human. 

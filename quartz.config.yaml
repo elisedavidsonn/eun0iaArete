@@ -300,6 +300,10 @@ plugins:
     enabled: true
     options: {}
     order: 35
+  - source: https://github.com/dsebastien/obsidian-dataview-serializer
+    enabled: true
+    options: {}
+    order: 50
 layout:
   groups:
     toolbar:
