@@ -304,6 +304,13 @@ plugins:
     enabled: true
     options: {}
     order: 50
+  - source: github:satche/quartz-navbar
+    enabled: true
+    options: {}
+    order: 50
+    layout:
+      position: right
+      priority: 50
 layout:
   groups:
     toolbar:

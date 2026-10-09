@@ -205,6 +205,12 @@
       "commit": "789ae2093ef1cfa304954966708c614e653a7910",
       "installedAt": "2026-07-02T05:38:34.252Z"
     },
+    "quartz-navbar": {
+      "source": "github:satche/quartz-navbar",
+      "resolved": "https://github.com/satche/quartz-navbar.git",
+      "commit": "b62e37616a1cc08451ff2f4e6f07d39963f61140",
+      "installedAt": "2026-10-09T21:12:32.195Z"
+    },
     "reader-mode": {
       "source": "github:quartz-community/reader-mode",
       "resolved": "https://github.com/quartz-community/reader-mode.git",
