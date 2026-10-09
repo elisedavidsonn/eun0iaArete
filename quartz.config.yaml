@@ -1,7 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
   pageTitle: Eun0iaArete
-  pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
   analytics:
@@ -300,17 +299,6 @@ plugins:
     enabled: true
     options: {}
     order: 35
-  - source: https://github.com/dsebastien/obsidian-dataview-serializer
-    enabled: true
-    options: {}
-    order: 50
-  - source: github:satche/quartz-navbar
-    enabled: true
-    options: {}
-    order: 50
-    layout:
-      position: right
-      priority: 50
 layout:
   groups:
     toolbar:
