@@ -7,8 +7,8 @@ tags:
   - bb-wip
 ---
 
-> [!todo] Upcoming Modifications
-> - [ ] Captions to all images (+formating)
+> [!todo] TO-DO
+> - [ ] Captions to all images (+ consistent formating)
 > - [ ] Cite all images & add to attachments (w/ captions + hyperlinks)
 
 > [!column|flex 2]
@@ -36,7 +36,7 @@ Viola (Turner) Mays built her life within classrooms defined by racism, limited 
 
 ---
 
-Born on March 31st, 1910 to William Grant Turner, Sr. and Sarah Frances (Hammond) Turner in Lebanon, St. Clair, Illinois, Viola was the youngest of seven children. ==… \[born in Illinois, beyond the south; midwest region]== a nation still defining the boundaries of Jim Crow Laws.[^1] Her childhood unfolded in our world where Black existence and advancement required constant negotiation between self, law, and white resistance.
+Born on March 31st, 1910 to William Grant Turner, Sr. and Sarah Frances (Hammond) Turner in Lebanon, St. Clair, Illinois, Viola was the youngest of seven children. ==… [born in Illinois, beyond the south; midwest region]== a nation still defining the boundaries of Jim Crow Laws.[^1] Her childhood unfolded in our world where Black existence and advancement required constant negotiation between self, law, and white resistance.
 
 > [!column]
 >
@@ -142,7 +142,7 @@ In February of 1956, Mrs. Viola Mays sponsored the formation of the Gloria Locke
 > >
 > > ![[_meta/_attachments/1955-VTM_GLWinner.png|center]]
 > >
-> > <center>The Indianapolis Recorder, ([HoosierStateChronicles.com](https://newspapers.library.in.gov/?a=d\&d=INR19551029-01.1.10\&srpos=1\&e=-------en-20--1--txt-txIN-%22gloria+lockerman+spelling+club%22------))<center> 
+> > The Indianapolis Recorder, [HoosierStateChronicles.com](https://newspapers.library.in.gov/?a=d\&d=INR19551029-01.1.10\&srpos=1\&e=-------en-20--1--txt-txIN-%22gloria+lockerman+spelling+club%22------) 
 > > <center>October 29, 1955<center>
 >
 > > [!callout|clean no-t center txt-r]
@@ -197,7 +197,7 @@ After her death, Willard "Mike" Briley Ransom[^24], the son of Civil Rights lead
 > >
 > > ![[_meta/_attachments/1963-VTM_Obituary.png|relative wmed]]
 
-Viola's obituary described her as the president of the Indianapolis Reading Club & Council, noting her engagements at the University of Chicago and New York State.[^26] ==While documentation is limited, I believe that she is pictured alongside Miss Ora Skelton-Willet in the below photograph of the Fortnightly Literary Book Club, 25th Anniversary. This photograph is on display in plaque within the "breakroom" of [[Butler University#Irwin Library]] at [[Butler University]].==
+Viola's obituary described her as the president of the Indianapolis Reading Club & Council, noting her engagements at the University of Chicago and New York State.[^26] While documentation is limited, I believe that she is pictured alongside Miss Ora Skelton-Willet in the below photograph of the Fortnightly Literary Book Club, 25th Anniversary. This photograph is on display in plaque within the "breakroom" of [[Butler University#Irwin Library|Irwin Library]] at [[Butler University]].
 
 > [!callout|clean no-t txt-c]
 > ![[_meta/_attachments/1948_VTM-FortnightlyLiteraryBookClub.png|wm-tl center]]

@@ -1,9 +1,10 @@
 ---
 publish: true
 ---
+## Contact Me!
 
->[!callout|no-t clean txt-c] 
->★ [[Philosophies]] | [[Portfolio/index|Portfolio]] ★
+> **Email:** davidsone2022@gmail.com
+> **LinkedIn:** www.linkedin.com/in/eli-se001
 
 - - - 
 
@@ -19,6 +20,7 @@ publish: true
 **Thesis Publication:** ["*Dis/Remembrance: Expressions of Intergenerational Memory and Where Legacy Lingers: American Warfare, 50 Years from Saigon.*"](https://digitalcommons.butler.edu/cgi/viewcontent.cgi?article=1813&context=ugtheses)
 - An interdisciplinary inquiry with use of ethnography into military & civil warfare, trauma, & memory, and oral storytelling between generations and kinship. 
 - Presented in-person at the *2025 American Folklore Society (AFS) Conference* in Atlanta, GA. 
+
 > *Note: Continuing theoretical foundations and ethnographic research for revisions.* 
 
 ### Course Experience
