@@ -2,7 +2,8 @@
 publish: true
 ---
 
-<center>★ [[Philosophies]] | [[Portfolio/index|Portfolio]] ★</center>
+>[!callout|no-t clean txt-c] 
+>★ [[Philosophies]] | [[Portfolio/index|Portfolio]] ★
 
 - - - 
 
