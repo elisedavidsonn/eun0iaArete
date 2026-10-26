@@ -2,10 +2,7 @@
 publish: true
 ---
 
-★ [[Philosophies]] | [[Portfolio/index|Portfolio]] ★
-
-
-
+<center>★ [[Philosophies]] | [[Portfolio/index|Portfolio]] ★</center>
 
 - - - 
 
@@ -25,12 +22,12 @@ publish: true
 
 ### Course Experience
 
->[!callout|clean]
+>[!callout|no-t clean]
 >**Project Name:** [Talks and Tours of Butler-Tarkington](https://butlertarkington.wordpress.com/)
 >- **Description:** A WordPress site compiled for AN352: Ethnography with Dr. Susan Hyatt. Contains "go-along tours" of historic Butler-Tarkington and student-written blog posts.
 >- **Skills:** WordPress, HTML, Project Management
 
->[!callout|clean]
+>[!callout|no-t clean]
 >**Project Name:** A Family of Black Educators in Indianapolis: Beyond Blood
 >- **Description:** An in-depth look into the lives of three amazing women who taught for decades in the Indianapolis Public System. Honoring not only them, but the lives transformed by their teaching. Final **blog post ([here](https://butlertarkington.wordpress.com/2025/12/05/a-family-of-black-educators-beyond-blood-the-legacy-of-mrs-viola-mays/))** focused on the “Legacy of Mrs. Viola Mays.”
 >> - [[Viola Nora (Turner) Bentley Mays|Mrs. Viola Nora (Turner) Bentley Mays]]
@@ -61,7 +58,7 @@ publish: true
 > - Includes: genealogical, geographical, archeological, and archival findings from LaJulia’s autobiography, located in the Library of Congress (LOC) in Washington, DC. *Currently pursuing funds for in-person research.*
 > > *See:* [[2025-La Julia Rhea, Honoring Her Historic Home]]
 
->[!callout|clean]
+>[!callout|no-t clean]
 >**[☆ WIP ☆] Title:** History & Genealogy of Indianapolis’ Black Heritage
 > **Company:** Independent Research Project
 > **Location:** Remote
